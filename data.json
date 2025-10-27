@@ -16,7 +16,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Disque dur SATA 3.5\" vidéosurveillance"
+    "technologie": "Disque dur SATA 3.5\" vidéosurveillance",
+    "productref": "STXXXX"
   },
   {
     "title": "Switch PoE 8 ports - PFS3110-8ET-96",
@@ -35,7 +36,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "PoE Fast Ethernet non manageable L2"
+    "technologie": "PoE Fast Ethernet non manageable L2",
+    "productref": "PFS3110-8ET-96"
   },
   {
     "title": "Switch 5 ports Gigabit - PFS3005-5GT",
@@ -54,7 +56,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Gigabit non manageable L2"
+    "technologie": "Gigabit non manageable L2",
+    "productref": "PFS3005-5GT"
   },
   {
     "title": "Enregistreur DVR 32 canaux - XVR5432L-I3",
@@ -73,7 +76,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": ""
   },
   {
     "title": "Enregistreur DVR 16 canaux - XVR5116H-4KL-I3",
@@ -92,7 +96,8 @@
     "environnement": "",
     "iacamera": "SMD+, périmètre, reconnaissance, QuickPick, IA vidéo",
     "micro": "4 entrées / 1 sortie RCA, compression G.711u",
-    "technologie": "DVR hybride HDCVI/TVI/AHD/CVBS/IP"
+    "technologie": "DVR hybride HDCVI/TVI/AHD/CVBS/IP",
+    "productref": "XVR5116H-4KL-I3"
   },
   {
     "title": "Enregistreur DVR 8 canaux - XVR5108HS-4KL-I3",
@@ -111,7 +116,8 @@
     "environnement": "",
     "iacamera": "SMD+, reconnaissance faciale, périmètre, QuickPick 2.0, IA vidéo",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "DVR hybride HDCVI/TVI/AHD/CVBS/IP"
+    "technologie": "DVR hybride HDCVI/TVI/AHD/CVBS/IP",
+    "productref": "XVR5108HS-4KL-I3"
   },
   {
     "title": "Enregistreur DVR 4 canaux - XVR5104HS-4KL-I3",
@@ -130,7 +136,8 @@
     "environnement": "",
     "iacamera": "SMD+, reconnaissance faciale, périmètre, QuickPick 2.0",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "DVR hybride HDCVI/TVI/AHD/CVBS/IP"
+    "technologie": "DVR hybride HDCVI/TVI/AHD/CVBS/IP",
+    "productref": "XVR5104HS-4KL-I3"
   },
   {
     "title": "Enregistreur NVR 16 canaux - DHI-NVR5216-EI",
@@ -149,7 +156,8 @@
     "environnement": "",
     "iacamera": "AcuPick, ANPR, métadonnées, reconnaissance, IA caméra + enregistreur",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "NVR WizSense"
+    "technologie": "NVR WizSense",
+    "productref": "DHI-NVR5216-E"
   },
   {
     "title": "Enregistreur NVR 16 canaux Poe - DHI-NVR5216-16P-EI",
@@ -168,7 +176,8 @@
     "environnement": "",
     "iacamera": "AcuPick, SMD+, Reconnaissance, ANPR, métadonnées, IA caméra & NVR",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "NVR WizSense"
+    "technologie": "NVR WizSense",
+    "productref": "DHI-NVR5216-16P-EI"
   },
   {
     "title": "Enregistreur NVR 16 canaux Poe - DHI-NVR4216-16P-4KS3",
@@ -187,7 +196,8 @@
     "environnement": "",
     "iacamera": "SMD Plus (via enregistreur), IA caméra : visage, périmètre, comptage, heatmap",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "NVR Lite Series"
+    "technologie": "NVR Lite Series",
+    "productref": "DHI-NVR4216-16P-4KS3"
   },
   {
     "title": "Enregistreur NVR 8 canaux Poe - DHI-NVR5208-8P-EI",
@@ -206,7 +216,8 @@
     "environnement": "",
     "iacamera": "AcuPick, SMD+, IA caméra & NVR, ANPR, métadonnées",
     "micro": "Oui",
-    "technologie": "NVR WizSense"
+    "technologie": "NVR WizSense",
+    "productref": "DHI-NVR5208-8P-EI"
   },
   {
     "title": "Enregistreur NVR 8 canaux Poe - DHI-NVR4108HS-8P-EI",
@@ -225,7 +236,8 @@
     "environnement": "",
     "iacamera": "Détection faciale, périmètre, comptage, ANPR, Quick Pick",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "NVR WizSense"
+    "technologie": "NVR WizSense",
+    "productref": "NVR4108HS-8P-EI"
   },
   {
     "title": "Enregistreur NVR 8 canaux Poe - DHI-NVR4108HS-8P-4KS3",
@@ -244,7 +256,8 @@
     "environnement": "",
     "iacamera": "SMD Plus par enregistreur, IA caméra : visage, périmètre, comptage, heatmap",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "NVR Lite Series"
+    "technologie": "NVR Lite Series",
+    "productref": "DHI-NVR4108HS-8P-4KS3"
   },
   {
     "title": "Enregistreur NVR 4 canaux Poe - DHI-NVR4104HS-P-EI",
@@ -263,7 +276,8 @@
     "environnement": "",
     "iacamera": "Détection humaine/véhicule, reconnaissance faciale, Quick Pick, SMD+, ANPR",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "NVR WizSense"
+    "technologie": "NVR WizSense",
+    "productref": "DHI-NVR4104HS-P-EI"
   },
   {
     "title": "Enregistreur NVR 4 canaux DHI-NVR4104HS-P-4KS3",
@@ -282,7 +296,8 @@
     "environnement": "",
     "iacamera": "SMD+ par enregistreur – IA caméra : reconnaissance faciale, périmétrique, comptage",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "NVR Lite Series avec ports PoE"
+    "technologie": "NVR Lite Series avec ports PoE",
+    "productref": "DHI-NVR4104HS-P-4KS3"
   },
   {
     "title": "Enregistreur NVR 4 canaux DHI-NVR4104HS-4KS3(960GB)",
@@ -301,7 +316,8 @@
     "environnement": "",
     "iacamera": "SMD Plus (enregistreur), IA avancée caméra : détection visage, reconnaissance faciale, protection périmétrique",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "NVR SSD Lite Series"
+    "technologie": "NVR SSD Lite Series",
+    "productref": "DHI-NVR4104HS-4KS3"
   },
   {
     "title": "Caméra dome - IPC-HDBW3541FP-AS-S2",
@@ -320,7 +336,8 @@
     "environnement": "",
     "iacamera": "SMD 4.0, AI SSA, détection humaine/véhicule (tripwire, intrusion)",
     "micro": "Oui",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": "DH-IPC-HDBW3541F-AS-S2"
   },
   {
     "title": "Support d'angle PFA156",
@@ -339,7 +356,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "PFA151"
   },
   {
     "title": "Support mural PFB206W",
@@ -358,7 +376,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "PFB206W"
   },
   {
     "title": "Boîte de Jonction PFA197R",
@@ -377,7 +396,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "PFA197R"
   },
   {
     "title": "Support mural PFB205WE",
@@ -396,7 +416,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "PFB205W-E"
   },
   {
     "title": "Boîte de Jonction PFA136",
@@ -415,7 +436,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "PFA136"
   },
   {
     "title": "Caméra dome - IPC-HDW2449TM-S-IL",
@@ -434,7 +456,8 @@
     "environnement": "",
     "iacamera": "Détection périmétrique, SMD Plus (classification humains/véhicules)",
     "micro": "Oui",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": "IPC-HDW2449TM-S-IL"
   },
   {
     "title": "Caméra dome - HDBW5842EP-ZE-2712-DC12AC24V-S3",
@@ -453,7 +476,8 @@
     "environnement": "",
     "iacamera": "SMD 3.0, détection faciale, protection périmétrique, comptage de personnes, métadonnées vidéo, AcuPick, détection sonore",
     "micro": "Oui",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": "HDBW5842EP-ZE-2712-DC12AC24V-S3"
   },
   {
     "title": "Caméra dome - IPC-HDBW3549R1-ZAS-PV-S5",
@@ -472,7 +496,8 @@
     "environnement": "",
     "iacamera": "SMD 4.0, AI SSA, AcuPick, détection visage, détection périmétrique",
     "micro": "Oui",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": "IPC-HDBW3549R1-ZAS-PV-S5"
   },
   {
     "title": "Caméra dome - IPC-HDBW3849R1-ZAS-PV-S5",
@@ -491,7 +516,8 @@
     "environnement": "",
     "iacamera": "SMD 4.0, AI SSA, AcuPick, détection visage, périmètre",
     "micro": "Oui",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": "IPC-HDBW3849R1-ZAS-PV-S5"
   },
   {
     "title": "Caméra Bullet - IPC-HFW3849T1-ZAS-PV-S5",
@@ -510,7 +536,8 @@
     "environnement": "",
     "iacamera": "SMD 4.0, AI SSA, AcuPick, détection faciale",
     "micro": "Oui",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": "IPC-HFW3849T1-ZAS-PV-S5"
   },
   {
     "title": "Caméra Bullet - IPC-HFW3549T1-ZAS-PV-S5",
@@ -529,7 +556,8 @@
     "environnement": "",
     "iacamera": "SMD 4.0, AI SSA, détection périmétrique, AcuPick, détection visage",
     "micro": "Oui",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": "IPC-HFW3549T1-ZAS-PV-S5"
   },
   {
     "title": "Caméra Bullet - IPC-HFW3541T-ZS-S2",
@@ -548,7 +576,8 @@
     "environnement": "",
     "iacamera": "Détection humaine/véhicule, SMD 4.0, AI SSA",
     "micro": "Oui",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": "IPC-HFW3541T-ZS-S2"
   },
   {
     "title": "Alimentation 12V - PFM320D-EN",
@@ -567,7 +596,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "PFM320D-EN"
   },
   {
     "title": "Caméra Bullet - IPC-HFW3449E-AS-IL",
@@ -586,7 +616,8 @@
     "environnement": "",
     "iacamera": "Détection intelligente SMD 4.0, périmètre, visage",
     "micro": "Oui",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": "DH-IPC-HFW3449E-AS-IL"
   },
   {
     "title": "Boîte de Jonction PFA130-E",
@@ -605,7 +636,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "PFA-130-E"
   },
   {
     "title": "Caméra Bullet - IPC-HFW2441T-ZAS",
@@ -624,7 +656,8 @@
     "environnement": "",
     "iacamera": "détection humain/véhicule, périmètre, SMD Plus",
     "micro": "Oui",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": "IPC-HFW2441T-ZAS"
   },
   {
     "title": "Caméra Dôme - IPC-HDBW2441R-ZS",
@@ -643,7 +676,8 @@
     "environnement": "",
     "iacamera": "Détection avancée : Classification humains/véhicules",
     "micro": "Oui",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": "DH-IPC-HDBW2441RP-ZS-27135"
   },
   {
     "title": "Adaptateur secteur 12v",
@@ -662,7 +696,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "ADS-12FG"
   },
   {
     "title": "Support de montage encastré PFB200C",
@@ -681,7 +716,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "PFB200C"
   },
   {
     "title": "Support mural PFB203W",
@@ -700,7 +736,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "PFB203W"
   },
   {
     "title": "Support de montage PFA152E",
@@ -719,7 +756,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "PFA152E"
   },
   {
     "title": "Support d'angle PFA151",
@@ -738,7 +776,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "PFA151"
   },
   {
     "title": "Boîte de Jonction PFA137",
@@ -757,7 +796,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "PFA137"
   },
   {
     "title": "Écran 21,5\" FHD Haut-parleurs intégrés",
@@ -776,7 +816,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "DS-D5022F2-1V2S"
   },
   {
     "title": "Écran 21,5\" FHD",
@@ -795,7 +836,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "DS-D5022F2-1V2"
   },
   {
     "title": "Support mural pour écran inclinable",
@@ -814,7 +856,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "T1327"
   },
   {
     "title": "Support mural pour écran 2 articulations",
@@ -833,7 +876,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "H2342-2A"
   },
   {
     "title": "Support mural pour écran 1 articulation",
@@ -852,7 +896,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "H2342-1A"
   },
   {
     "title": "Casquette Anti-Pluie",
@@ -871,7 +916,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "DS-1250Zj"
   },
   {
     "title": "Point d’accès Wi-Fi",
@@ -890,7 +936,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "APACPRO"
   },
   {
     "title": "Pont-Antenne Wi-Fi 5 GHz longue portée",
@@ -909,7 +956,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "NBE-5AC-GEN2"
   },
   {
     "title": "Câble réseau RJ45 Cat6 FUTP",
@@ -928,7 +976,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "67xx"
   },
   {
     "title": "Câble coaxial KX6 + alimentation 2×0.75 mm²",
@@ -947,7 +996,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "169205-xx"
   },
   {
     "title": "Cordon RJ45 Cat6A S/FTP",
@@ -966,7 +1016,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "22xx"
   },
   {
     "title": "Écran 43 pouces Full HD",
@@ -985,7 +1036,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "LM43-F200"
   },
   {
     "title": "Écran 32 pouces Full HD",
@@ -1004,7 +1056,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "LM32-F200"
   },
   {
     "title": "Écran 24 pouces Full HD",
@@ -1023,7 +1076,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "LM24-H200"
   },
   {
     "title": "Écran 21,5 pouces Full HD",
@@ -1042,7 +1096,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "LM22-H200"
   },
   {
     "title": "connecteur RJ45 blindé Coccinelle One Pouce® Cat6A",
@@ -1061,7 +1116,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "71009"
   },
   {
     "title": "Connecteur RJ45 Cat6A blindé toolless ONE PLUG",
@@ -1080,7 +1136,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "71638"
   },
   {
     "title": "Connecteur RJ45 Cat6 UTP traversant à sertir lot de 50 pcs",
@@ -1099,7 +1156,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "940504-K05"
   },
   {
     "title": "Pince à sertir",
@@ -1118,7 +1176,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "999070-B0"
   },
   {
     "title": "Connecteur BNC mâle à sertir lot de 30 pcs",
@@ -1137,7 +1196,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "970205-K03"
   },
   {
     "title": "Connecteur DC mâle 5.5/2.1 mm lot de 30 Pcs",
@@ -1156,7 +1216,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "960101-K03"
   },
   {
     "title": "câble d’alimentation secteur 220 V",
@@ -1175,7 +1236,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "Powercable"
   },
   {
     "title": "Adaptateur et Injecteur PoE RJ45",
@@ -1194,7 +1256,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "LAS60-57CN-RJ45"
   },
   {
     "title": "Alimentation Miniature 230V / 12V",
@@ -1213,7 +1276,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "PSEWB1201.5"
   },
   {
     "title": "Boîtier d’alimentation 9 sorties 12V/10A DC",
@@ -1232,7 +1296,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "PFM342-9CH"
   },
   {
     "title": "Boîtier d’alimentation 5 sorties 12V/4A DC",
@@ -1251,7 +1316,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "PFM340-5CH"
   },
   {
     "title": "Onduleur Zen Live 1000 VA",
@@ -1270,7 +1336,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "66084N1"
   },
   {
     "title": "Onduleur Z1 ZenCube EX 600 VA",
@@ -1289,7 +1356,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "66073"
   },
   {
     "title": "Support mural DS-1272ZJ-110-TRS",
@@ -1308,7 +1376,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "DS-1272ZJ-110-TRS"
   },
   {
     "title": "Boite de Jonction DS-1280ZJ-DM18",
@@ -1327,7 +1396,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "DS-1280ZJ-DM18"
   },
   {
     "title": "Boîte de Jonction DS-1281ZJ-DM23",
@@ -1346,7 +1416,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "DS-1281ZJ-DM23"
   },
   {
     "title": "Boîte de Jonction DS 1280ZJ TR13",
@@ -1365,7 +1436,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "DS-1280ZJ-TR13"
   },
   {
     "title": "Boîte de Jonction DS-1280ZJ-DM45",
@@ -1384,7 +1456,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "DS-1280ZJ-DM45"
   },
   {
     "title": "Support de Montage DS-1275ZJ-S-SUS",
@@ -1403,7 +1476,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "DS-1275ZJ-S-SUS"
   },
   {
     "title": "Support Mural DS-1273ZJ-140-DM45",
@@ -1422,7 +1496,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "DS-1273ZJ-140-DM45"
   },
   {
     "title": "Boîte de Jonction DS-1260ZJ",
@@ -1441,7 +1516,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "DS-1260ZJ"
   },
   {
     "title": "Support de montage encastré DS-1227ZJ",
@@ -1460,7 +1536,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "DS-1227ZJ"
   },
   {
     "title": "Adaptateur de montage D20-Ap",
@@ -1479,7 +1556,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "D20-Ap"
   },
   {
     "title": "12–24 V PSU (type A)",
@@ -1498,7 +1576,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "59359.94.NC"
   },
   {
     "title": "6V PSU (type A)",
@@ -1517,7 +1596,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "38213.78.NC"
   },
   {
     "title": "MotionProtect Blanc",
@@ -1536,7 +1616,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": "38193.09.WH1"
   },
   {
     "title": "MultiTransmitter Noir",
@@ -1555,7 +1636,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": "38201.62.BL1"
   },
   {
     "title": "Holder pour Button/DoubleButton Blanc",
@@ -1574,7 +1656,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "38215.82.WH"
   },
   {
     "title": "Holder pour Button/DoubleButton Noir",
@@ -1593,7 +1676,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "38214.82.BL"
   },
   {
     "title": "Hood (MPO)",
@@ -1612,7 +1696,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "38216.60.WH"
   },
   {
     "title": "MultiTransmitter Blanc",
@@ -1631,7 +1716,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": "38200.62.WH1"
   },
   {
     "title": "VHFBRIDGE Blanc",
@@ -1650,7 +1736,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": "38186.92.WH1"
   },
   {
     "title": "VHFBRIDGE Noir",
@@ -1669,7 +1756,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": "38187.92.BL1"
   },
   {
     "title": "DIN Holder",
@@ -1688,7 +1776,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": "51170.132.BL"
   },
   {
     "title": "Transmitter",
@@ -1707,7 +1796,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": "38184.18.NC1"
   },
   {
     "title": "WallSwitch",
@@ -1726,7 +1816,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": "38189.13.BL1"
   },
   {
     "title": "Relay",
@@ -1745,7 +1836,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": "38204.19.NC1"
   },
   {
     "title": "HomeSiren Blanc",
@@ -1764,7 +1856,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": "38110.11.BL1"
   },
   {
     "title": "HomeSiren Noir",
@@ -1783,7 +1876,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": "38110.11.BL1"
   },
   {
     "title": "SpeakerPhone Blanc",
@@ -1802,7 +1896,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": "87530.180.WH1"
   },
   {
     "title": "SpeakerPhone Noir",
@@ -1821,7 +1916,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": "87531.180.BL1"
   },
   {
     "title": "StreetSiren DoubleDeck Blanc",
@@ -1840,7 +1936,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": "38180.61.WH1"
   },
   {
     "title": "StreetSiren DoubleDeck Noir",
@@ -1859,7 +1956,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": "38181.61.BL1"
   },
   {
     "title": "StreetSiren Blanc",
@@ -1878,7 +1976,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": "38178.07.WH1"
   },
   {
     "title": "StreetSiren Noir",
@@ -1897,7 +1996,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": "38179.07.BL1"
   },
   {
     "title": "Tag (3pcs) Blanc",
@@ -1916,7 +2016,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "DESFire®"
+    "technologie": "DESFire®",
+    "productref": ""
   },
   {
     "title": "Tag (3pcs) noir",
@@ -1935,7 +2036,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "DESFire®"
+    "technologie": "DESFire®",
+    "productref": ""
   },
   {
     "title": "Pass Blanc( Lots de 3 )",
@@ -1954,7 +2056,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "DESFire®"
+    "technologie": "DESFire®",
+    "productref": ""
   },
   {
     "title": "Pass Noir ( Lots de 3 )",
@@ -1973,7 +2076,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "DESFire®"
+    "technologie": "DESFire®",
+    "productref": ""
   },
   {
     "title": "Keypad Plus Blanc",
@@ -1992,7 +2096,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "Keypad Plus Noir",
@@ -2011,7 +2116,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "Keypad Blanc",
@@ -2030,7 +2136,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "Keypad Noir",
@@ -2049,7 +2156,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "KeyPad TouchScreen Blanc",
@@ -2068,7 +2176,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "KeyPad TouchScreen Noir",
@@ -2087,7 +2196,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "SpaceControl Blanc",
@@ -2106,7 +2216,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "SpaceControl Noir",
@@ -2125,7 +2236,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "DoubleButton Blanc",
@@ -2144,7 +2256,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "DoubleButton Noir",
@@ -2163,7 +2276,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "Button Blanc",
@@ -2182,7 +2296,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "Button noir",
@@ -2201,7 +2316,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "MotionCam Outdoor (PhOD) Blanc",
@@ -2220,7 +2336,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "MotionCam Outdoor Blanc",
@@ -2239,7 +2356,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "MotionProtect Outdoor Blanc",
@@ -2258,7 +2376,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "DualCurtain Outdoor Blanc",
@@ -2277,7 +2396,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "Curtain Outdoor Blanc",
@@ -2296,7 +2416,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "MotionProtect Curtain Blanc",
@@ -2315,7 +2436,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "MotionProtect Curtain Noir",
@@ -2334,7 +2456,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "MotionCam (PhOD) Blanc",
@@ -2353,7 +2476,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "MotionCam (PhOD) Noir",
@@ -2372,7 +2496,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "MotionCam Blanc",
@@ -2391,7 +2516,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "MotionCam Noir",
@@ -2410,7 +2536,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "CombiProtect Blanc",
@@ -2429,7 +2556,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "CombiProtect Noir",
@@ -2448,7 +2576,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "MotionProtect Plus Blanc",
@@ -2467,7 +2596,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "MotionProtect Plus Noir",
@@ -2486,7 +2616,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "MotionProtect Noir",
@@ -2505,7 +2636,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "GlassProtect Blanc",
@@ -2524,7 +2656,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "GlassProtect Noir",
@@ -2543,7 +2676,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "DoorProtect Plus Blanc",
@@ -2562,7 +2696,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "DoorProtect Plus Noir",
@@ -2581,7 +2716,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "DoorProtect Blanc",
@@ -2600,7 +2736,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "DoorProtect Noir",
@@ -2619,7 +2756,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "ReX 2 Blanc",
@@ -2638,7 +2776,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "ReX 2 Noir",
@@ -2657,7 +2796,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "ReX Blanc",
@@ -2676,7 +2816,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "ReX Noir",
@@ -2695,7 +2836,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "Hub 2 Plus Blanc",
@@ -2714,7 +2856,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "Hub 2 Plus Noir",
@@ -2733,7 +2876,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "Hub 2 (4G) Blanc",
@@ -2752,7 +2896,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "Hub 2 (4G) Noir",
@@ -2771,7 +2916,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "Hub 2 (2G) Blanc",
@@ -2790,7 +2936,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "Hub 2 (2G) Noir",
@@ -2809,7 +2956,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "Switch PoE Gigabit 20 ports DS-3E0520HP-E",
@@ -2828,7 +2976,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "PoE Gigabit non manageable L2"
+    "technologie": "PoE Gigabit non manageable L2",
+    "productref": ""
   },
   {
     "title": "Switch PoE Gigabit 10 ports DS-3E0510HP-E",
@@ -2847,7 +2996,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "PoE Gigabit non manageable L2"
+    "technologie": "PoE Gigabit non manageable L2",
+    "productref": ""
   },
   {
     "title": "Switch PoE Gigabit 5 ports DS-3E0505HP-E",
@@ -2866,7 +3016,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "PoE Gigabit non manageable L2"
+    "technologie": "PoE Gigabit non manageable L2",
+    "productref": ""
   },
   {
     "title": "Enregistreur NVR 16 canaux DS-7616NXI-I2/S (E)",
@@ -2885,7 +3036,8 @@
     "environnement": "",
     "iacamera": "Détection avancée avec classification humaine/véhicule - Reconnaissance faciale - ANPR (Reconnaissance des plaques d’immatriculation)",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "NVR AcuSense"
+    "technologie": "NVR AcuSense",
+    "productref": ""
   },
   {
     "title": "Enregistreur NVR 16 canaux DS-7616NXI-K2/16P (D)",
@@ -2904,7 +3056,8 @@
     "environnement": "",
     "iacamera": "Détection avancée avec classification humaine/véhicule - Reconnaissance faciale",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "NVR AcuSense"
+    "technologie": "NVR AcuSense",
+    "productref": ""
   },
   {
     "title": "Enregistreur NVR 8 canaux DS-7608NXI-K1/8P",
@@ -2923,7 +3076,8 @@
     "environnement": "",
     "iacamera": "Détection avancée avec classification humaine/véhicule - Reconnaissance faciale",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "NVR AcuSense"
+    "technologie": "NVR AcuSense",
+    "productref": ""
   },
   {
     "title": "Enregistreur NVR 4 canaux DS-7604NXI-K1/4P",
@@ -2942,7 +3096,8 @@
     "environnement": "",
     "iacamera": "Détection avancée avec classification humaine/véhicule - Reconnaissance faciale",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "NVR AcuSense"
+    "technologie": "NVR AcuSense",
+    "productref": ""
   },
   {
     "title": "Boîte de Jonction DS-1280ZJ-DM46",
@@ -2961,7 +3116,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": ""
   },
   {
     "title": "Support mural DS-1273ZJ-135 pour caméras dômes",
@@ -2980,7 +3136,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": ""
   },
   {
     "title": "Boîte de Jonction DS-1280ZJ-XS",
@@ -2999,7 +3156,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": ""
   },
   {
     "title": "Support de Montage DS-1275ZJ-SUS",
@@ -3018,7 +3176,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": ""
   },
   {
     "title": "Boîte de Jonction DS-1280ZJ-DM21",
@@ -3037,7 +3196,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": ""
   },
   {
     "title": "Support d’angle DS-1276ZJ-SUS",
@@ -3056,7 +3216,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": ""
   },
   {
     "title": "Boîte de Jonction DS-1280ZJ-S",
@@ -3075,7 +3236,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": ""
   },
   {
     "title": "Caméra Mini Dôme - DS-2CD2546G2-I(S)",
@@ -3094,7 +3256,8 @@
     "environnement": "",
     "iacamera": "Détection avancée : Classification humains/véhicules",
     "micro": "Oui",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": ""
   },
   {
     "title": "Caméra Dôme - DS-2CD2143G2-IS",
@@ -3113,7 +3276,8 @@
     "environnement": "",
     "iacamera": "Détection avancée : Classification humains/véhicules",
     "micro": "Oui",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": ""
   },
   {
     "title": "Caméra Dôme - DS-2CD1743G2-IZ",
@@ -3132,7 +3296,8 @@
     "environnement": "",
     "iacamera": "Détection avancée : Classification humains/véhicules",
     "micro": "Non",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": ""
   },
   {
     "title": "Caméra Bullet - DS-2CD1643G2-IZ",
@@ -3151,7 +3316,8 @@
     "environnement": "",
     "iacamera": "Détection avancée : Classification humains/véhicules",
     "micro": "Oui",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": ""
   },
   {
     "title": "Enregistreur DVR 16 canaux - iDS-7216HQHI-M2/XT",
@@ -3170,7 +3336,8 @@
     "environnement": "",
     "iacamera": "Motion Detection 2.0 : Classification humaine/véhicule - Reconnaissance faciale",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "DVR Turbo HD AcuSense"
+    "technologie": "DVR Turbo HD AcuSense",
+    "productref": ""
   },
   {
     "title": "Enregistreur DVR 16 canaux - iDS-7216HQHI-M1/XT",
@@ -3189,7 +3356,8 @@
     "environnement": "",
     "iacamera": "Motion Detection 2.0 : Classification humaine/véhicule - Reconnaissance faciale",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "DVR Turbo HD AcuSense"
+    "technologie": "DVR Turbo HD AcuSense",
+    "productref": ""
   },
   {
     "title": "Enregistreur DVR 8 canaux - iDS-7208HUHI-M1/X",
@@ -3208,7 +3376,8 @@
     "environnement": "",
     "iacamera": "Motion Detection 2.0 : Classification humaine/véhicule - Reconnaissance faciale",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "DVR Turbo HD AcuSense"
+    "technologie": "DVR Turbo HD AcuSense",
+    "productref": ""
   },
   {
     "title": "Enregistreur DVR 8 canaux - iDS-7208HQHI-M1/XT",
@@ -3227,7 +3396,8 @@
     "environnement": "",
     "iacamera": "Motion Detection 2.0 : Classification humaine/véhicule - Reconnaissance faciale",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "DVR Turbo HD AcuSense"
+    "technologie": "DVR Turbo HD AcuSense",
+    "productref": ""
   },
   {
     "title": "Enregistreur DVR 4 canaux - iDS-7204HQHI-M1/XT",
@@ -3246,7 +3416,8 @@
     "environnement": "",
     "iacamera": "Motion Detection 2.0 : Classification humaine/véhicule -",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "DVR Turbo HD AcuSense"
+    "technologie": "DVR Turbo HD AcuSense",
+    "productref": ""
   },
   {
     "title": "Enregistreur DVR 16 canaux - iDS-7216HUHI-M2/P",
@@ -3265,7 +3436,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement avancée avec AcuSense (classification humains/véhicules)",
     "micro": "4 entrées / 1 sortie RCA, compression G.711u",
-    "technologie": "DVR Turbo HD AcuSense"
+    "technologie": "DVR Turbo HD AcuSense",
+    "productref": ""
   },
   {
     "title": "Enregistreur DVR 8 canaux - IDS-7208HUHI-M2",
@@ -3284,7 +3456,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement avancée avec AcuSense (classification humains/véhicules)",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
-    "technologie": "DVR Turbo HD AcuSense"
+    "technologie": "DVR Turbo HD AcuSense",
+    "productref": ""
   },
   {
     "title": "Caméra Dôme - DS-2CE5AH0T-VPIT3ZE",
@@ -3303,7 +3476,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement avec Smart IR",
     "micro": "Non",
-    "technologie": "Analogique"
+    "technologie": "Analogique",
+    "productref": ""
   },
   {
     "title": "Caméra Dôme - DS-2CE5AH0T-AVPIT3ZF",
@@ -3322,7 +3496,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement avec Smart IR",
     "micro": "Non",
-    "technologie": "Analogique"
+    "technologie": "Analogique",
+    "productref": ""
   },
   {
     "title": "Caméra Bullet DS-2CE17H0T-IT3F",
@@ -3341,7 +3516,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement avec Smart IR",
     "micro": "Non",
-    "technologie": "Analogique"
+    "technologie": "Analogique",
+    "productref": ""
   },
   {
     "title": "Caméra Bullet - DS-2CE16H0T-ITF(2.8mm)(C)",
@@ -3360,7 +3536,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement avec Smart IR",
     "micro": "Non",
-    "technologie": "Analogique"
+    "technologie": "Analogique",
+    "productref": ""
   },
   {
     "title": "Caméra Dôme - DS-2CE76H0T-ITMFS (2.8mm)",
@@ -3379,7 +3556,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement avec Smart IR",
     "micro": "Oui",
-    "technologie": "Analogique"
+    "technologie": "Analogique",
+    "productref": ""
   },
   {
     "title": "Caméra Bullet - DS-2CE16H0T-ITFS(2.8mm)",
@@ -3398,7 +3576,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement avec Smart IR",
     "micro": "Oui",
-    "technologie": "Analogique"
+    "technologie": "Analogique",
+    "productref": ""
   },
   {
     "title": "Caméra Dôme - DS-2CE76D0T-LMFS(2.8mm)",
@@ -3417,7 +3596,8 @@
     "environnement": "",
     "iacamera": "Smart IR, Audio up Coaxial",
     "micro": "Oui",
-    "technologie": "Analogique"
+    "technologie": "Analogique",
+    "productref": ""
   },
   {
     "title": "Caméra Dôme - DS-2CE76D0T-ITMF(2.8mm)(C)",
@@ -3436,7 +3616,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement avec classification : humains et véhicules.",
     "micro": "Non",
-    "technologie": "Analogique"
+    "technologie": "Analogique",
+    "productref": ""
   },
   {
     "title": "Caméra Dôme - DS-2CE56D0T-IT3F(2.8mm)(C)",
@@ -3455,7 +3636,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement avec classification : humains et véhicules",
     "micro": "Non",
-    "technologie": "Analogique"
+    "technologie": "Analogique",
+    "productref": ""
   },
   {
     "title": "Caméra Bullet - DS-2CE17D0T-IT5F (C)",
@@ -3474,7 +3656,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement avec classification : humains et véhicules",
     "micro": "Non",
-    "technologie": "Analogique"
+    "technologie": "Analogique",
+    "productref": ""
   },
   {
     "title": "Caméra Bullet - DS-2CE17D0T-IT3F(2.8mm)(C)",
@@ -3493,7 +3676,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement avec classification : humains et véhicules",
     "micro": "Oui",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": ""
   },
   {
     "title": "Caméra Bullet - DS-2CE16D0T-ITF(2.8mm)(C)",
@@ -3512,7 +3696,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement avec classification : humains et véhicules",
     "micro": "Non",
-    "technologie": "Réseau"
+    "technologie": "Réseau",
+    "productref": ""
   },
   {
     "title": "Starter Pack AJAX",
@@ -3531,7 +3716,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": "Protocoles radio"
+    "technologie": "Protocoles radio",
+    "productref": ""
   },
   {
     "title": "Pack Dahua 8 Caméras",
@@ -3550,7 +3736,8 @@
     "environnement": "",
     "iacamera": "Intrusion , ligne de détection",
     "micro": "Oui",
-    "technologie": "IP-Réseau"
+    "technologie": "IP-Réseau",
+    "productref": ""
   },
   {
     "title": "Pack Dahua 6 Caméras",
@@ -3569,7 +3756,8 @@
     "environnement": "",
     "iacamera": "Intrusion , Ligne de détection",
     "micro": "Oui",
-    "technologie": "IP-Réseau"
+    "technologie": "IP-Réseau",
+    "productref": ""
   },
   {
     "title": "Pack Dahua 4 Caméras",
@@ -3588,7 +3776,8 @@
     "environnement": "",
     "iacamera": "Intrusion, ligne de détection",
     "micro": "Oui",
-    "technologie": "IP-Reseau"
+    "technologie": "IP-Reseau",
+    "productref": ""
   },
   {
     "title": "Switch ethernet PoE 6 ports (4+2)",
@@ -3607,7 +3796,8 @@
     "environnement": "",
     "iacamera": "",
     "micro": "",
-    "technologie": ""
+    "technologie": "",
+    "productref": ""
   },
   {
     "title": "Caméra dôme 2 MP avec micro intégré",
@@ -3626,7 +3816,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement 2.0 avec classification humains et véhicules",
     "micro": "Oui",
-    "technologie": "Caméra IP - Reseau"
+    "technologie": "Caméra IP - Reseau",
+    "productref": ""
   },
   {
     "title": "Caméra réseau à dôme fixe ColorVu MD 2.0 2 MP",
@@ -3645,7 +3836,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement 2.0 avec classification des humains et des véhicules appliquée à la détection de mouvement.",
     "micro": "Oui",
-    "technologie": "Caméra IP"
+    "technologie": "Caméra IP",
+    "productref": ""
   },
   {
     "title": "Caméra réseau à Dome fixe ColorVu MD 2.0 2 MP",
@@ -3664,7 +3856,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement 2.0 avec classification d'humains et de véhicules",
     "micro": "Non",
-    "technologie": "Camera IP"
+    "technologie": "Camera IP",
+    "productref": ""
   },
   {
     "title": "Caméra dôme 2 MP avec objectif 4 mm, H.265+",
@@ -3683,7 +3876,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement 2.0 avec classification d'humains et de véhicules appliquée à la détection de mouvement.",
     "micro": "Non",
-    "technologie": "Caméra IP"
+    "technologie": "Caméra IP",
+    "productref": ""
   },
   {
     "title": "Caméra bullet fixe 2 MP, H.265+, IR 30m, IP67",
@@ -3702,7 +3896,8 @@
     "environnement": "",
     "iacamera": "N/D",
     "micro": "Non",
-    "technologie": "Caméra IP"
+    "technologie": "Caméra IP",
+    "productref": ""
   },
   {
     "title": "Caméra dôme fixe 2 MP, H.265+, IR 30m, IP67",
@@ -3721,7 +3916,8 @@
     "environnement": "",
     "iacamera": "N/D",
     "micro": "Non",
-    "technologie": "Caméra IP"
+    "technologie": "Caméra IP",
+    "productref": ""
   },
   {
     "title": "Caméra réseau Bullet fixe MD 2.0 4 MP",
@@ -3740,7 +3936,8 @@
     "environnement": "",
     "iacamera": "DeepInView, Protection périmétrique, Lecture de plaque",
     "micro": "Non",
-    "technologie": "Caméra IP"
+    "technologie": "Caméra IP",
+    "productref": ""
   },
   {
     "title": "Caméra dôme 2 MP avec objectif 2.8 mm, H.265+",
@@ -3759,7 +3956,8 @@
     "environnement": "",
     "iacamera": "Détection de mouvement 2.0 avec classification humains et véhicules",
     "micro": "Non",
-    "technologie": "Caméra IP - Reseau"
+    "technologie": "Caméra IP - Reseau",
+    "productref": ""
   },
   {
     "title": "Caméra réseau dome fixe MD 2.0 2 MP",
@@ -3778,6 +3976,7 @@
     "environnement": "",
     "iacamera": "Détection de mouvement 2.0 avec classification des humains et des véhicules appliquée à la détection de mouvement.",
     "micro": "Non",
-    "technologie": "Caméra IP"
+    "technologie": "Caméra IP",
+    "productref": ""
   }
 ]
