@@ -17,7 +17,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Disque dur SATA 3.5\" vidéosurveillance",
-    "productref": "STXXXX"
+    "productref": "STXXXX",
+    "altwords": "disc dur, disque dure, disque du, disuqe dur, disque ddur, dd, hdd, disque hdd, disque sata, disc hdd, disk dur, disque video, disque enregistreur , HDD, disque de stockage, disque SATA, disque de vidéosurveillance, disque interne, disque dur NVR, disque dur DVR, disque dur 1To, disque dur 2To, disque dur To, disque dur Seagate SkyHawk, disque dur Western Digital Purple, disque de sauvegarde, disque dur pour enregistreur, disque dur surveillance, HDD caméra"
   },
   {
     "title": "Switch PoE 8 ports - PFS3110-8ET-96",
@@ -37,7 +38,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "PoE Fast Ethernet non manageable L2",
-    "productref": "PFS3110-8ET-96"
+    "productref": "PFS3110-8ET-96",
+    "altwords": "swich, swtich, swtch, swicth, swiitch, switch poe, switch ip, switch rj45, switch camera, swich poe, switch reseau, swich reseau, commutateur réseau, switch PoE, switch Ethernet, switch gigabit, switch RJ45, switch caméra IP, switch réseau PoE, switch industriel, switch administrable, switch non administrable, switch rackable, switch 4 ports, switch 8 ports, switch 16 ports, commutateur PoE"
   },
   {
     "title": "Switch 5 ports Gigabit - PFS3005-5GT",
@@ -57,7 +59,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Gigabit non manageable L2",
-    "productref": "PFS3005-5GT"
+    "productref": "PFS3005-5GT",
+    "altwords": "swich poe, swtich poe, swicth poe, swiitch poe, switch P.O.E, switchpoe, switch ip poe, switch reseau poe, switch camera poe, swich camera poe, swich reseau poe, commutateur PoE, switch Ethernet PoE, switch réseau PoE, switch gigabit PoE, switch RJ45 PoE, switch PoE caméra, switch PoE IP, switch PoE 4 ports, switch PoE 8 ports, switch PoE 16 ports, switch PoE rackable, switch PoE industriel, switch d’alimentation PoE, commutateur réseau PoE, injecteur PoE, switch PoE plug & play"
   },
   {
     "title": "Enregistreur DVR 32 canaux - XVR5432L-I3",
@@ -77,7 +80,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": ""
+    "productref": "",
+    "altwords": ""
   },
   {
     "title": "Enregistreur DVR 16 canaux - XVR5116H-4KL-I3",
@@ -97,7 +101,8 @@
     "iacamera": "SMD+, périmètre, reconnaissance, QuickPick, IA vidéo",
     "micro": "4 entrées / 1 sortie RCA, compression G.711u",
     "technologie": "DVR hybride HDCVI/TVI/AHD/CVBS/IP",
-    "productref": "XVR5116H-4KL-I3"
+    "productref": "XVR5116H-4KL-I3",
+    "altwords": "DRV, DVVR, DV R, D V R, dvrh, dvr ajax, dvr dahua, dvr hikvision, enregistreur dvr, dvr analogique, dvr camera, dvr video, enregistreur analogique, Digital Video Recorder, enregistreur coaxial, enregistreur HD analogique, enregistreur TVI, enregistreur AHD, enregistreur CVBS, enregistreur 4-en-1, recorder analogique, enregistreur de vidéosurveillance, DVR 4 canaux, DVR 8 canaux, DVR 16 canaux, enregistreur caméra analogique, enregistreur vidéo analogique, 16 canal, 16ch, 16 ch, seize canaux, 16ch nvr, nvr 16 canaux, dvr 16 canaux, xvr 16 canaux, enregistreur 16 canal, enregistreur 16ch, enregistreur 16 canaux, NVR 16 canaux, DVR 16 canaux, XVR 16 canaux, enregistreur 16 caméras, recorder 16ch, enregistreur vidéo 16ch, système 16 caméras, kit 16 canaux, enregistreur IP 16 canaux, enregistreur analogique 16 canaux, NVR PoE 16 canaux, DVR 16CH, enregistreur de vidéosurveillance 16 caméras"
   },
   {
     "title": "Enregistreur DVR 8 canaux - XVR5108HS-4KL-I3",
@@ -117,7 +122,8 @@
     "iacamera": "SMD+, reconnaissance faciale, périmètre, QuickPick 2.0, IA vidéo",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "DVR hybride HDCVI/TVI/AHD/CVBS/IP",
-    "productref": "XVR5108HS-4KL-I3"
+    "productref": "XVR5108HS-4KL-I3",
+    "altwords": "DRV, DVVR, DV R, D V R, dvrh, dvr ajax, dvr dahua, dvr hikvision, enregistreur dvr, dvr analogique, dvr camera, dvr video, enregistreur analogique, Digital Video Recorder, enregistreur coaxial, enregistreur HD analogique, enregistreur TVI, enregistreur AHD, enregistreur CVBS, enregistreur 4-en-1, recorder analogique, enregistreur de vidéosurveillance, DVR 4 canaux, DVR 8 canaux, DVR 16 canaux, enregistreur caméra analogique, enregistreur vidéo analogique, 8 canal, 8ch, 8 ch, huit canaux, 8ch nvr, nvr 8 canaux, dvr 8 canaux, xvr 8 canaux, enregistreur 8 canal, enregistreur 8ch, enregistreur 8 canaux, NVR 8 canaux, DVR 8 canaux, XVR 8 canaux, enregistreur 8 caméras, recorder 8ch, enregistreur vidéo 8ch, système 8 caméras, kit 8 canaux, enregistreur IP 8 canaux, enregistreur analogique 8 canaux, NVR PoE 8 canaux, DVR 8CH, enregistreur de vidéosurveillance 8 caméras"
   },
   {
     "title": "Enregistreur DVR 4 canaux - XVR5104HS-4KL-I3",
@@ -137,7 +143,8 @@
     "iacamera": "SMD+, reconnaissance faciale, périmètre, QuickPick 2.0",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "DVR hybride HDCVI/TVI/AHD/CVBS/IP",
-    "productref": "XVR5104HS-4KL-I3"
+    "productref": "XVR5104HS-4KL-I3",
+    "altwords": "4 canal, 4ch, 4 ch, quatre canaux, 4ch nvr, nvr 4 canaux, dvr 4 canaux, xvr 4 canaux, enregistreur 4 canal, enregistreur 4ch, enregistreur 4 canaux, NVR 4 canaux, DVR 4 canaux, XVR 4 canaux, enregistreur 4 caméras, recorder 4ch, enregistreur vidéo 4ch, système 4 caméras, kit 4 canaux, enregistreur IP 4 canaux, enregistreur analogique 4 canaux, NVR PoE 4 canaux, DVR 4CH, enregistreur de vidéosurveillance 4 caméras, DRV, DVVR, DV R, D V R, dvrh, dvr ajax, dvr dahua, dvr hikvision, enregistreur dvr, dvr analogique, dvr camera, dvr video, enregistreur analogique, Digital Video Recorder, enregistreur coaxial, enregistreur HD analogique, enregistreur TVI, enregistreur AHD, enregistreur CVBS, enregistreur 4-en-1, recorder analogique, enregistreur de vidéosurveillance, DVR 4 canaux, DVR 8 canaux, DVR 16 canaux, enregistreur caméra analogique, enregistreur vidéo analogique"
   },
   {
     "title": "Enregistreur NVR 16 canaux - DHI-NVR5216-EI",
@@ -157,7 +164,8 @@
     "iacamera": "AcuPick, ANPR, métadonnées, reconnaissance, IA caméra + enregistreur",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "NVR WizSense",
-    "productref": "DHI-NVR5216-E"
+    "productref": "DHI-NVR5216-E",
+    "altwords": "NRV, NVRR, NVVR, NVR ajax, NVR dahua, NVR hikvision, enregistreur nvr, nvr poe, nvr ip, nvr reseau, nvr camera, enregistreur réseau, enregistreur IP, Network Video Recorder, enregistreur PoE, enregistreur caméra IP, enregistreur de vidéosurveillance, NVR 4 canaux, NVR 8 canaux, NVR 16 canaux, enregistreur IP PoE, recorder IP, enregistreur numérique réseau, NVR connecté, NVR de surveillance, NVR avec disques durs, 16 canal, 16ch, 16 ch, seize canaux, 16ch nvr, nvr 16 canaux, dvr 16 canaux, xvr 16 canaux, enregistreur 16 canal, enregistreur 16ch, enregistreur 16 canaux, NVR 16 canaux, DVR 16 canaux, XVR 16 canaux, enregistreur 16 caméras, recorder 16ch, enregistreur vidéo 16ch, système 16 caméras, kit 16 canaux, enregistreur IP 16 canaux, enregistreur analogique 16 canaux, NVR PoE 16 canaux, DVR 16CH, enregistreur de vidéosurveillance 16 caméras"
   },
   {
     "title": "Enregistreur NVR 16 canaux Poe - DHI-NVR5216-16P-EI",
@@ -177,7 +185,8 @@
     "iacamera": "AcuPick, SMD+, Reconnaissance, ANPR, métadonnées, IA caméra & NVR",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "NVR WizSense",
-    "productref": "DHI-NVR5216-16P-EI"
+    "productref": "DHI-NVR5216-16P-EI",
+    "altwords": "NRV, NVRR, NVVR, NVR ajax, NVR dahua, NVR hikvision, enregistreur nvr, nvr poe, nvr ip, nvr reseau, nvr camera, enregistreur réseau, enregistreur IP, Network Video Recorder, enregistreur PoE, enregistreur caméra IP, enregistreur de vidéosurveillance, NVR 4 canaux, NVR 8 canaux, NVR 16 canaux, enregistreur IP PoE, recorder IP, enregistreur numérique réseau, NVR connecté, NVR de surveillance, NVR avec disques durs, 16 canal, 16ch, 16 ch, seize canaux, 16ch nvr, nvr 16 canaux, dvr 16 canaux, xvr 16 canaux, enregistreur 16 canal, enregistreur 16ch, enregistreur 16 canaux, NVR 16 canaux, DVR 16 canaux, XVR 16 canaux, enregistreur 16 caméras, recorder 16ch, enregistreur vidéo 16ch, système 16 caméras, kit 16 canaux, enregistreur IP 16 canaux, enregistreur analogique 16 canaux, NVR PoE 16 canaux, DVR 16CH, enregistreur de vidéosurveillance 16 caméras"
   },
   {
     "title": "Enregistreur NVR 16 canaux Poe - DHI-NVR4216-16P-4KS3",
@@ -197,7 +206,8 @@
     "iacamera": "SMD Plus (via enregistreur), IA caméra : visage, périmètre, comptage, heatmap",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "NVR Lite Series",
-    "productref": "DHI-NVR4216-16P-4KS3"
+    "productref": "DHI-NVR4216-16P-4KS3",
+    "altwords": "NRV, NVRR, NVVR, NVR ajax, NVR dahua, NVR hikvision, enregistreur nvr, nvr poe, nvr ip, nvr reseau, nvr camera, enregistreur réseau, enregistreur IP, Network Video Recorder, enregistreur PoE, enregistreur caméra IP, enregistreur de vidéosurveillance, NVR 4 canaux, NVR 8 canaux, NVR 16 canaux, enregistreur IP PoE, recorder IP, enregistreur numérique réseau, NVR connecté, NVR de surveillance, NVR avec disques durs, 16 canal, 16ch, 16 ch, seize canaux, 16ch nvr, nvr 16 canaux, dvr 16 canaux, xvr 16 canaux, enregistreur 16 canal, enregistreur 16ch, enregistreur 16 canaux, NVR 16 canaux, DVR 16 canaux, XVR 16 canaux, enregistreur 16 caméras, recorder 16ch, enregistreur vidéo 16ch, système 16 caméras, kit 16 canaux, enregistreur IP 16 canaux, enregistreur analogique 16 canaux, NVR PoE 16 canaux, DVR 16CH, enregistreur de vidéosurveillance 16 caméras"
   },
   {
     "title": "Enregistreur NVR 8 canaux Poe - DHI-NVR5208-8P-EI",
@@ -217,7 +227,8 @@
     "iacamera": "AcuPick, SMD+, IA caméra & NVR, ANPR, métadonnées",
     "micro": "Oui",
     "technologie": "NVR WizSense",
-    "productref": "DHI-NVR5208-8P-EI"
+    "productref": "DHI-NVR5208-8P-EI",
+    "altwords": "NRV, NVRR, NVVR, NVR ajax, NVR dahua, NVR hikvision, enregistreur nvr, nvr poe, nvr ip, nvr reseau, nvr camera, enregistreur réseau, enregistreur IP, Network Video Recorder, enregistreur PoE, enregistreur caméra IP, enregistreur de vidéosurveillance, NVR 4 canaux, NVR 8 canaux, NVR 16 canaux, enregistreur IP PoE, recorder IP, enregistreur numérique réseau, NVR connecté, NVR de surveillance, NVR avec disques durs, 8 canal, 8ch, 8 ch, huit canaux, 8ch nvr, nvr 8 canaux, dvr 8 canaux, xvr 8 canaux, enregistreur 8 canal, enregistreur 8ch, enregistreur 8 canaux, NVR 8 canaux, DVR 8 canaux, XVR 8 canaux, enregistreur 8 caméras, recorder 8ch, enregistreur vidéo 8ch, système 8 caméras, kit 8 canaux, enregistreur IP 8 canaux, enregistreur analogique 8 canaux, NVR PoE 8 canaux, DVR 8CH, enregistreur de vidéosurveillance 8 caméras"
   },
   {
     "title": "Enregistreur NVR 8 canaux Poe - DHI-NVR4108HS-8P-EI",
@@ -237,7 +248,8 @@
     "iacamera": "Détection faciale, périmètre, comptage, ANPR, Quick Pick",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "NVR WizSense",
-    "productref": "NVR4108HS-8P-EI"
+    "productref": "NVR4108HS-8P-EI",
+    "altwords": "NVR poe, NRV poe, NVRPOE, NVR P.O.E, NVR-PoE, nvr avec poe, nvr ip poe, enregistreur poe, enregistreur nvr poe, nvr camera poe, enregistreur IP PoE, enregistreur réseau PoE, Network Video Recorder PoE, NVR avec ports PoE, enregistreur caméra IP PoE, enregistreur plug & play, recorder PoE, enregistreur PoE intégré, NVR PoE 4 canaux, NVR PoE 8 canaux, NVR PoE 16 canaux, enregistreur PoE Dahua, enregistreur PoE Hikvision, NVR PoE de vidéosurveillance, 8 canal, 8ch, 8 ch, huit canaux, 8ch nvr, nvr 8 canaux, dvr 8 canaux, xvr 8 canaux, enregistreur 8 canal, enregistreur 8ch, enregistreur 8 canaux, NVR 8 canaux, DVR 8 canaux, XVR 8 canaux, enregistreur 8 caméras, recorder 8ch, enregistreur vidéo 8ch, système 8 caméras, kit 8 canaux, enregistreur IP 8 canaux, enregistreur analogique 8 canaux, NVR PoE 8 canaux, DVR 8CH, enregistreur de vidéosurveillance 8 caméras"
   },
   {
     "title": "Enregistreur NVR 8 canaux Poe - DHI-NVR4108HS-8P-4KS3",
@@ -257,7 +269,8 @@
     "iacamera": "SMD Plus par enregistreur, IA caméra : visage, périmètre, comptage, heatmap",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "NVR Lite Series",
-    "productref": "DHI-NVR4108HS-8P-4KS3"
+    "productref": "DHI-NVR4108HS-8P-4KS3",
+    "altwords": "8 canal, 8ch, 8 ch, huit canaux, 8ch nvr, nvr 8 canaux, dvr 8 canaux, xvr 8 canaux, enregistreur 8 canal, enregistreur 8ch, enregistreur 8 canaux, NVR 8 canaux, DVR 8 canaux, XVR 8 canaux, enregistreur 8 caméras, recorder 8ch, enregistreur vidéo 8ch, système 8 caméras, kit 8 canaux, enregistreur IP 8 canaux, enregistreur analogique 8 canaux, NVR PoE 8 canaux, DVR 8CH, enregistreur de vidéosurveillance 8 caméras, NVR poe, NRV poe, NVRPOE, NVR P.O.E, NVR-PoE, nvr avec poe, nvr ip poe, enregistreur poe, enregistreur nvr poe, nvr camera poe, enregistreur IP PoE, enregistreur réseau PoE, Network Video Recorder PoE, NVR avec ports PoE, enregistreur caméra IP PoE, enregistreur plug & play, recorder PoE, enregistreur PoE intégré, NVR PoE 4 canaux, NVR PoE 8 canaux, NVR PoE 16 canaux, enregistreur PoE Dahua, enregistreur PoE Hikvision, NVR PoE de vidéosurveillance"
   },
   {
     "title": "Enregistreur NVR 4 canaux Poe - DHI-NVR4104HS-P-EI",
@@ -277,7 +290,8 @@
     "iacamera": "Détection humaine/véhicule, reconnaissance faciale, Quick Pick, SMD+, ANPR",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "NVR WizSense",
-    "productref": "DHI-NVR4104HS-P-EI"
+    "productref": "DHI-NVR4104HS-P-EI",
+    "altwords": "NVR poe, NRV poe, NVRPOE, NVR P.O.E, NVR-PoE, nvr avec poe, nvr ip poe, enregistreur poe, enregistreur nvr poe, nvr camera poe, enregistreur IP PoE, enregistreur réseau PoE, Network Video Recorder PoE, NVR avec ports PoE, enregistreur caméra IP PoE, enregistreur plug & play, recorder PoE, enregistreur PoE intégré, NVR PoE 4 canaux, NVR PoE 8 canaux, NVR PoE 16 canaux, enregistreur PoE Dahua, enregistreur PoE Hikvision, NVR PoE de vidéosurveillance, 4 canal, 4ch, 4 ch, quatre canaux, 4ch nvr, nvr 4 canaux, dvr 4 canaux, xvr 4 canaux, enregistreur 4 canal, enregistreur 4ch, enregistreur 4 canaux, NVR 4 canaux, DVR 4 canaux, XVR 4 canaux, enregistreur 4 caméras, recorder 4ch, enregistreur vidéo 4ch, système 4 caméras, kit 4 canaux, enregistreur IP 4 canaux, enregistreur analogique 4 canaux, NVR PoE 4 canaux, DVR 4CH, enregistreur de vidéosurveillance 4 caméras"
   },
   {
     "title": "Enregistreur NVR 4 canaux DHI-NVR4104HS-P-4KS3",
@@ -297,7 +311,8 @@
     "iacamera": "SMD+ par enregistreur – IA caméra : reconnaissance faciale, périmétrique, comptage",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "NVR Lite Series avec ports PoE",
-    "productref": "DHI-NVR4104HS-P-4KS3"
+    "productref": "DHI-NVR4104HS-P-4KS3",
+    "altwords": "NRV, NVRR, NVVR, NVR ajax, NVR dahua, NVR hikvision, enregistreur nvr, nvr poe, nvr ip, nvr reseau, nvr camera, enregistreur réseau, enregistreur IP, Network Video Recorder, enregistreur PoE, enregistreur caméra IP, enregistreur de vidéosurveillance, NVR 4 canaux, NVR 8 canaux, NVR 16 canaux, enregistreur IP PoE, recorder IP, enregistreur numérique réseau, NVR connecté, NVR de surveillance, NVR avec disques durs, 4 canal, 4ch, 4 ch, quatre canaux, 4ch nvr, nvr 4 canaux, dvr 4 canaux, xvr 4 canaux, enregistreur 4 canal, enregistreur 4ch, enregistreur 4 canaux, NVR 4 canaux, DVR 4 canaux, XVR 4 canaux, enregistreur 4 caméras, recorder 4ch, enregistreur vidéo 4ch, système 4 caméras, kit 4 canaux, enregistreur IP 4 canaux, enregistreur analogique 4 canaux, NVR PoE 4 canaux, DVR 4CH, enregistreur de vidéosurveillance 4 caméras"
   },
   {
     "title": "Enregistreur NVR 4 canaux DHI-NVR4104HS-4KS3(960GB)",
@@ -317,7 +332,8 @@
     "iacamera": "SMD Plus (enregistreur), IA avancée caméra : détection visage, reconnaissance faciale, protection périmétrique",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "NVR SSD Lite Series",
-    "productref": "DHI-NVR4104HS-4KS3"
+    "productref": "DHI-NVR4104HS-4KS3",
+    "altwords": "NRV, NVRR, NVVR, NVR ajax, NVR dahua, NVR hikvision, enregistreur nvr, nvr poe, nvr ip, nvr reseau, nvr camera, enregistreur réseau, enregistreur IP, Network Video Recorder, enregistreur PoE, enregistreur caméra IP, enregistreur de vidéosurveillance, NVR 4 canaux, NVR 8 canaux, NVR 16 canaux, enregistreur IP PoE, recorder IP, enregistreur numérique réseau, NVR connecté, NVR de surveillance, NVR avec disques durs, 4 canal, 4ch, 4 ch, quatre canaux, 4ch nvr, nvr 4 canaux, dvr 4 canaux, xvr 4 canaux, enregistreur 4 canal, enregistreur 4ch, enregistreur 4 canaux, NVR 4 canaux, DVR 4 canaux, XVR 4 canaux, enregistreur 4 caméras, recorder 4ch, enregistreur vidéo 4ch, système 4 caméras, kit 4 canaux, enregistreur IP 4 canaux, enregistreur analogique 4 canaux, NVR PoE 4 canaux, DVR 4CH, enregistreur de vidéosurveillance 4 caméras"
   },
   {
     "title": "Caméra dome - IPC-HDBW3541FP-AS-S2",
@@ -337,7 +353,8 @@
     "iacamera": "SMD 4.0, AI SSA, détection humaine/véhicule (tripwire, intrusion)",
     "micro": "Oui",
     "technologie": "Réseau",
-    "productref": "DH-IPC-HDBW3541F-AS-S2"
+    "productref": "DH-IPC-HDBW3541F-AS-S2",
+    "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Support d'angle PFA156",
@@ -357,7 +374,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "PFA151"
+    "productref": "PFA151",
+    "altwords": "support angle, suport dangle, support d'angl, support d’ongle, suport angle camera, support angle camera, support dangle camera, support d’angle camera, suport d’angle mural, équerre d’angle, support mural d’angle, support de fixation d’angle, platine d’angle, angle bracket, corner mount, support caméra d’angle, support de montage d’angle, fixation d’angle caméra, bracket d’angle, camera corner mount, support d’angle étanche, support d’angle extérieur, support d’angle aluminium, équerre caméra"
   },
   {
     "title": "Support mural PFB206W",
@@ -377,7 +395,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "PFB206W"
+    "productref": "PFB206W",
+    "altwords": "uport mural, support murale, suport murale, support murral, support mur, support mural camera, support murale camera, suport camera mural, support de mur, suport de mur, support de fixation mural, support de montage mural, support mural caméra, platine murale, support vertical, équerre murale, wall mount, camera wall mount, mural bracket, support mural étanche, support mural extérieur, support mural aluminium, support mural dôme, support mural bullet, support mural universel"
   },
   {
     "title": "Boîte de Jonction PFA197R",
@@ -397,7 +416,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "PFA197R"
+    "productref": "PFA197R",
+    "altwords": "boîtier de jonction, boîtier de dérivation, boîtier étanche, boîtier mural caméra, boîte étanche caméra, support de caméra mural, boîtier de protection caméra, boîtier technique, junction box, camera junction box, housing box, boîtier raccord caméra, accessoire caméra, support étanche"
   },
   {
     "title": "Support mural PFB205WE",
@@ -417,7 +437,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "PFB205W-E"
+    "productref": "PFB205W-E",
+    "altwords": "uport mural, support murale, suport murale, support murral, support mur, support mural camera, support murale camera, suport camera mural, support de mur, suport de mur, support de fixation mural, support de montage mural, support mural caméra, platine murale, support vertical, équerre murale, wall mount, camera wall mount, mural bracket, support mural étanche, support mural extérieur, support mural aluminium, support mural dôme, support mural bullet, support mural universel"
   },
   {
     "title": "Boîte de Jonction PFA136",
@@ -437,7 +458,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "PFA136"
+    "productref": "PFA136",
+    "altwords": "boîtier de jonction, boîtier de dérivation, boîtier étanche, boîtier mural caméra, boîte étanche caméra, support de caméra mural, boîtier de protection caméra, boîtier technique, junction box, camera junction box, housing box, boîtier raccord caméra, accessoire caméra, support étanche"
   },
   {
     "title": "Caméra dome - IPC-HDW2449TM-S-IL",
@@ -457,7 +479,8 @@
     "iacamera": "Détection périmétrique, SMD Plus (classification humains/véhicules)",
     "micro": "Oui",
     "technologie": "Réseau",
-    "productref": "IPC-HDW2449TM-S-IL"
+    "productref": "IPC-HDW2449TM-S-IL",
+    "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra dome - HDBW5842EP-ZE-2712-DC12AC24V-S3",
@@ -477,7 +500,8 @@
     "iacamera": "SMD 3.0, détection faciale, protection périmétrique, comptage de personnes, métadonnées vidéo, AcuPick, détection sonore",
     "micro": "Oui",
     "technologie": "Réseau",
-    "productref": "HDBW5842EP-ZE-2712-DC12AC24V-S3"
+    "productref": "HDBW5842EP-ZE-2712-DC12AC24V-S3",
+    "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra dome - IPC-HDBW3549R1-ZAS-PV-S5",
@@ -497,7 +521,8 @@
     "iacamera": "SMD 4.0, AI SSA, AcuPick, détection visage, détection périmétrique",
     "micro": "Oui",
     "technologie": "Réseau",
-    "productref": "IPC-HDBW3549R1-ZAS-PV-S5"
+    "productref": "IPC-HDBW3549R1-ZAS-PV-S5",
+    "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra dome - IPC-HDBW3849R1-ZAS-PV-S5",
@@ -517,7 +542,8 @@
     "iacamera": "SMD 4.0, AI SSA, AcuPick, détection visage, périmètre",
     "micro": "Oui",
     "technologie": "Réseau",
-    "productref": "IPC-HDBW3849R1-ZAS-PV-S5"
+    "productref": "IPC-HDBW3849R1-ZAS-PV-S5",
+    "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra Bullet - IPC-HFW3849T1-ZAS-PV-S5",
@@ -537,7 +563,8 @@
     "iacamera": "SMD 4.0, AI SSA, AcuPick, détection faciale",
     "micro": "Oui",
     "technologie": "Réseau",
-    "productref": "IPC-HFW3849T1-ZAS-PV-S5"
+    "productref": "IPC-HFW3849T1-ZAS-PV-S5",
+    "altwords": "bulet reseau, bulle reseau, bullet reseaux, bullett reseaux, bullet ip, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip camera, bullet poe, camera bullet ip, bullet ethernet, bullet network, bulle ip, caméra bullet IP, caméra tube, caméra extérieure IP, caméra réseau, caméra PoE, caméra IP bullet, caméra tube IP, bullet CCTV, caméra de surveillance extérieure, caméra IP, bulet, bullett, bulett, bulle, bulet cam, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip, bullet analogique, bullet poe, bullet exterieur, bullet cctv, bullett ip, caméra bullet, caméra tube, caméra extérieure, caméra de surveillance, caméra bullet IP, caméra bullet analogique, caméra PoE, caméra tube IP, caméra CCTV, caméra fixe extérieure, caméra bullet 4MP/5MP, caméra bullet infrarouge, caméra bullet PoE, bullet IR, bullet réseau"
   },
   {
     "title": "Caméra Bullet - IPC-HFW3549T1-ZAS-PV-S5",
@@ -557,7 +584,8 @@
     "iacamera": "SMD 4.0, AI SSA, détection périmétrique, AcuPick, détection visage",
     "micro": "Oui",
     "technologie": "Réseau",
-    "productref": "IPC-HFW3549T1-ZAS-PV-S5"
+    "productref": "IPC-HFW3549T1-ZAS-PV-S5",
+    "altwords": "bulet reseau, bulle reseau, bullet reseaux, bullett reseaux, bullet ip, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip camera, bullet poe, camera bullet ip, bullet ethernet, bullet network, bulle ip, caméra bullet IP, caméra tube, caméra extérieure IP, caméra réseau, caméra PoE, caméra IP bullet, caméra tube IP, bullet CCTV, caméra de surveillance extérieure, caméra IP, bulet, bullett, bulett, bulle, bulet cam, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip, bullet analogique, bullet poe, bullet exterieur, bullet cctv, bullett ip, caméra bullet, caméra tube, caméra extérieure, caméra de surveillance, caméra bullet IP, caméra bullet analogique, caméra PoE, caméra tube IP, caméra CCTV, caméra fixe extérieure, caméra bullet 4MP/5MP, caméra bullet infrarouge, caméra bullet PoE, bullet IR, bullet réseau"
   },
   {
     "title": "Caméra Bullet - IPC-HFW3541T-ZS-S2",
@@ -577,7 +605,8 @@
     "iacamera": "Détection humaine/véhicule, SMD 4.0, AI SSA",
     "micro": "Oui",
     "technologie": "Réseau",
-    "productref": "IPC-HFW3541T-ZS-S2"
+    "productref": "IPC-HFW3541T-ZS-S2",
+    "altwords": "bulet reseau, bulle reseau, bullet reseaux, bullett reseaux, bullet ip, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip camera, bullet poe, camera bullet ip, bullet ethernet, bullet network, bulle ip, caméra bullet IP, caméra tube, caméra extérieure IP, caméra réseau, caméra PoE, caméra IP bullet, caméra tube IP, bullet CCTV, caméra de surveillance extérieure, caméra IP, bulet, bullett, bulett, bulle, bulet cam, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip, bullet analogique, bullet poe, bullet exterieur, bullet cctv, bullett ip, caméra bullet, caméra tube, caméra extérieure, caméra de surveillance, caméra bullet IP, caméra bullet analogique, caméra PoE, caméra tube IP, caméra CCTV, caméra fixe extérieure, caméra bullet 4MP/5MP, caméra bullet infrarouge, caméra bullet PoE, bullet IR, bullet réseau"
   },
   {
     "title": "Alimentation 12V - PFM320D-EN",
@@ -597,7 +626,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "PFM320D-EN"
+    "productref": "PFM320D-EN",
+    "altwords": ""
   },
   {
     "title": "Caméra Bullet - IPC-HFW3449E-AS-IL",
@@ -617,7 +647,8 @@
     "iacamera": "Détection intelligente SMD 4.0, périmètre, visage",
     "micro": "Oui",
     "technologie": "Réseau",
-    "productref": "DH-IPC-HFW3449E-AS-IL"
+    "productref": "DH-IPC-HFW3449E-AS-IL",
+    "altwords": "bulet reseau, bulle reseau, bullet reseaux, bullett reseaux, bullet ip, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip camera, bullet poe, camera bullet ip, bullet ethernet, bullet network, bulle ip, caméra bullet IP, caméra tube, caméra extérieure IP, caméra réseau, caméra PoE, caméra IP bullet, caméra tube IP, bullet CCTV, caméra de surveillance extérieure, caméra IP, bulet, bullett, bulett, bulle, bulet cam, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip, bullet analogique, bullet poe, bullet exterieur, bullet cctv, bullett ip, caméra bullet, caméra tube, caméra extérieure, caméra de surveillance, caméra bullet IP, caméra bullet analogique, caméra PoE, caméra tube IP, caméra CCTV, caméra fixe extérieure, caméra bullet 4MP/5MP, caméra bullet infrarouge, caméra bullet PoE, bullet IR, bullet réseau"
   },
   {
     "title": "Boîte de Jonction PFA130-E",
@@ -637,7 +668,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "PFA-130-E"
+    "productref": "PFA-130-E",
+    "altwords": "boîtier de jonction, boîtier de dérivation, boîtier étanche, boîtier mural caméra, boîte étanche caméra, support de caméra mural, boîtier de protection caméra, boîtier technique, junction box, camera junction box, housing box, boîtier raccord caméra, accessoire caméra, support étanche"
   },
   {
     "title": "Caméra Bullet - IPC-HFW2441T-ZAS",
@@ -657,7 +689,8 @@
     "iacamera": "détection humain/véhicule, périmètre, SMD Plus",
     "micro": "Oui",
     "technologie": "Réseau",
-    "productref": "IPC-HFW2441T-ZAS"
+    "productref": "IPC-HFW2441T-ZAS",
+    "altwords": "bulet reseau, bulle reseau, bullet reseaux, bullett reseaux, bullet ip, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip camera, bullet poe, camera bullet ip, bullet ethernet, bullet network, bulle ip, caméra bullet IP, caméra tube, caméra extérieure IP, caméra réseau, caméra PoE, caméra IP bullet, caméra tube IP, bullet CCTV, caméra de surveillance extérieure, caméra IP, bulet, bullett, bulett, bulle, bulet cam, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip, bullet analogique, bullet poe, bullet exterieur, bullet cctv, bullett ip, caméra bullet, caméra tube, caméra extérieure, caméra de surveillance, caméra bullet IP, caméra bullet analogique, caméra PoE, caméra tube IP, caméra CCTV, caméra fixe extérieure, caméra bullet 4MP/5MP, caméra bullet infrarouge, caméra bullet PoE, bullet IR, bullet réseau"
   },
   {
     "title": "Caméra Dôme - IPC-HDBW2441R-ZS",
@@ -677,7 +710,8 @@
     "iacamera": "Détection avancée : Classification humains/véhicules",
     "micro": "Oui",
     "technologie": "Réseau",
-    "productref": "DH-IPC-HDBW2441RP-ZS-27135"
+    "productref": "DH-IPC-HDBW2441RP-ZS-27135",
+    "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Adaptateur secteur 12v",
@@ -697,7 +731,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "ADS-12FG"
+    "productref": "ADS-12FG",
+    "altwords": ""
   },
   {
     "title": "Support de montage encastré PFB200C",
@@ -717,7 +752,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "PFB200C"
+    "productref": "PFB200C",
+    "altwords": "suport de montage, support montage, suport montage, support de montag, support montag, support de fixage, support de fixation, fixation camera, support camera, suport camera, support mural camera, support plafond camera, support de fixation, support mural, support plafond, support poteau, support angle, équerre de fixation, platine de montage, accessoire de montage, base de fixation, support universel caméra, bracket, camera mount, wall mount, ceiling mount, camera bracket, support mural étanche"
   },
   {
     "title": "Support mural PFB203W",
@@ -737,7 +773,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "PFB203W"
+    "productref": "PFB203W",
+    "altwords": "uport mural, support murale, suport murale, support murral, support mur, support mural camera, support murale camera, suport camera mural, support de mur, suport de mur, support de fixation mural, support de montage mural, support mural caméra, platine murale, support vertical, équerre murale, wall mount, camera wall mount, mural bracket, support mural étanche, support mural extérieur, support mural aluminium, support mural dôme, support mural bullet, support mural universel"
   },
   {
     "title": "Support de montage PFA152E",
@@ -757,7 +794,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "PFA152E"
+    "productref": "PFA152E",
+    "altwords": "suport de montage, support montage, suport montage, support de montag, support montag, support de fixage, support de fixation, fixation camera, support camera, suport camera, support mural camera, support plafond camera, support de fixation, support mural, support plafond, support poteau, support angle, équerre de fixation, platine de montage, accessoire de montage, base de fixation, support universel caméra, bracket, camera mount, wall mount, ceiling mount, camera bracket, support mural étanche"
   },
   {
     "title": "Support d'angle PFA151",
@@ -777,7 +815,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "PFA151"
+    "productref": "PFA151",
+    "altwords": "support angle, suport dangle, support d'angl, support d’ongle, suport angle camera, support angle camera, support dangle camera, support d’angle camera, suport d’angle mural, équerre d’angle, support mural d’angle, support de fixation d’angle, platine d’angle, angle bracket, corner mount, support caméra d’angle, support de montage d’angle, fixation d’angle caméra, bracket d’angle, camera corner mount, support d’angle étanche, support d’angle extérieur, support d’angle aluminium, équerre caméra"
   },
   {
     "title": "Boîte de Jonction PFA137",
@@ -797,7 +836,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "PFA137"
+    "productref": "PFA137",
+    "altwords": "boîtier de jonction, boîtier de dérivation, boîtier étanche, boîtier mural caméra, boîte étanche caméra, support de caméra mural, boîtier de protection caméra, boîtier technique, junction box, camera junction box, housing box, boîtier raccord caméra, accessoire caméra, support étanche"
   },
   {
     "title": "Écran 21,5\" FHD Haut-parleurs intégrés",
@@ -817,7 +857,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-D5022F2-1V2S"
+    "productref": "DS-D5022F2-1V2S",
+    "altwords": "ecran, ecrran, ecrant, ecrn, ecram, écran camera, ecran camera, ecran de surveillance, ecran video, ecran nvr, moniteur camera, moniteur video, moniteur, moniteur de surveillance, moniteur vidéo, moniteur LCD, écran LCD, écran LED, écran HDMI, écran VGA, écran de contrôle, moniteur de vidéosurveillance, écran 22 pouces, écran 24 pouces, écran professionnel, display monitor, video display, écran de contrôle NVR, moniteur de visualisation"
   },
   {
     "title": "Écran 21,5\" FHD",
@@ -837,7 +878,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-D5022F2-1V2"
+    "productref": "DS-D5022F2-1V2",
+    "altwords": "ecran, ecrran, ecrant, ecrn, ecram, écran camera, ecran camera, ecran de surveillance, ecran video, ecran nvr, moniteur camera, moniteur video, moniteur, moniteur de surveillance, moniteur vidéo, moniteur LCD, écran LCD, écran LED, écran HDMI, écran VGA, écran de contrôle, moniteur de vidéosurveillance, écran 22 pouces, écran 24 pouces, écran professionnel, display monitor, video display, écran de contrôle NVR, moniteur de visualisation"
   },
   {
     "title": "Support mural pour écran inclinable",
@@ -857,7 +899,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "T1327"
+    "productref": "T1327",
+    "altwords": "suport mural pour ecran, support murale pour ecran, support mural ecran, suport mural ecran, support mur ecran, support ecran mural, support ecran murale, suport ecran mural, support de fixation ecran, support mural tv, support mural écran, support mural moniteur, support mural TV, support VESA, support de fixation écran, support orientable, support inclinable, support mural LCD, support mural LED, bras mural pour écran, support articulé, wall mount monitor, tv wall mount, écran wall bracket, support de fixation VESA, bras de support mural, support vidéo mural"
   },
   {
     "title": "Support mural pour écran 2 articulations",
@@ -877,7 +920,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "H2342-2A"
+    "productref": "H2342-2A",
+    "altwords": "suport mural pour ecran, support murale pour ecran, support mural ecran, suport mural ecran, support mur ecran, support ecran mural, support ecran murale, suport ecran mural, support de fixation ecran, support mural tv, support mural écran, support mural moniteur, support mural TV, support VESA, support de fixation écran, support orientable, support inclinable, support mural LCD, support mural LED, bras mural pour écran, support articulé, wall mount monitor, tv wall mount, écran wall bracket, support de fixation VESA, bras de support mural, support vidéo mural"
   },
   {
     "title": "Support mural pour écran 1 articulation",
@@ -897,7 +941,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "H2342-1A"
+    "productref": "H2342-1A",
+    "altwords": "suport mural pour ecran, support murale pour ecran, support mural ecran, suport mural ecran, support mur ecran, support ecran mural, support ecran murale, suport ecran mural, support de fixation ecran, support mural tv, support mural écran, support mural moniteur, support mural TV, support VESA, support de fixation écran, support orientable, support inclinable, support mural LCD, support mural LED, bras mural pour écran, support articulé, wall mount monitor, tv wall mount, écran wall bracket, support de fixation VESA, bras de support mural, support vidéo mural"
   },
   {
     "title": "Casquette Anti-Pluie",
@@ -917,7 +962,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1250Zj"
+    "productref": "DS-1250Zj",
+    "altwords": "accesoir de protection, accessoir protection, accesoir protection, accessoire protection, accessoire de protege, accessoire securite, accessoire camera protection, accessoire pour camera, accessoire de protection camera, capot de protection, cache caméra, pare-soleil caméra, visière caméra, boîtier de protection, housing caméra, camera housing, support de protection, coque de protection, protection solaire caméra, abri caméra, boîtier étanche, cover caméra, caméra shield, pare pluie caméra, accessoire étanche caméra"
   },
   {
     "title": "Point d’accès Wi-Fi",
@@ -937,7 +983,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "APACPRO"
+    "productref": "APACPRO",
+    "altwords": ""
   },
   {
     "title": "Pont-Antenne Wi-Fi 5 GHz longue portée",
@@ -957,7 +1004,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "NBE-5AC-GEN2"
+    "productref": "NBE-5AC-GEN2",
+    "altwords": ""
   },
   {
     "title": "Câble réseau RJ45 Cat6 FUTP",
@@ -977,7 +1025,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "67xx"
+    "productref": "67xx",
+    "altwords": "cable reseau, cable rj45, cabl reseau, cabl rj45, cable ethernet, cablereseau, cable reseaux, cable reseau poe, cable ip, cable camera, cable lan, câble RJ45, câble Ethernet, câble LAN, câble CAT5e, câble CAT6, câble PoE, câble réseau blindé, câble FTP, câble UTP, câble SFTP, câble réseau extérieur, câble réseau intérieur, câble réseau 100m, câble RJ45 caméra, câble réseau pour NVR, câble data, câble informatique, câble gigabit, réseau cable"
   },
   {
     "title": "Câble coaxial KX6 + alimentation 2×0.75 mm²",
@@ -997,7 +1046,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "169205-xx"
+    "productref": "169205-xx",
+    "altwords": "cable coaxial, cabl coaxial, cable coasial, cable co axial, cable coaxale, cabl coasial, cable coaxial camera, cable coaxial video, cable bnc, cable coaxial cctv, câble vidéo, câble BNC, câble RG59, câble RG6, câble coaxial caméra, câble coaxial analogique, câble coaxial de surveillance, câble coaxial 100m, câble coaxial préconnecté, câble coaxial prémonté, câble coaxial avec alimentation, câble coaxial double, câble 2 en 1 vidéo + alim, câble de vidéosurveillance, câble coaxial professionnel"
   },
   {
     "title": "Cordon RJ45 Cat6A S/FTP",
@@ -1017,7 +1067,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "22xx"
+    "productref": "22xx",
+    "altwords": ""
   },
   {
     "title": "Écran 43 pouces Full HD",
@@ -1037,7 +1088,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "LM43-F200"
+    "productref": "LM43-F200",
+    "altwords": "ecran, ecrran, ecrant, ecrn, ecram, écran camera, ecran camera, ecran de surveillance, ecran video, ecran nvr, moniteur camera, moniteur video, moniteur, moniteur de surveillance, moniteur vidéo, moniteur LCD, écran LCD, écran LED, écran HDMI, écran VGA, écran de contrôle, moniteur de vidéosurveillance, écran 22 pouces, écran 24 pouces, écran professionnel, display monitor, video display, écran de contrôle NVR, moniteur de visualisation"
   },
   {
     "title": "Écran 32 pouces Full HD",
@@ -1057,7 +1109,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "LM32-F200"
+    "productref": "LM32-F200",
+    "altwords": "ecran, ecrran, ecrant, ecrn, ecram, écran camera, ecran camera, ecran de surveillance, ecran video, ecran nvr, moniteur camera, moniteur video, moniteur, moniteur de surveillance, moniteur vidéo, moniteur LCD, écran LCD, écran LED, écran HDMI, écran VGA, écran de contrôle, moniteur de vidéosurveillance, écran 22 pouces, écran 24 pouces, écran professionnel, display monitor, video display, écran de contrôle NVR, moniteur de visualisation"
   },
   {
     "title": "Écran 24 pouces Full HD",
@@ -1077,7 +1130,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "LM24-H200"
+    "productref": "LM24-H200",
+    "altwords": "ecran, ecrran, ecrant, ecrn, ecram, écran camera, ecran camera, ecran de surveillance, ecran video, ecran nvr, moniteur camera, moniteur video, moniteur, moniteur de surveillance, moniteur vidéo, moniteur LCD, écran LCD, écran LED, écran HDMI, écran VGA, écran de contrôle, moniteur de vidéosurveillance, écran 22 pouces, écran 24 pouces, écran professionnel, display monitor, video display, écran de contrôle NVR, moniteur de visualisation"
   },
   {
     "title": "Écran 21,5 pouces Full HD",
@@ -1097,7 +1151,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "LM22-H200"
+    "productref": "LM22-H200",
+    "altwords": "ecran, ecrran, ecrant, ecrn, ecram, écran camera, ecran camera, ecran de surveillance, ecran video, ecran nvr, moniteur camera, moniteur video, moniteur, moniteur de surveillance, moniteur vidéo, moniteur LCD, écran LCD, écran LED, écran HDMI, écran VGA, écran de contrôle, moniteur de vidéosurveillance, écran 22 pouces, écran 24 pouces, écran professionnel, display monitor, video display, écran de contrôle NVR, moniteur de visualisation"
   },
   {
     "title": "connecteur RJ45 blindé Coccinelle One Pouce® Cat6A",
@@ -1117,7 +1172,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "71009"
+    "productref": "71009",
+    "altwords": "conecteur RJ45, conneteur RJ45, connecteur rj 45, conecteur rj 45, connecteur r45, connecteur RJ 45, connecteur ethernet, connecteur cable reseau, fiche RJ45, fiche rj 45, prise RJ45, connecteur Ethernet, connecteur réseau, embout RJ45, fiche réseau, plug RJ45, embout Ethernet, connecteur mâle RJ45, connecteur femelle RJ45, tête RJ45, connecteur catégorie 6, connecteur CAT6, connecteur CAT5e, connecteur blindé RJ45, adaptateur RJ45, connectique réseau"
   },
   {
     "title": "Connecteur RJ45 Cat6A blindé toolless ONE PLUG",
@@ -1137,7 +1193,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "71638"
+    "productref": "71638",
+    "altwords": "conecteur RJ45, conneteur RJ45, connecteur rj 45, conecteur rj 45, connecteur r45, connecteur RJ 45, connecteur ethernet, connecteur cable reseau, fiche RJ45, fiche rj 45, prise RJ45, connecteur Ethernet, connecteur réseau, embout RJ45, fiche réseau, plug RJ45, embout Ethernet, connecteur mâle RJ45, connecteur femelle RJ45, tête RJ45, connecteur catégorie 6, connecteur CAT6, connecteur CAT5e, connecteur blindé RJ45, adaptateur RJ45, connectique réseau"
   },
   {
     "title": "Connecteur RJ45 Cat6 UTP traversant à sertir lot de 50 pcs",
@@ -1157,7 +1214,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "940504-K05"
+    "productref": "940504-K05",
+    "altwords": "conecteur RJ45, conneteur RJ45, connecteur rj 45, conecteur rj 45, connecteur r45, connecteur RJ 45, connecteur ethernet, connecteur cable reseau, fiche RJ45, fiche rj 45, prise RJ45, connecteur Ethernet, connecteur réseau, embout RJ45, fiche réseau, plug RJ45, embout Ethernet, connecteur mâle RJ45, connecteur femelle RJ45, tête RJ45, connecteur catégorie 6, connecteur CAT6, connecteur CAT5e, connecteur blindé RJ45, adaptateur RJ45, connectique réseau"
   },
   {
     "title": "Pince à sertir",
@@ -1177,7 +1235,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "999070-B0"
+    "productref": "999070-B0",
+    "altwords": ""
   },
   {
     "title": "Connecteur BNC mâle à sertir lot de 30 pcs",
@@ -1197,7 +1256,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "970205-K03"
+    "productref": "970205-K03",
+    "altwords": "conecteur BNC, conneteur BNC, connecteur bnc, connecteur b n c, connecteur bncc, fiche bnc, fiche b n c, connecteur coaxial, connecteur camera, bnc male, bnc femelle, fiche BNC, connecteur coaxial, connecteur vidéo, prise BNC, adaptateur BNC, embout BNC, connecteur caméra analogique, connecteur DVR, connecteur XVR, plug BNC, connectique BNC, connecteur vissable BNC, connecteur sertissable BNC, connecteur BNC rapide, BNC mâle, BNC femelle, connecteur coaxial vidéo"
   },
   {
     "title": "Connecteur DC mâle 5.5/2.1 mm lot de 30 Pcs",
@@ -1217,7 +1277,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "960101-K03"
+    "productref": "960101-K03",
+    "altwords": "conecteur DC, conneteur DC, connecteur d c, connecteur d.c, connecteur dc 12v, fiche dc, fiche d c, connecteur alimentation, connecteur camera, prise dc, connecteur 12v, fiche d’alimentation, fiche DC, connecteur d’alimentation 12V, prise d’alimentation, plug DC, embout DC, connecteur mâle DC, connecteur femelle DC, connecteur alimentation caméra, adaptateur DC, connecteur 2.1 mm, connecteur 5.5 mm, connecteur alimentation coaxiale, connecteur secteur caméra, connecteur alimentation universel"
   },
   {
     "title": "câble d’alimentation secteur 220 V",
@@ -1237,7 +1298,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "Powercable"
+    "productref": "Powercable",
+    "altwords": ""
   },
   {
     "title": "Adaptateur et Injecteur PoE RJ45",
@@ -1257,7 +1319,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "LAS60-57CN-RJ45"
+    "productref": "LAS60-57CN-RJ45",
+    "altwords": "injecteur poe, inyecteur poe, injecreur poe, injeteur poe, injecteur p.o.e, injecteur reseau, injecteur ethernet, injecteur ip, injecteur camera poe, injetceur poe, adaptateur PoE, alimentation PoE, module PoE, power injector, PoE injector, injecteur d’alimentation réseau, injecteur RJ45, injecteur PoE 30W, injecteur PoE+ 60W, injecteur PoE Gigabit, injecteur de tension RJ45, alimentation PoE externe, injecteur de courant réseau, adaptateur d’alimentation PoE, injecteur PoE caméra IP, injecteur PoE Ethernet"
   },
   {
     "title": "Alimentation Miniature 230V / 12V",
@@ -1277,7 +1340,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "PSEWB1201.5"
+    "productref": "PSEWB1201.5",
+    "altwords": "alim miniature, alimentation miniatur, alimentation mini, alim mini, alimentation compacte, alimentation reduite, petite alimentation, alimentation 12v mini, alim 12v compacte, alim camera mini, alim reduite, bloc d’alimentation miniature, adaptateur secteur miniature, transformateur compact, mini power supply, mini alimentation 12V, alimentation compacte caméra, alimentation encastrable, module d’alimentation 12V, mini PSU, alimentation faible encombrement, alimentation compacte pour caméra, mini adaptateur secteur, alimentation micro format, alimentation petite taille, alimentation légère"
   },
   {
     "title": "Boîtier d’alimentation 9 sorties 12V/10A DC",
@@ -1297,7 +1361,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "PFM342-9CH"
+    "productref": "PFM342-9CH",
+    "altwords": "boitier d’alimentation, boitier alimentation, boitier alim, boitier d’alim, boitier dalimentation, boitier d’alim 12v, boitier electrique camera, boite alimentation, boitier secteur camera, alimentation multiple, coffret d’alimentation, boîtier secteur, alimentation centralisée, bloc d’alimentation caméra, boîtier 12V, power supply box, power box, boîtier de distribution, boîtier d’alimentation 9/18 canaux, boîtier de protection électrique, boîtier alimentation métal, coffret électrique caméra, alimentation vidéo, boîtier alimentation surveillance"
   },
   {
     "title": "Boîtier d’alimentation 5 sorties 12V/4A DC",
@@ -1317,7 +1382,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "PFM340-5CH"
+    "productref": "PFM340-5CH",
+    "altwords": "boitier d’alimentation, boitier alimentation, boitier alim, boitier d’alim, boitier dalimentation, boitier d’alim 12v, boitier electrique camera, boite alimentation, boitier secteur camera, alimentation multiple, coffret d’alimentation, boîtier secteur, alimentation centralisée, bloc d’alimentation caméra, boîtier 12V, power supply box, power box, boîtier de distribution, boîtier d’alimentation 9/18 canaux, boîtier de protection électrique, boîtier alimentation métal, coffret électrique caméra, alimentation vidéo, boîtier alimentation surveillance"
   },
   {
     "title": "Onduleur Zen Live 1000 VA",
@@ -1337,7 +1403,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "66084N1"
+    "productref": "66084N1",
+    "altwords": "onduleuur, ondulleur, onduleure, onduleu, ondulleur, onduleur video, onduleur camera, onduleur nvr, onduleur dvr, onduleur alimentation, onduleur 12v, UPS, alimentation sans coupure, onduleur de sécurité, onduleur de vidéosurveillance, onduleur pour caméra, onduleur pour NVR, onduleur pour DVR, backup power, onduleur informatique, onduleur rackable, onduleur compact, batterie de secours, onduleur de protection, onduleur électrique, onduleur 650VA, onduleur 1000VA"
   },
   {
     "title": "Onduleur Z1 ZenCube EX 600 VA",
@@ -1357,7 +1424,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "66073"
+    "productref": "66073",
+    "altwords": "onduleuur, ondulleur, onduleure, onduleu, ondulleur, onduleur video, onduleur camera, onduleur nvr, onduleur dvr, onduleur alimentation, onduleur 12v, UPS, alimentation sans coupure, onduleur de sécurité, onduleur de vidéosurveillance, onduleur pour caméra, onduleur pour NVR, onduleur pour DVR, backup power, onduleur informatique, onduleur rackable, onduleur compact, batterie de secours, onduleur de protection, onduleur électrique, onduleur 650VA, onduleur 1000VA"
   },
   {
     "title": "Support mural DS-1272ZJ-110-TRS",
@@ -1377,7 +1445,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1272ZJ-110-TRS"
+    "productref": "DS-1272ZJ-110-TRS",
+    "altwords": "uport mural, support murale, suport murale, support murral, support mur, support mural camera, support murale camera, suport camera mural, support de mur, suport de mur, support de fixation mural, support de montage mural, support mural caméra, platine murale, support vertical, équerre murale, wall mount, camera wall mount, mural bracket, support mural étanche, support mural extérieur, support mural aluminium, support mural dôme, support mural bullet, support mural universel"
   },
   {
     "title": "Boite de Jonction DS-1280ZJ-DM18",
@@ -1397,7 +1466,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1280ZJ-DM18"
+    "productref": "DS-1280ZJ-DM18",
+    "altwords": "boîtier de jonction, boîtier de dérivation, boîtier étanche, boîtier mural caméra, boîte étanche caméra, support de caméra mural, boîtier de protection caméra, boîtier technique, junction box, camera junction box, housing box, boîtier raccord caméra, accessoire caméra, support étanche"
   },
   {
     "title": "Boîte de Jonction DS-1281ZJ-DM23",
@@ -1417,7 +1487,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1281ZJ-DM23"
+    "productref": "DS-1281ZJ-DM23",
+    "altwords": "boîtier de jonction, boîtier de dérivation, boîtier étanche, boîtier mural caméra, boîte étanche caméra, support de caméra mural, boîtier de protection caméra, boîtier technique, junction box, camera junction box, housing box, boîtier raccord caméra, accessoire caméra, support étanche"
   },
   {
     "title": "Boîte de Jonction DS 1280ZJ TR13",
@@ -1437,7 +1508,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1280ZJ-TR13"
+    "productref": "DS-1280ZJ-TR13",
+    "altwords": "boîtier de jonction, boîtier de dérivation, boîtier étanche, boîtier mural caméra, boîte étanche caméra, support de caméra mural, boîtier de protection caméra, boîtier technique, junction box, camera junction box, housing box, boîtier raccord caméra, accessoire caméra, support étanche"
   },
   {
     "title": "Boîte de Jonction DS-1280ZJ-DM45",
@@ -1457,7 +1529,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1280ZJ-DM45"
+    "productref": "DS-1280ZJ-DM45",
+    "altwords": "boîtier de jonction, boîtier de dérivation, boîtier étanche, boîtier mural caméra, boîte étanche caméra, support de caméra mural, boîtier de protection caméra, boîtier technique, junction box, camera junction box, housing box, boîtier raccord caméra, accessoire caméra, support étanche"
   },
   {
     "title": "Support de Montage DS-1275ZJ-S-SUS",
@@ -1477,7 +1550,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1275ZJ-S-SUS"
+    "productref": "DS-1275ZJ-S-SUS",
+    "altwords": "suport de montage, support montage, suport montage, support de montag, support montag, support de fixage, support de fixation, fixation camera, support camera, suport camera, support mural camera, support plafond camera, support de fixation, support mural, support plafond, support poteau, support angle, équerre de fixation, platine de montage, accessoire de montage, base de fixation, support universel caméra, bracket, camera mount, wall mount, ceiling mount, camera bracket, support mural étanche"
   },
   {
     "title": "Support Mural DS-1273ZJ-140-DM45",
@@ -1497,7 +1571,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1273ZJ-140-DM45"
+    "productref": "DS-1273ZJ-140-DM45",
+    "altwords": "uport mural, support murale, suport murale, support murral, support mur, support mural camera, support murale camera, suport camera mural, support de mur, suport de mur, support de fixation mural, support de montage mural, support mural caméra, platine murale, support vertical, équerre murale, wall mount, camera wall mount, mural bracket, support mural étanche, support mural extérieur, support mural aluminium, support mural dôme, support mural bullet, support mural universel"
   },
   {
     "title": "Boîte de Jonction DS-1260ZJ",
@@ -1517,7 +1592,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1260ZJ"
+    "productref": "DS-1260ZJ",
+    "altwords": "boîtier de jonction, boîtier de dérivation, boîtier étanche, boîtier mural caméra, boîte étanche caméra, support de caméra mural, boîtier de protection caméra, boîtier technique, junction box, camera junction box, housing box, boîtier raccord caméra, accessoire caméra, support étanche"
   },
   {
     "title": "Support de montage encastré DS-1227ZJ",
@@ -1537,7 +1613,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1227ZJ"
+    "productref": "DS-1227ZJ",
+    "altwords": "suport de montage, support montage, suport montage, support de montag, support montag, support de fixage, support de fixation, fixation camera, support camera, suport camera, support mural camera, support plafond camera, support de fixation, support mural, support plafond, support poteau, support angle, équerre de fixation, platine de montage, accessoire de montage, base de fixation, support universel caméra, bracket, camera mount, wall mount, ceiling mount, camera bracket, support mural étanche"
   },
   {
     "title": "Adaptateur de montage D20-Ap",
@@ -1557,7 +1634,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "D20-Ap"
+    "productref": "D20-Ap",
+    "altwords": "adapteur de montage, adaptateur montage, adapteur montage, adaptateur de montag, adaptateur de fixage, adaptateur camera, adaptateur de camera, adapteur de camera, adaptateur d’installation, adaptateur mural camera, adaptateur de fixation, adaptateur mural, adaptateur plafond, platine d’adaptation, platine de montage, support adaptateur, support de transition, support intermédiaire, montage adapter, camera adapter, bracket adapter, adaptateur dôme, adaptateur bullet, adaptateur universel, adaptateur d’installation caméra"
   },
   {
     "title": "12–24 V PSU (type A)",
@@ -1577,7 +1655,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "59359.94.NC"
+    "productref": "59359.94.NC",
+    "altwords": "psu 12v 24v type a, alimentation 12v 24v type a, psu ajax type a, alim 12 24v type a, bloc 12v 24v ajax, module psu 12v type a, module psu ajax type a, psu type-a, alimentation type a ajax,alimentation 12/24 V AJAX, module d’alimentation PSU AJAX, convertisseur 12/24 V vers 110-230 V, alimentation externe pour hub AJAX, module PSU Type A AJAX, alimentation continue AJAX, bloc d’alimentation auxiliaire AJAX, power supply unit AJAX, PSU Ajax 12/24 V Type A, adaptateur d’alimentation basse tension AJAX, alimentation pour Hub ou ReX Type A"
   },
   {
     "title": "6V PSU (type A)",
@@ -1597,7 +1676,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "38213.78.NC"
+    "productref": "38213.78.NC",
+    "altwords": "psu 6v type a, alimentation 6v type a, psu ajax 6v type a, alim 6v type a, bloc 6v ajax, module psu 6v type a, module psu ajax type a, psu type-a 6v, alimentation 6 V AJAX, module PSU 6 V AJAX, convertisseur 6 V pour Hub AJAX, bloc d’alimentation 6 V, module d’alimentation basse tension AJAX, power supply unit 6 V AJAX, adaptateur secteur 6 V AJAX, alimentation externe pour hub AJAX, PSU Ajax Type A 6V, alimentation secours 6V AJAX, alimentation portable pour Hub / ReX Type A"
   },
   {
     "title": "MotionProtect Blanc",
@@ -1617,7 +1697,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38193.09.WH1"
+    "productref": "38193.09.WH1",
+    "altwords": "detecteur IR, detecteur infra rouge, detecteur infrarouge, detecteur infra-rouge, detecteur infrarouge ajax, detecteur infra rouge ajax, detecteur ir ajax, detecteur mouvement IR, detecteur PIR ajax, detecteur IR sans fil, detecteur ir exterieur, detecteur ir interieur, MotionProtect, MotionProtect Plus, MotionProtect Outdoor, MotionCam, MotionCam Outdoor, capteur infrarouge AJAX, capteur PIR AJAX, détecteur de mouvement AJAX, détecteur de présence AJAX, détecteur IR sans fil, capteur IR sans fil, détecteur IR extérieur, détecteur IR intérieur, détecteur PIR sans fil, capteur IR blanc, capteur IR noir"
   },
   {
     "title": "MultiTransmitter Noir",
@@ -1637,7 +1718,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38201.62.BL1"
+    "productref": "38201.62.BL1",
+    "altwords": "multi transmitter noir, multi-transmitter noir, multitransmiter noir, multitransmisseur noir, multitransmitteur noir, multitransmitter ajax noir, multi transmitter ajax noir, multitransmitter black, module d’intégration AJAX, MultiTransmitter AJAX, interface filaire AJAX, convertisseur filaire sans fil AJAX, transmetteur universel AJAX, module de raccordement capteurs filaires, adaptateur capteurs filaires AJAX, module 18 zones AJAX, MultiTransmitter Ajax noir, interface entrée filaire AJAX, passerelle capteurs filaires, convertisseur d’alarme filaire AJAX"
   },
   {
     "title": "Holder pour Button/DoubleButton Blanc",
@@ -1657,7 +1739,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "38215.82.WH"
+    "productref": "38215.82.WH",
+    "altwords": "holder pour button blanc, holder doublebutton blanc, holder double button blanc, holder bouton blanc, hollder button blanc, holdder button blanc, holder ajax blanc, holder white, support mural AJAX, support pour bouton AJAX, support pour Button AJAX, support pour DoubleButton AJAX, fixation murale AJAX, support AJAX blanc, support de montage Button AJAX, base de maintien AJAX, support pour alarme AJAX, Holder Ajax blanc, support bouton panique AJAX blanc"
   },
   {
     "title": "Holder pour Button/DoubleButton Noir",
@@ -1677,7 +1760,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "38214.82.BL"
+    "productref": "38214.82.BL",
+    "altwords": "holder pour button noir, holder doublebutton noir, holder double button noir, holder bouton noir, hollder button noir, holdder button noir, holder ajax noir, holder black, support mural AJAX, support pour bouton AJAX, support pour Button AJAX, support pour DoubleButton AJAX, fixation murale AJAX, support AJAX noir, support de montage Button AJAX, base de maintien AJAX, support pour alarme AJAX, Holder Ajax noir, support bouton panique AJAX noir"
   },
   {
     "title": "Hood (MPO)",
@@ -1697,7 +1781,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "38216.60.WH"
+    "productref": "38216.60.WH",
+    "altwords": "hod ajax, houd ajax, hoode ajax, hooda ajax, capot ajax, cache ajax, protection pluie ajax, visiere ajax, pare pluie ajax, hood detector, ajax hood, pare-pluie AJAX, capot de protection AJAX, visière de détecteur AJAX, protection extérieure AJAX, abri capteur AJAX, cache détecteur AJAX, accessoire extérieur AJAX, housse de protection AJAX, hood pour détecteur extérieur AJAX, pare soleil AJAX, protection anti-pluie détecteur AJAX"
   },
   {
     "title": "MultiTransmitter Blanc",
@@ -1717,7 +1802,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38200.62.WH1"
+    "productref": "38200.62.WH1",
+    "altwords": "multi transmitter blanc, multi-transmitter blanc, multitransmiter blanc, multitransmisseur blanc, multitransmitteur blanc, multitransmitter ajax blanc, multi transmitter ajax blanc, multitransmitter white, module d’intégration AJAX, MultiTransmitter AJAX, interface filaire AJAX, convertisseur filaire sans fil AJAX, transmetteur universel AJAX, module de raccordement capteurs filaires, adaptateur capteurs filaires AJAX, module 18 zones AJAX, MultiTransmitter Ajax blanc, interface entrée filaire AJAX, passerelle capteurs filaires, convertisseur d’alarme filaire AJAX"
   },
   {
     "title": "VHFBRIDGE Blanc",
@@ -1737,7 +1823,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38186.92.WH1"
+    "productref": "38186.92.WH1",
+    "altwords": "bhf bridge blanc, bhf-bridge blanc, bhfbrige blanc, bhfbridg blanc, bhfbridge ajax blanc, bhf bridge ajax blanc, bhfbridge white, passerelle radio AJAX, module de communication AJAX, BHFBridge AJAX, pont sans fil AJAX, adaptateur radio AJAX, interface de communication AJAX, bridge AJAX, module de liaison AJAX, BHF Bridge Ajax blanc, passerelle de liaison AJAX, relais sans fil AJAX, pont de signal AJAX"
   },
   {
     "title": "VHFBRIDGE Noir",
@@ -1757,7 +1844,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38187.92.BL1"
+    "productref": "38187.92.BL1",
+    "altwords": "bhf bridge noir, bhf-bridge noir, bhfbrige noir, bhfbridg noir, bhfbridge ajax noir, bhf bridge ajax noir, bhfbridge black, passerelle radio AJAX, module de communication AJAX, BHFBridge AJAX, pont sans fil AJAX, adaptateur radio AJAX, interface de communication AJAX, bridge AJAX, module de liaison AJAX, BHF Bridge Ajax noir, passerelle de liaison AJAX, relais sans fil AJAX, pont de signal AJAX"
   },
   {
     "title": "DIN Holder",
@@ -1777,7 +1865,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "51170.132.BL"
+    "productref": "51170.132.BL",
+    "altwords": "dinholder, din-holde, din holde, din hollder, holder din, din rail holder, din support ajax, dinholder ajax, support rail DIN AJAX, adaptateur rail DIN, support pour module AJAX, fixation rail DIN, support électrique AJAX, support tableau électrique AJAX, base DIN AJAX, support alimentation AJAX, accessoire rail DIN AJAX, DIN mount, DIN bracket, support pour boîtier AJAX"
   },
   {
     "title": "Transmitter",
@@ -1797,7 +1886,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38184.18.NC1"
+    "productref": "38184.18.NC1",
+    "altwords": "transmiter, transmittor, transmittre, transmiteur, transmitter ajax, transmitter blanc, transmitter noir, module radio AJAX, Transmitter AJAX, émetteur sans fil AJAX, convertisseur filaire sans fil AJAX, interface de communication AJAX, adaptateur capteurs filaires AJAX, module d’entrée sans fil AJAX, transmetteur universel AJAX, module de liaison AJAX, Transmitter Ajax module, convertisseur d’alarme filaire AJAX"
   },
   {
     "title": "WallSwitch",
@@ -1817,7 +1907,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38189.13.BL1"
+    "productref": "38189.13.BL1",
+    "altwords": "relai, relays, relaye, relaie, relais ajax, relai ajax, relais alarme, relais sans fil, relai sans fil, relais noir, relais blanc,Relay, WallSwitch, Socket, Wall Switch, relais AJAX, module relais AJAX, relais connecté AJAX, relais de commande, module contact sec AJAX, relais sans fil AJAX, relais d’alimentation, relais intelligent AJAX, interrupteur connecté AJAX, relais domotique AJAX, Smart Relay, Smart Plug AJAX"
   },
   {
     "title": "Relay",
@@ -1837,7 +1928,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38204.19.NC1"
+    "productref": "38204.19.NC1",
+    "altwords": "relai, relays, relaye, relaie, relais ajax, relai ajax, relais alarme, relais sans fil, relai sans fil, relais noir, relais blanc,Relay, WallSwitch, Socket, Wall Switch, relais AJAX, module relais AJAX, relais connecté AJAX, relais de commande, module contact sec AJAX, relais sans fil AJAX, relais d’alimentation, relais intelligent AJAX, interrupteur connecté AJAX, relais domotique AJAX, Smart Relay, Smart Plug AJAX"
   },
   {
     "title": "HomeSiren Blanc",
@@ -1857,7 +1949,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38110.11.BL1"
+    "productref": "38110.11.BL1",
+    "altwords": "home siren blanc, home-siren blanc, homesiren ajax blanc, homsiren blanc, homesirene blanc, sirene interieur blanc, sirene alarme blanc, sirene ajax blanc, homesiren white, sirène intérieure AJAX, HomeSiren AJAX, alarme intérieure AJAX, sirène sans fil intérieure AJAX, sirène radio AJAX, sirène connectée AJAX, avertisseur sonore intérieur AJAX, alarme sonore AJAX, sirène alarme AJAX blanche, HomeSiren Ajax blanc, sirène d’intérieur AJAX, module sonore AJAX blanc, sirène de sécurité AJAX"
   },
   {
     "title": "HomeSiren Noir",
@@ -1877,7 +1970,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38110.11.BL1"
+    "productref": "38110.11.BL1",
+    "altwords": "home siren noir, home-siren noir, homesiren ajax noir, homsiren noir, homesirene noir, sirene interieur noir, sirene alarme noir, sirene ajax noir, homesiren black, sirène intérieure AJAX, HomeSiren AJAX, alarme intérieure AJAX, sirène sans fil intérieure AJAX, sirène radio AJAX, sirène connectée AJAX, avertisseur sonore intérieur AJAX, alarme sonore AJAX, sirène alarme AJAX noire, HomeSiren Ajax noir, sirène d’intérieur AJAX, module sonore AJAX noir, sirène de sécurité AJAX"
   },
   {
     "title": "SpeakerPhone Blanc",
@@ -1897,7 +1991,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "87530.180.WH1"
+    "productref": "87530.180.WH1",
+    "altwords": "speaker phone blanc, speaker-phone blanc, speekerphone blanc, speakerphon blanc, speaker ajax blanc, speakerphone ajax blanc, speaker ajax white, haut parleur ajax blanc, sirene vocale ajax blanc, alarme vocale ajax blanc, haut-parleur AJAX, sirène vocale AJAX, alarme parlante AJAX, module audio AJAX, SpeakerPhone AJAX, émetteur sonore AJAX, alerte vocale AJAX, haut-parleur sans fil AJAX, SpeakerPhone Ajax blanc, dispositif audio AJAX, alarme vocale intérieure AJAX, module vocal AJAX, sirène connectée AJAX, haut-parleur alarme AJAX, speaker audio AJAX"
   },
   {
     "title": "SpeakerPhone Noir",
@@ -1917,7 +2012,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "87531.180.BL1"
+    "productref": "87531.180.BL1",
+    "altwords": "speaker phone noir, speaker-phone noir, speekerphone noir, speakerphon noir, speaker ajax noir, speakerphone ajax noir, speaker ajax black, haut parleur ajax noir, sirene vocale ajax noir, alarme vocale ajax noir, haut-parleur AJAX, sirène vocale AJAX, alarme parlante AJAX, module audio AJAX, SpeakerPhone AJAX, émetteur sonore AJAX, alerte vocale AJAX, haut-parleur sans fil AJAX, SpeakerPhone Ajax noir, dispositif audio AJAX, alarme vocale intérieure AJAX, module vocal AJAX, sirène connectée AJAX, haut-parleur alarme AJAX, speaker audio AJAX"
   },
   {
     "title": "StreetSiren DoubleDeck Blanc",
@@ -1937,7 +2033,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38180.61.WH1"
+    "productref": "38180.61.WH1",
+    "altwords": "street siren doubledeck blanc, street-siren doubledeck blanc, streetsiren double deck blanc, street siren double deck blanc, stretsiren doubledeck blanc, stretsiren ajax doubledeck blanc, streetsiren ajax doubledeck blanc, doubledeck ajax blanc, double deck ajax blanc, streetsiren doubledeck white, sirène extérieure personnalisable AJAX, StreetSiren DoubleDeck AJAX, sirène extérieure AJAX, sirène sans fil extérieure AJAX, alarme extérieure AJAX, Street Siren DoubleDeck Ajax blanc, sirène DoubleDeck blanche, sirène connectée AJAX, avertisseur sonore extérieur AJAX, sirène radio AJAX, sirène alarme extérieure blanche, sirène étanche AJAX, StreetSiren Double Deck AJAX blanc"
   },
   {
     "title": "StreetSiren DoubleDeck Noir",
@@ -1957,7 +2054,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38181.61.BL1"
+    "productref": "38181.61.BL1",
+    "altwords": "street siren doubledeck noir, street-siren doubledeck noir, streetsiren double deck noir, street siren double deck noir, stretsiren doubledeck noir, stretsiren ajax doubledeck noir, streetsiren ajax doubledeck noir, doubledeck ajax noir, double deck ajax noir, streetsiren doubledeck black, sirène extérieure personnalisable AJAX, StreetSiren DoubleDeck AJAX, sirène extérieure AJAX, sirène sans fil extérieure AJAX, alarme extérieure AJAX, Street Siren DoubleDeck Ajax noir, sirène DoubleDeck noire, sirène connectée AJAX, avertisseur sonore extérieur AJAX, sirène radio AJAX, sirène alarme extérieure noire, sirène étanche AJAX, StreetSiren Double Deck AJAX noir"
   },
   {
     "title": "StreetSiren Blanc",
@@ -1977,7 +2075,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38178.07.WH1"
+    "productref": "38178.07.WH1",
+    "altwords": "street siren blanc, street-siren blanc, stretsiren blanc, stretsiren ajax blanc, streetsiren ajax blanc, streetsiren white, streetsiren plus blanc, sirene exterieure blanc, sirene ajax blanc, sirene alarme exterieure blanc, sirène extérieure AJAX, StreetSiren AJAX, alarme extérieure AJAX, sirène sans fil AJAX, sirène radio AJAX, alarme sonore extérieure AJAX, sirène connectée AJAX, sirène d’alerte extérieure AJAX, Street Siren Ajax blanc, sirène étanche AJAX, sirène alarme blanche, StreetSiren Plus AJAX blanc, avertisseur sonore AJAX, sirène extérieure sans fil"
   },
   {
     "title": "StreetSiren Noir",
@@ -1997,7 +2096,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38179.07.BL1"
+    "productref": "38179.07.BL1",
+    "altwords": "street siren noir, street-siren noir, stretsiren noir, stretsiren ajax noir, streetsiren ajax noir, streetsiren black, streetsiren plus noir, sirene exterieure noir, sirene ajax noir, sirene alarme exterieure noir, sirène extérieure AJAX, StreetSiren AJAX, alarme extérieure AJAX, sirène sans fil AJAX, sirène radio AJAX, alarme sonore extérieure AJAX, sirène connectée AJAX, sirène d’alerte extérieure AJAX, Street Siren Ajax noir, sirène étanche AJAX, sirène alarme noire, StreetSiren Plus AJAX noir, avertisseur sonore AJAX, sirène extérieure sans fil"
   },
   {
     "title": "Tag (3pcs) Blanc",
@@ -2017,7 +2117,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "DESFire®",
-    "productref": "38232.90.WH"
+    "productref": "38232.90.WH",
+    "altwords": "badje, badg, badgge, bagde, bajde, badge ajax, badge alarme, badge sans fil, badge noir, badge blanc, Tag, Pass, Ajax Tag, Ajax Pass, badge RFID, badge d’accès AJAX, badge de désactivation, badge de sécurité AJAX, badge KeyPad Plus, badge alarme AJAX, clé RFID AJAX, badge magnétique AJAX, badge utilisateur AJAX, badge connecté AJAX, badge NFC AJAX"
   },
   {
     "title": "Tag (3pcs) noir",
@@ -2037,7 +2138,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "DESFire®",
-    "productref": "38228.90.BL"
+    "productref": "38228.90.BL",
+    "altwords": "badje, badg, badgge, bagde, bajde, badge ajax, badge alarme, badge sans fil, badge noir, badge blanc, Tag, Pass, Ajax Tag, Ajax Pass, badge RFID, badge d’accès AJAX, badge de désactivation, badge de sécurité AJAX, badge KeyPad Plus, badge alarme AJAX, clé RFID AJAX, badge magnétique AJAX, badge utilisateur AJAX, badge connecté AJAX, badge NFC AJAX"
   },
   {
     "title": "Pass Blanc( Lots de 3 )",
@@ -2057,7 +2159,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "DESFire®",
-    "productref": "23496.89.WH"
+    "productref": "23496.89.WH",
+    "altwords": "badje, badg, badgge, bagde, bajde, badge ajax, badge alarme, badge sans fil, badge noir, badge blanc, Tag, Pass, Ajax Tag, Ajax Pass, badge RFID, badge d’accès AJAX, badge de désactivation, badge de sécurité AJAX, badge KeyPad Plus, badge alarme AJAX, clé RFID AJAX, badge magnétique AJAX, badge utilisateur AJAX, badge connecté AJAX, badge NFC AJAX"
   },
   {
     "title": "Pass Noir ( Lots de 3 )",
@@ -2077,7 +2180,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "DESFire®",
-    "productref": "23945.89.BL"
+    "productref": "23945.89.BL",
+    "altwords": "badje, badg, badgge, bagde, bajde, badge ajax, badge alarme, badge sans fil, badge noir, badge blanc, Tag, Pass, Ajax Tag, Ajax Pass, badge RFID, badge d’accès AJAX, badge de désactivation, badge de sécurité AJAX, badge KeyPad Plus, badge alarme AJAX, clé RFID AJAX, badge magnétique AJAX, badge utilisateur AJAX, badge connecté AJAX, badge NFC AJAX"
   },
   {
     "title": "Keypad Plus Blanc",
@@ -2097,7 +2201,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38253.83.WH1"
+    "productref": "38253.83.WH1",
+    "altwords": "clayvier, claver, clavie, clavier ajax, clavier alarme, clavier sans fil, clavier noire, clavier blanc, claviere, calvier,KeyPad,KeyPad Touchscreen, KeyPad Plus, Key Pad, clavier AJAX, clavier de commande, clavier sans fil AJAX, clavier tactile AJAX, clavier alarme AJAX, KeyPad blanc, KeyPad noir, clavier armement, clavier désarmement, module clavier AJAX, KeyPad Plus blanc, KeyPad Plus noir, KeyPad touchscreen blanc, KeyPad touchscreen noir"
   },
   {
     "title": "Keypad Plus Noir",
@@ -2117,7 +2222,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38252.83.BL1"
+    "productref": "38252.83.BL1",
+    "altwords": "clayvier, claver, clavie, clavier ajax, clavier alarme, clavier sans fil, clavier noire, clavier blanc, claviere, calvier,KeyPad,KeyPad Touchscreen, KeyPad Plus, Key Pad, clavier AJAX, clavier de commande, clavier sans fil AJAX, clavier tactile AJAX, clavier alarme AJAX, KeyPad blanc, KeyPad noir, clavier armement, clavier désarmement, module clavier AJAX, KeyPad Plus blanc, KeyPad Plus noir, KeyPad touchscreen blanc, KeyPad touchscreen noir"
   },
   {
     "title": "Keypad Blanc",
@@ -2137,7 +2243,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38249.12.WH1"
+    "productref": "38249.12.WH1",
+    "altwords": "clayvier, claver, clavie, clavier ajax, clavier alarme, clavier sans fil, clavier noire, clavier blanc, claviere, calvier,KeyPad,KeyPad Touchscreen, KeyPad Plus, Key Pad, clavier AJAX, clavier de commande, clavier sans fil AJAX, clavier tactile AJAX, clavier alarme AJAX, KeyPad blanc, KeyPad noir, clavier armement, clavier désarmement, module clavier AJAX, KeyPad Plus blanc, KeyPad Plus noir, KeyPad touchscreen blanc, KeyPad touchscreen noir"
   },
   {
     "title": "Keypad Noir",
@@ -2157,7 +2264,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38248.12.BL1"
+    "productref": "38248.12.BL1",
+    "altwords": "clayvier, claver, clavie, clavier ajax, clavier alarme, clavier sans fil, clavier noire, clavier blanc, claviere, calvier,KeyPad,KeyPad Touchscreen, KeyPad Plus, Key Pad, clavier AJAX, clavier de commande, clavier sans fil AJAX, clavier tactile AJAX, clavier alarme AJAX, KeyPad blanc, KeyPad noir, clavier armement, clavier désarmement, module clavier AJAX, KeyPad Plus blanc, KeyPad Plus noir, KeyPad touchscreen blanc, KeyPad touchscreen noir"
   },
   {
     "title": "KeyPad TouchScreen Blanc",
@@ -2177,7 +2285,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "58455.148.WH1"
+    "productref": "58455.148.WH1",
+    "altwords": "clayvier, claver, clavie, clavier ajax, clavier alarme, clavier sans fil, clavier noire, clavier blanc, claviere, calvier,KeyPad,KeyPad Touchscreen, KeyPad Plus, Key Pad, clavier AJAX, clavier de commande, clavier sans fil AJAX, clavier tactile AJAX, clavier alarme AJAX, KeyPad blanc, KeyPad noir, clavier armement, clavier désarmement, module clavier AJAX, KeyPad Plus blanc, KeyPad Plus noir, KeyPad touchscreen blanc, KeyPad touchscreen noir"
   },
   {
     "title": "KeyPad TouchScreen Noir",
@@ -2197,7 +2306,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "58454.148.BL1"
+    "productref": "58454.148.BL1",
+    "altwords": "clayvier, claver, clavie, clavier ajax, clavier alarme, clavier sans fil, clavier noire, clavier blanc, claviere, calvier,KeyPad,KeyPad Touchscreen, KeyPad Plus, Key Pad, clavier AJAX, clavier de commande, clavier sans fil AJAX, clavier tactile AJAX, clavier alarme AJAX, KeyPad blanc, KeyPad noir, clavier armement, clavier désarmement, module clavier AJAX, KeyPad Plus blanc, KeyPad Plus noir, KeyPad touchscreen blanc, KeyPad touchscreen noir"
   },
   {
     "title": "SpaceControl Blanc",
@@ -2217,7 +2327,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38166.04.WH1"
+    "productref": "38166.04.WH1",
+    "altwords": "telecommande, telecomande, telecommmande, telecmd, telecomde, telecommande ajax, telecommande alarme, telecommande sans fil, telecommande noire, telecommande blanche, SpaceControl, Space Control, télécommande AJAX, télécommande alarme AJAX, télécommande 4 boutons, télécommande sans fil AJAX, télécommande armement désarmement, SpaceControl blanche, SpaceControl noire, émetteur AJAX, clé sans fil AJAX, télécommande sécurité, contrôle alarme AJAX"
   },
   {
     "title": "SpaceControl Noir",
@@ -2237,7 +2348,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38167.04.BL1"
+    "productref": "38167.04.BL1",
+    "altwords": "telecommande, telecomande, telecommmande, telecmd, telecomde, telecommande ajax, telecommande alarme, telecommande sans fil, telecommande noire, telecommande blanche, SpaceControl, Space Control, télécommande AJAX, télécommande alarme AJAX, télécommande 4 boutons, télécommande sans fil AJAX, télécommande armement désarmement, SpaceControl blanche, SpaceControl noire, émetteur AJAX, clé sans fil AJAX, télécommande sécurité, contrôle alarme AJAX"
   },
   {
     "title": "DoubleButton Blanc",
@@ -2257,7 +2369,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38103.79.WH1"
+    "productref": "38103.79.WH1",
+    "altwords": "boutton, botton, boutron, boutton ajax, bouton ajax, bouton alarme, bouton panique, bouton urgence, bouton noir, bouton blanc,Button, DoubleButton, bouton d’urgence AJAX, bouton panique AJAX, bouton alarme AJAX, bouton sans fil AJAX, télécommande d’alerte AJAX, déclencheur d’alarme AJAX, bouton SOS AJAX, bouton de panique sans fil, bouton d’alerte AJAX, bouton connecté AJAX, Button blanc, Button noir, DoubleButton blanc, DoubleButton noir"
   },
   {
     "title": "DoubleButton Noir",
@@ -2277,7 +2390,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "23002.79.BL1"
+    "productref": "23002.79.BL1",
+    "altwords": "boutton, botton, boutron, boutton ajax, bouton ajax, bouton alarme, bouton panique, bouton urgence, bouton noir, bouton blanc,Button, DoubleButton, bouton d’urgence AJAX, bouton panique AJAX, bouton alarme AJAX, bouton sans fil AJAX, télécommande d’alerte AJAX, déclencheur d’alarme AJAX, bouton SOS AJAX, bouton de panique sans fil, bouton d’alerte AJAX, bouton connecté AJAX, Button blanc, Button noir, DoubleButton blanc, DoubleButton noir"
   },
   {
     "title": "Button Blanc",
@@ -2297,7 +2411,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38095.26.WH1"
+    "productref": "38095.26.WH1",
+    "altwords": "boutton, botton, boutron, boutton ajax, bouton ajax, bouton alarme, bouton panique, bouton urgence, bouton noir, bouton blanc,Button, DoubleButton, bouton d’urgence AJAX, bouton panique AJAX, bouton alarme AJAX, bouton sans fil AJAX, télécommande d’alerte AJAX, déclencheur d’alarme AJAX, bouton SOS AJAX, bouton de panique sans fil, bouton d’alerte AJAX, bouton connecté AJAX, Button blanc, Button noir, DoubleButton blanc, DoubleButton noir"
   },
   {
     "title": "Button noir",
@@ -2317,7 +2432,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38094.26.BL1"
+    "productref": "38094.26.BL1",
+    "altwords": "boutton, botton, boutron, boutton ajax, bouton ajax, bouton alarme, bouton panique, bouton urgence, bouton noir, bouton blanc,Button, DoubleButton, bouton d’urgence AJAX, bouton panique AJAX, bouton alarme AJAX, bouton sans fil AJAX, télécommande d’alerte AJAX, déclencheur d’alarme AJAX, bouton SOS AJAX, bouton de panique sans fil, bouton d’alerte AJAX, bouton connecté AJAX, Button blanc, Button noir, DoubleButton blanc, DoubleButton noir"
   },
   {
     "title": "MotionCam Outdoor (PhOD) Blanc",
@@ -2337,7 +2453,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "39293.121.WH1"
+    "productref": "39293.121.WH1",
+    "altwords": "motion cam outdoor phod blanc, motion-cam outdoor phod blanc, motioncam (phod) outdoor blanc, motioncam ajax phod outdoor blanc, motioncam outdoor phod white, motioncam outdor phod blanc, motioncam photo on demand blanc, motioncam outdoor (phod) ajax blanc, détecteur de mouvement extérieur avec photo AJAX, MotionCam Outdoor (PhOD) AJAX, détecteur PIR caméra extérieure AJAX, détecteur infrarouge photo extérieur AJAX, détecteur photo à la demande AJAX, détecteur extérieur connecté AJAX, détecteur PIR image extérieur AJAX, MotionCam PhOD Outdoor Ajax blanc, détecteur de mouvement avec capture photo AJAX, capteur photo extérieur AJAX blanc, détecteur extérieur PIR avec photo AJAX"
   },
   {
     "title": "MotionCam Outdoor Blanc",
@@ -2357,7 +2474,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38192.84.WH1"
+    "productref": "38192.84.WH1",
+    "altwords": "motion cam outdoor blanc, motion-cam outdoor blanc, motincam outdoor blanc, motioncam ajax outdoor blanc, motioncam outdor blanc, motioncam outdorr blanc, motioncam exterieur blanc, motioncam photo exterieur blanc, détecteur de mouvement avec photo extérieur AJAX, MotionCam Outdoor AJAX, capteur PIR avec caméra AJAX, détecteur infrarouge photo AJAX, détecteur extérieur avec caméra AJAX, détecteur photo extérieur AJAX, détecteur de mouvement PIR caméra, MotionCam Outdoor Ajax blanc, détecteur PIR avec image AJAX, détecteur extérieur sans fil AJAX blanc, détecteur caméra extérieure AJAX"
   },
   {
     "title": "MotionProtect Outdoor Blanc",
@@ -2377,7 +2495,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38197.33.WH1"
+    "productref": "38197.33.WH1",
+    "altwords": "motion protect outdoor blanc, motion-protect outdoor blanc, motinprotect outdoor blanc, motionprotec outdoor blanc, motionprotct outdoor blanc, motionprotect outdor blanc, motionprotect outdorr blanc, motionprotect ajax outdoor blanc, motionprotect exterieur blanc, détecteur de mouvement extérieur AJAX, capteur extérieur AJAX, MotionProtect Outdoor AJAX, détecteur PIR extérieur AJAX, détecteur infrarouge extérieur AJAX, capteur de mouvement longue portée, détecteur de mouvement sans fil AJAX blanc, détecteur double PIR AJAX blanc, détecteur de périmètre AJAX blanc, détecteur anti-sabotage AJAX, capteur IR extérieur AJAX blanc, MotionProtect Outdoor Ajax blanc"
   },
   {
     "title": "DualCurtain Outdoor Blanc",
@@ -2397,7 +2516,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "39055.81.WH1"
+    "productref": "39055.81.WH1",
+    "altwords": "dual curtain outdoor blanc, dual-curtain outdoor blanc, dualcurtin outdoor blanc, dualcurtain outdor blanc, dualcurtain ajax blanc, dualcurtain outdoor ajax blanc, dualcurtain exterieur blanc, dualcurtain outdorr blanc, détecteur double rideau AJAX, DualCurtain Outdoor AJAX, capteur double PIR AJAX, détecteur périmétrique double AJAX, détecteur de mouvement extérieur AJAX, capteur IR double AJAX, détecteur extérieur longue portée, détecteur de façade AJAX, détecteur extérieur sans fil AJAX blanc, capteur extérieur AJAX blanc, détecteur rideau bidirectionnel AJAX, détecteur extérieur à double faisceau AJAX"
   },
   {
     "title": "Curtain Outdoor Blanc",
@@ -2417,7 +2537,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "101441.289.WH1"
+    "productref": "101441.289.WH1",
+    "altwords": "motion protect curtain outdoor blanc, motion-protect curtain outdoor blanc, motionprotectcurtain outdoor blanc, motinprotect curtain outdoor blanc, motionprotec curtain outdoor blanc, curtain outdoor ajax blanc, motionprotect curtain outdor blanc, motionprotect curtain exterieur blanc, détecteur rideau extérieur AJAX, MotionProtect Curtain Outdoor AJAX, capteur rideau extérieur AJAX, détecteur périmétrique AJAX, détecteur infrarouge extérieur rideau, détecteur PIR extérieur AJAX, détecteur de mouvement rideau étroit, capteur IR rideau AJAX, détecteur sans fil extérieur AJAX blanc, capteur extérieur AJAX blanc, détecteur de périmètre AJAX blanc"
   },
   {
     "title": "MotionProtect Curtain Blanc",
@@ -2437,7 +2558,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38195.36.WH1"
+    "productref": "38195.36.WH1",
+    "altwords": "motion protect curtain blanc, motion-protect curtain blanc, motinprotect curtain blanc, motionprotec curtain blanc, motionprotct curtain blanc, motionprotectcurtain blanc, motionprotect ajax curtain blanc, curtain ajax blanc, detecteur rideau blanc, detecteur infrarouge rideau blanc, detecteur ajax rideau blanc, détecteur rideau AJAX, MotionProtect Curtain AJAX, capteur rideau AJAX, détecteur périmétrique AJAX, détecteur infrarouge rideau, capteur PIR rideau AJAX, détecteur de mouvement étroit, détecteur extérieur rideau, détecteur intérieur rideau, détecteur sans fil rideau AJAX blanc, capteur de mouvement rideau AJAX blanc, MotionProtect Curtain Ajax blanc"
   },
   {
     "title": "MotionProtect Curtain Noir",
@@ -2457,7 +2579,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38196.36.BL1"
+    "productref": "38196.36.BL1",
+    "altwords": "motion protect curtain noir, motion-protect curtain noir, motinprotect curtain noir, motionprotec curtain noir, motionprotct curtain noir, motionprotectcurtain noir, motionprotect ajax curtain noir, curtain ajax noir, detecteur rideau noir, detecteur infrarouge rideau noir, detecteur ajax rideau noir, détecteur rideau AJAX, MotionProtect Curtain AJAX, capteur rideau AJAX, détecteur périmétrique AJAX, détecteur infrarouge rideau, capteur PIR rideau AJAX, détecteur de mouvement étroit, détecteur extérieur rideau, détecteur intérieur rideau, détecteur sans fil rideau AJAX noir, capteur de mouvement rideau AJAX noir, MotionProtect Curtain Ajax noir"
   },
   {
     "title": "MotionCam (PhOD) Blanc",
@@ -2477,7 +2600,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "39290.120.WH1"
+    "productref": "39290.120.WH1",
+    "altwords": "motion cam phod blanc, motion-cam phod blanc, motioncam (phod) blanc, motioncam ajax phod blanc, motioncam phod white, motioncam photo blanc, detecteur phod blanc, detecteur motioncam plus photo blanc, détecteur de mouvement avec capture photo AJAX, MotionCam (PhOD) AJAX, capteur photo intelligent AJAX, détecteur PIR caméra connectée AJAX, détecteur d’image à la demande AJAX, détecteur de mouvement avec envoi photo AJAX, MotionCam PhOD Ajax blanc, détecteur PIR photo blanc, détecteur photo cloud AJAX, MotionCam photo on demand blanc"
   },
   {
     "title": "MotionCam (PhOD) Noir",
@@ -2497,7 +2621,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "39289.120.BL1"
+    "productref": "39289.120.BL1",
+    "altwords": "motion cam phod noir, motion-cam phod noir, motioncam (phod) noir, motioncam ajax phod noir, motioncam phod black, motioncam photo noir, detecteur phod noir, detecteur motioncam plus photo noir, détecteur de mouvement avec capture photo AJAX, MotionCam (PhOD) AJAX, capteur photo intelligent AJAX, détecteur PIR caméra connectée AJAX, détecteur d’image à la demande AJAX, détecteur de mouvement avec envoi photo AJAX, MotionCam PhOD Ajax noir, détecteur PIR photo noir, détecteur photo cloud AJAX, MotionCam photo on demand noir"
   },
   {
     "title": "MotionCam Blanc",
@@ -2517,7 +2642,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38190.23.WH1"
+    "productref": "38190.23.WH1",
+    "altwords": "motion cam blanc, motion-cam blanc, motincam blanc, motioncam ajax blanc, motioncam white, motioncam interieur blanc, detecteur photo blanc, detecteur ir photo blanc, detecteur camera blanc, détecteur de mouvement avec photo AJAX, capteur photo AJAX, détecteur PIR avec caméra AJAX, MotionCam AJAX, détecteur infrarouge avec image, détecteur de mouvement intérieur AJAX, capteur PIR AJAX, détecteur sans fil AJAX blanc, MotionCam Ajax blanc, détecteur PIR caméra blanche, capteur photo PIR AJAX blanc, détecteur d’image AJAX"
   },
   {
     "title": "MotionCam Noir",
@@ -2537,7 +2663,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38191.23.BL1"
+    "productref": "38191.23.BL1",
+    "altwords": "motion cam noir, motion-cam noir, motincam noir, motioncam ajax noir, motioncam black, motioncam interieur noir, detecteur photo noir, detecteur ir photo noir, detecteur camera noir, détecteur de mouvement avec photo AJAX, capteur photo AJAX, détecteur PIR avec caméra AJAX, MotionCam AJAX, détecteur infrarouge avec image, détecteur de mouvement intérieur AJAX, capteur PIR AJAX, détecteur sans fil AJAX noir, MotionCam Ajax noir, détecteur PIR caméra noir, capteur photo PIR AJAX noir, détecteur d’image AJAX"
   },
   {
     "title": "CombiProtect Blanc",
@@ -2557,7 +2684,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38097.06.WH1"
+    "productref": "38097.06.WH1",
+    "altwords": "combi protect blanc, combi-protect blanc, combiprotec blanc, combiprotct blanc, combiprotect ajax blanc, combiprotect white, combiprotect plus blanc, detecteur combiné blanc, detecteur mouvement et bris de glace blanc, detecteur double blanc, detecteur 2 en 1 blanc, détecteur de mouvement et bris de glace AJAX, détecteur combiné AJAX, capteur de mouvement et vibration AJAX, capteur double technologie AJAX, CombiProtect AJAX, détecteur PIR et bris de glace AJAX, capteur mixte AJAX, détecteur sans fil AJAX blanc, CombiProtect Ajax blanc, détecteur 2 en 1 AJAX, détecteur d’impact et mouvement AJAX blanc"
   },
   {
     "title": "CombiProtect Noir",
@@ -2577,7 +2705,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38096.06.BL1"
+    "productref": "38096.06.BL1",
+    "altwords": "combi protect noir, combi-protect noir, combiprotec noir, combiprotct noir, combiprotect ajax noir, combiprotect black, combiprotect plus noir, detecteur combiné noir, detecteur mouvement et bris de glace noir, detecteur double noir, detecteur 2 en 1 noir, détecteur de mouvement et bris de glace AJAX, détecteur combiné AJAX, capteur de mouvement et vibration AJAX, capteur double technologie AJAX, CombiProtect AJAX, détecteur PIR et bris de glace AJAX, capteur mixte AJAX, détecteur sans fil AJAX noir, CombiProtect Ajax noir, détecteur 2 en 1 AJAX, détecteur d’impact et mouvement AJAX noir"
   },
   {
     "title": "MotionProtect Plus Blanc",
@@ -2597,7 +2726,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38198.02.WH1"
+    "productref": "38198.02.WH1",
+    "altwords": "motion protect plus blanc, motion-protect plus blanc, motinprotect plus blanc, motionprotec plus blanc, motionplus blanc, motionprotect ajax plus blanc, motionprotect plus white, detecteur mouvement plus blanc, detecteur ir plus blanc, detecteur pir plus blanc, détecteur de mouvement double technologie AJAX, détecteur PIR micro-onde AJAX, MotionProtect Plus AJAX, détecteur de présence AJAX, détecteur infrarouge micro-onde AJAX, capteur de mouvement avancé AJAX, détecteur intérieur AJAX, détecteur sans fil AJAX blanc, MotionProtect Plus Ajax blanc, détecteur PIR double capteur blanc"
   },
   {
     "title": "MotionProtect Plus Noir",
@@ -2617,7 +2747,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38199.02.BL1"
+    "productref": "38199.02.BL1",
+    "altwords": "motion protect plus noir, motion-protect plus noir, motinprotect plus noir, motionprotec plus noir, motionplus noir, motionprotect ajax plus noir, motionprotect plus black, detecteur mouvement plus noir, detecteur ir plus noir, detecteur pir plus noir, détecteur de mouvement double technologie AJAX, détecteur PIR micro-onde AJAX, MotionProtect Plus AJAX, détecteur de présence AJAX, détecteur infrarouge micro-onde AJAX, capteur de mouvement avancé AJAX, détecteur intérieur AJAX, détecteur sans fil AJAX noir, MotionProtect Plus Ajax noir, détecteur PIR double capteur noir"
   },
   {
     "title": "MotionProtect Noir",
@@ -2637,7 +2768,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38194.09.BL1"
+    "productref": "38194.09.BL1",
+    "altwords": "detecteur IR, detecteur infra rouge, detecteur infrarouge, detecteur infra-rouge, detecteur infrarouge ajax, detecteur infra rouge ajax, detecteur ir ajax, detecteur mouvement IR, detecteur PIR ajax, detecteur IR sans fil, detecteur ir exterieur, detecteur ir interieur, MotionProtect, MotionProtect Plus, MotionProtect Outdoor, MotionCam, MotionCam Outdoor, capteur infrarouge AJAX, capteur PIR AJAX, détecteur de mouvement AJAX, détecteur de présence AJAX, détecteur IR sans fil, capteur IR sans fil, détecteur IR extérieur, détecteur IR intérieur, détecteur PIR sans fil, capteur IR blanc, capteur IR noir"
   },
   {
     "title": "GlassProtect Blanc",
@@ -2657,7 +2789,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38109.05.WH1"
+    "productref": "38109.05.WH1",
+    "altwords": "glasprotect blanc, glass protect blanc, glass-protect blanc, glas protect blanc, glassprotec blanc, glasprotek blanc, glassprotect ajax blanc, glassprotect white, detecteur bris de glace blanc, detecteur vitre blanc, detecteur vibration blanc, detecteur bris blanc, détecteur de bris de glace AJAX, capteur de bris de vitre AJAX, détecteur de vitre AJAX, capteur de vibration AJAX, GlassProtect AJAX, détecteur sonore AJAX, détecteur de choc AJAX, détecteur de bris AJAX, capteur verre AJAX, détecteur sans fil AJAX blanc, capteur bris de glace AJAX blanc, détecteur de fenêtre AJAX blanc, GlassProtect blanc, GlassProtect Ajax blanc, détecteur sonore fenêtre AJAX"
   },
   {
     "title": "GlassProtect Noir",
@@ -2677,7 +2810,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38108.05.BL1"
+    "productref": "38108.05.BL1",
+    "altwords": "glasprotect noir, glass protect noir, glass-protect noir, glas protect noir, glassprotec noir, glasprotek noir, glassprotect ajax noir, glassprotect black, detecteur bris de glace noir, detecteur vitre noir, detecteur vibration noir, detecteur bris noir, détecteur de bris de glace AJAX, capteur de bris de vitre AJAX, détecteur de vitre AJAX, capteur de vibration AJAX, GlassProtect AJAX, détecteur sonore AJAX, détecteur de choc AJAX, détecteur de bris AJAX, capteur verre AJAX, détecteur sans fil AJAX noir, capteur bris de glace AJAX noir, détecteur de fenêtre AJAX noir, GlassProtect noir, GlassProtect Ajax noir, détecteur sonore fenêtre AJAX"
   },
   {
     "title": "DoorProtect Plus Blanc",
@@ -2697,7 +2831,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38101.13.WH1"
+    "productref": "38101.13.WH1",
+    "altwords": "detecteur d’ouverture, detecteur d’ouverture ajax, detecteur d’ouverture porte, detecteur d’ouverture fenetre, detecteur ouverture, detecteur douverture, detecteur douvertur, detecteur ouverture ajax, detecteur ouvrerture, detecteur dorprotect, DoorProtect, DoorProtect Plus, DoorProtect G3, capteur d’ouverture AJAX, détecteur porte AJAX, détecteur fenêtre AJAX, capteur magnétique AJAX, capteur porte AJAX, capteur contact AJAX, capteur ouverture porte, contact magnétique AJAX, détecteur sans fil AJAX, Door Protect Ajax blanc, Door Protect Ajax noir, capteur d’ouverture sans fil"
   },
   {
     "title": "DoorProtect Plus Noir",
@@ -2717,7 +2852,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38100.21.BL1"
+    "productref": "38100.21.BL1",
+    "altwords": "detecteur d’ouverture, detecteur d’ouverture ajax, detecteur d’ouverture porte, detecteur d’ouverture fenetre, detecteur ouverture, detecteur douverture, detecteur douvertur, detecteur ouverture ajax, detecteur ouvrerture, detecteur dorprotect, DoorProtect, DoorProtect Plus, DoorProtect G3, capteur d’ouverture AJAX, détecteur porte AJAX, détecteur fenêtre AJAX, capteur magnétique AJAX, capteur porte AJAX, capteur contact AJAX, capteur ouverture porte, contact magnétique AJAX, détecteur sans fil AJAX, Door Protect Ajax blanc, Door Protect Ajax noir, capteur d’ouverture sans fil"
   },
   {
     "title": "DoorProtect Blanc",
@@ -2737,7 +2873,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38099.03.WH1"
+    "productref": "38099.03.WH1",
+    "altwords": "detecteur d’ouverture, detecteur d’ouverture ajax, detecteur d’ouverture porte, detecteur d’ouverture fenetre, detecteur ouverture, detecteur douverture, detecteur douvertur, detecteur ouverture ajax, detecteur ouvrerture, detecteur dorprotect, DoorProtect, DoorProtect Plus, DoorProtect G3, capteur d’ouverture AJAX, détecteur porte AJAX, détecteur fenêtre AJAX, capteur magnétique AJAX, capteur porte AJAX, capteur contact AJAX, capteur ouverture porte, contact magnétique AJAX, détecteur sans fil AJAX, Door Protect Ajax blanc, Door Protect Ajax noir, capteur d’ouverture sans fil"
   },
   {
     "title": "DoorProtect Noir",
@@ -2757,7 +2894,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38098.03.BL1"
+    "productref": "38098.03.BL1",
+    "altwords": "detecteur d’ouverture, detecteur d’ouverture ajax, detecteur d’ouverture porte, detecteur d’ouverture fenetre, detecteur ouverture, detecteur douverture, detecteur douvertur, detecteur ouverture ajax, detecteur ouvrerture, detecteur dorprotect, DoorProtect, DoorProtect Plus, DoorProtect G3, capteur d’ouverture AJAX, détecteur porte AJAX, détecteur fenêtre AJAX, capteur magnétique AJAX, capteur porte AJAX, capteur contact AJAX, capteur ouverture porte, contact magnétique AJAX, détecteur sans fil AJAX, Door Protect Ajax blanc, Door Protect Ajax noir, capteur d’ouverture sans fil"
   },
   {
     "title": "ReX 2 Blanc",
@@ -2777,7 +2915,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38207.106.WH1"
+    "productref": "38207.106.WH1",
+    "altwords": "rex 2 blanc, rex-2 blanc, rex2 ajax blanc, rex2 white, rex 2 alarm blanc, rex deux blanc, ReX 2 AJAX, répéteur radio avancé AJAX, prolongateur de signal AJAX, amplificateur de portée avec photo AJAX, module d’extension ReX 2 AJAX, relais de communication avec photo, répéteur de signal sans fil AJAX, ReX2 Ajax blanc, extension de couverture radio AJAX, répéteur caméra AJAX, ReX 2 Hub 2 Plus blanc"
   },
   {
     "title": "ReX 2 Noir",
@@ -2797,7 +2936,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38208.106.BL1"
+    "productref": "38208.106.BL1",
+    "altwords": "rex 2 noir, rex-2 noir, rex2 ajax noir, rex2 black, rex 2 alarm noir, rex deux noir, ReX 2 AJAX, répéteur radio avancé AJAX, prolongateur de signal AJAX, amplificateur de portée avec photo AJAX, module d’extension ReX 2 AJAX, relais de communication avec photo, répéteur de signal sans fil AJAX, ReX2 Ajax noir, extension de couverture radio AJAX, répéteur caméra AJAX, ReX 2 Hub 2 Plus noir"
   },
   {
     "title": "ReX Blanc",
@@ -2817,7 +2957,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38205.37.WH1"
+    "productref": "38205.37.WH1",
+    "altwords": "re x blanc, re-x blanc, rex ajax blanc, rex white, rex alarm blanc, rex1 blanc, rex hub blanc, prolongateur de signal AJAX, répéteur radio AJAX, ReX AJAX, amplificateur de portée AJAX, module d’extension radio AJAX, relais de communication AJAX, extender AJAX, répéteur de signal sans fil AJAX, ReX Ajax blanc, extension de couverture AJAX, module sans fil AJAX, amplificateur de réseau AJAX, répéteur d’alarme AJAX"
   },
   {
     "title": "ReX Noir",
@@ -2837,7 +2978,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38206.37.BL1"
+    "productref": "38206.37.BL1",
+    "altwords": "re x noir, re-x noir, rex ajax noir, rex black, rex alarm noir, rex1 noir, rex hub noir, prolongateur de signal AJAX, répéteur radio AJAX, ReX AJAX, amplificateur de portée AJAX, module d’extension radio AJAX, relais de communication AJAX, extender AJAX, répéteur de signal sans fil AJAX, ReX Ajax noir, extension de couverture AJAX, module sans fil AJAX, amplificateur de réseau AJAX, répéteur d’alarme AJAX"
   },
   {
     "title": "Hub 2 Plus Blanc",
@@ -2857,7 +2999,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38245.40.WH1"
+    "productref": "38245.40.WH1",
+    "altwords": "central, centrall, centralle, centralee, centrlae, central ajax, centrale ajax, centrale alarme, centrale alrme, central ajax blanc, central ajax noir, centrale noir, centrale blanche, centrale alarme ajax, hub, hub ajax, hub2, hub 2, hub plus, hub2 plus, hub ajax 2, hub ajax plus, base ajax, unité centrale ajax, station ajax, contrôleur ajax, box ajax, module central ajax, hub blanc, hub noir, hub pro, hub 2 plus blanc, hub 2 plus noir"
   },
   {
     "title": "Hub 2 Plus Noir",
@@ -2877,7 +3020,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38244.40.BL1"
+    "productref": "38244.40.BL1",
+    "altwords": "central, centrall, centralle, centralee, centrlae, central ajax, centrale ajax, centrale alarme, centrale alrme, central ajax blanc, central ajax noir, centrale noir, centrale blanche, centrale alarme ajax, hub, hub ajax, hub2, hub 2, hub plus, hub2 plus, hub ajax 2, hub ajax plus, base ajax, unité centrale ajax, station ajax, contrôleur ajax, box ajax, module central ajax, hub blanc, hub noir, hub pro, hub 2 plus blanc, hub 2 plus noir"
   },
   {
     "title": "Hub 2 (4G) Blanc",
@@ -2897,7 +3041,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38241.108.WH1"
+    "productref": "38241.108.WH1",
+    "altwords": "central, centrall, centralle, centralee, centrlae, central ajax, centrale ajax, centrale alarme, centrale alrme, central ajax blanc, central ajax noir, centrale noir, centrale blanche, centrale alarme ajax, hub, hub ajax, hub2, hub 2, hub plus, hub2 plus, hub ajax 2, hub ajax plus, base ajax, unité centrale ajax, station ajax, contrôleur ajax, box ajax, module central ajax, hub blanc, hub noir, hub pro, hub 2 plus blanc, hub 2 plus noir"
   },
   {
     "title": "Hub 2 (4G) Noir",
@@ -2917,7 +3062,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38240.108.BL1"
+    "productref": "38240.108.BL1",
+    "altwords": "central, centrall, centralle, centralee, centrlae, central ajax, centrale ajax, centrale alarme, centrale alrme, central ajax blanc, central ajax noir, centrale noir, centrale blanche, centrale alarme ajax, hub, hub ajax, hub2, hub 2, hub plus, hub2 plus, hub ajax 2, hub ajax plus, base ajax, unité centrale ajax, station ajax, contrôleur ajax, box ajax, module central ajax, hub blanc, hub noir, hub pro, hub 2 plus blanc, hub 2 plus noir"
   },
   {
     "title": "Hub 2 (2G) Blanc",
@@ -2937,7 +3083,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38239.40.WH1"
+    "productref": "38239.40.WH1",
+    "altwords": "central, centrall, centralle, centralee, centrlae, central ajax, centrale ajax, centrale alarme, centrale alrme, central ajax blanc, central ajax noir, centrale noir, centrale blanche, centrale alarme ajax, hub, hub ajax, hub2, hub 2, hub plus, hub2 plus, hub ajax 2, hub ajax plus, base ajax, unité centrale ajax, station ajax, contrôleur ajax, box ajax, module central ajax, hub blanc, hub noir, hub pro, hub 2 plus blanc, hub 2 plus noir"
   },
   {
     "title": "Hub 2 (2G) Noir",
@@ -2957,7 +3104,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "38238.40.BL1"
+    "productref": "38238.40.BL1",
+    "altwords": "central, centrall, centralle, centralee, centrlae, central ajax, centrale ajax, centrale alarme, centrale alrme, central ajax blanc, central ajax noir, centrale noir, centrale blanche, centrale alarme ajax, hub, hub ajax, hub2, hub 2, hub plus, hub2 plus, hub ajax 2, hub ajax plus, base ajax, unité centrale ajax, station ajax, contrôleur ajax, box ajax, module central ajax, hub blanc, hub noir, hub pro, hub 2 plus blanc, hub 2 plus noir"
   },
   {
     "title": "Switch PoE Gigabit 20 ports DS-3E0520HP-E",
@@ -2977,7 +3125,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "PoE Gigabit non manageable L2",
-    "productref": "DS-3E0520HP-E"
+    "productref": "DS-3E0520HP-E",
+    "altwords": "swich poe, swtich poe, swicth poe, swiitch poe, switch P.O.E, switchpoe, switch ip poe, switch reseau poe, switch camera poe, swich camera poe, swich reseau poe, commutateur PoE, switch Ethernet PoE, switch réseau PoE, switch gigabit PoE, switch RJ45 PoE, switch PoE caméra, switch PoE IP, switch PoE 4 ports, switch PoE 8 ports, switch PoE 16 ports, switch PoE rackable, switch PoE industriel, switch d’alimentation PoE, commutateur réseau PoE, injecteur PoE, switch PoE plug & play"
   },
   {
     "title": "Switch PoE Gigabit 10 ports DS-3E0510HP-E",
@@ -2997,7 +3146,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "PoE Gigabit non manageable L2",
-    "productref": "DS-3E0510HP-E"
+    "productref": "DS-3E0510HP-E",
+    "altwords": "swich poe, swtich poe, swicth poe, swiitch poe, switch P.O.E, switchpoe, switch ip poe, switch reseau poe, switch camera poe, swich camera poe, swich reseau poe, commutateur PoE, switch Ethernet PoE, switch réseau PoE, switch gigabit PoE, switch RJ45 PoE, switch PoE caméra, switch PoE IP, switch PoE 4 ports, switch PoE 8 ports, switch PoE 16 ports, switch PoE rackable, switch PoE industriel, switch d’alimentation PoE, commutateur réseau PoE, injecteur PoE, switch PoE plug & play"
   },
   {
     "title": "Switch PoE Gigabit 5 ports DS-3E0505HP-E",
@@ -3017,7 +3167,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "PoE Gigabit non manageable L2",
-    "productref": "DS-3E0505HP-E"
+    "productref": "DS-3E0505HP-E",
+    "altwords": "swich poe, swtich poe, swicth poe, swiitch poe, switch P.O.E, switchpoe, switch ip poe, switch reseau poe, switch camera poe, swich camera poe, swich reseau poe, commutateur PoE, switch Ethernet PoE, switch réseau PoE, switch gigabit PoE, switch RJ45 PoE, switch PoE caméra, switch PoE IP, switch PoE 4 ports, switch PoE 8 ports, switch PoE 16 ports, switch PoE rackable, switch PoE industriel, switch d’alimentation PoE, commutateur réseau PoE, injecteur PoE, switch PoE plug & play"
   },
   {
     "title": "Enregistreur NVR 16 canaux DS-7616NXI-I2/S (E)",
@@ -3037,7 +3188,8 @@
     "iacamera": "Détection avancée avec classification humaine/véhicule - Reconnaissance faciale - ANPR (Reconnaissance des plaques d’immatriculation)",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "NVR AcuSense",
-    "productref": "DS-7616NXI-I2/S (E)"
+    "productref": "DS-7616NXI-I2/S (E)",
+    "altwords": "NRV, NVRR, NVVR, NVR ajax, NVR dahua, NVR hikvision, enregistreur nvr, nvr poe, nvr ip, nvr reseau, nvr camera, enregistreur réseau, enregistreur IP, Network Video Recorder, enregistreur PoE, enregistreur caméra IP, enregistreur de vidéosurveillance, NVR 4 canaux, NVR 8 canaux, NVR 16 canaux, enregistreur IP PoE, recorder IP, enregistreur numérique réseau, NVR connecté, NVR de surveillance, NVR avec disques durs, 16 canal, 16ch, 16 ch, seize canaux, 16ch nvr, nvr 16 canaux, dvr 16 canaux, xvr 16 canaux, enregistreur 16 canal, enregistreur 16ch,"
   },
   {
     "title": "Enregistreur NVR 16 canaux DS-7616NXI-K2/16P (D)",
@@ -3057,7 +3209,8 @@
     "iacamera": "Détection avancée avec classification humaine/véhicule - Reconnaissance faciale",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "NVR AcuSense",
-    "productref": "DS-7616NXI-K2/16P (D)"
+    "productref": "DS-7616NXI-K2/16P (D)",
+    "altwords": "NRV, NVRR, NVVR, NVR ajax, NVR dahua, NVR hikvision, enregistreur nvr, nvr poe, nvr ip, nvr reseau, nvr camera, enregistreur réseau, enregistreur IP, Network Video Recorder, enregistreur PoE, enregistreur caméra IP, enregistreur de vidéosurveillance, NVR 4 canaux, NVR 8 canaux, NVR 16 canaux, enregistreur IP PoE, recorder IP, enregistreur numérique réseau, NVR connecté, NVR de surveillance, NVR avec disques durs, 16 canal, 16ch, 16 ch, seize canaux, 16ch nvr, nvr 16 canaux, dvr 16 canaux, xvr 16 canaux, enregistreur 16 canal, enregistreur 16ch,"
   },
   {
     "title": "Enregistreur NVR 8 canaux DS-7608NXI-K1/8P",
@@ -3077,7 +3230,8 @@
     "iacamera": "Détection avancée avec classification humaine/véhicule - Reconnaissance faciale",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "NVR AcuSense",
-    "productref": "DS-7608NXI-K1/8P"
+    "productref": "DS-7608NXI-K1/8P",
+    "altwords": "NRV, NVRR, NVVR, NVR ajax, NVR dahua, NVR hikvision, enregistreur nvr, nvr poe, nvr ip, nvr reseau, nvr camera, enregistreur réseau, enregistreur IP, Network Video Recorder, enregistreur PoE, enregistreur caméra IP, enregistreur de vidéosurveillance, NVR 4 canaux, NVR 8 canaux, NVR 16 canaux, enregistreur IP PoE, recorder IP, enregistreur numérique réseau, NVR connecté, NVR de surveillance, NVR avec disques durs, 8 canal, 8ch, 8 ch, huit canaux, 8ch nvr, nvr 8 canaux, dvr 8 canaux, xvr 8 canaux, enregistreur 8 canal, enregistreur 8ch, enregistreur 8 canaux, NVR 8 canaux, DVR 8 canaux, XVR 8 canaux, enregistreur 8 caméras, recorder 8ch, enregistreur vidéo 8ch, système 8 caméras, kit 8 canaux, enregistreur IP 8 canaux, enregistreur analogique 8 canaux, NVR PoE 8 canaux, DVR 8CH, enregistreur de vidéosurveillance 8 caméras"
   },
   {
     "title": "Enregistreur NVR 4 canaux DS-7604NXI-K1/4P",
@@ -3097,7 +3251,8 @@
     "iacamera": "Détection avancée avec classification humaine/véhicule - Reconnaissance faciale",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "NVR AcuSense",
-    "productref": "DS-7604NXI-K1/4P"
+    "productref": "DS-7604NXI-K1/4P",
+    "altwords": "NRV, NVRR, NVVR, NVR ajax, NVR dahua, NVR hikvision, enregistreur nvr, nvr poe, nvr ip, nvr reseau, nvr camera, enregistreur réseau, enregistreur IP, Network Video Recorder, enregistreur PoE, enregistreur caméra IP, enregistreur de vidéosurveillance, NVR 4 canaux, NVR 8 canaux, NVR 16 canaux, enregistreur IP PoE, recorder IP, enregistreur numérique réseau, NVR connecté, NVR de surveillance, NVR avec disques durs, 4 canal, 4ch, 4 ch, quatre canaux, 4ch nvr, nvr 4 canaux, dvr 4 canaux, xvr 4 canaux, enregistreur 4 canal, enregistreur 4ch, enregistreur 4 canaux, NVR 4 canaux, DVR 4 canaux, XVR 4 canaux, enregistreur 4 caméras, recorder 4ch, enregistreur vidéo 4ch, système 4 caméras, kit 4 canaux, enregistreur IP 4 canaux, enregistreur analogique 4 canaux, NVR PoE 4 canaux, DVR 4CH, enregistreur de vidéosurveillance 4 caméras"
   },
   {
     "title": "Boîte de Jonction DS-1280ZJ-DM46",
@@ -3117,7 +3272,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1280ZJ-DM46"
+    "productref": "DS-1280ZJ-DM46",
+    "altwords": "boîtier de jonction, boîtier de dérivation, boîtier étanche, boîtier mural caméra, boîte étanche caméra, support de caméra mural, boîtier de protection caméra, boîtier technique, junction box, camera junction box, housing box, boîtier raccord caméra, accessoire caméra, support étanche"
   },
   {
     "title": "Support mural DS-1273ZJ-135 pour caméras dômes",
@@ -3137,7 +3293,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1273ZJ-135"
+    "productref": "DS-1273ZJ-135",
+    "altwords": "suport de montage, support montage, suport montage, support de montag, support montag, support de fixage, support de fixation, fixation camera, support camera, suport camera, support mural camera, support plafond camera, support de fixation, support mural, support plafond, support poteau, support angle, équerre de fixation, platine de montage, accessoire de montage, base de fixation, support universel caméra, bracket, camera mount, wall mount, ceiling mount, camera bracket, support mural étanche, support de fixation mural, support de montage mural, support mural caméra, platine murale, support vertical, équerre murale, wall mount, camera wall mount, mural bracket, support mural étanche, support mural extérieur, support mural aluminium, support mural dôme, support mural bullet, support mural universel"
   },
   {
     "title": "Boîte de Jonction DS-1280ZJ-XS",
@@ -3157,7 +3314,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1280ZJ-XS"
+    "productref": "DS-1280ZJ-XS",
+    "altwords": "boîtier de jonction, boîtier de dérivation, boîtier étanche, boîtier mural caméra, boîte étanche caméra, support de caméra mural, boîtier de protection caméra, boîtier technique, junction box, camera junction box, housing box, boîtier raccord caméra, accessoire caméra, support étanche"
   },
   {
     "title": "Support de Montage DS-1275ZJ-SUS",
@@ -3177,7 +3335,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1275ZJ-SUS"
+    "productref": "DS-1275ZJ-SUS",
+    "altwords": "suport de montage, support montage, suport montage, support de montag, support montag, support de fixage, support de fixation, fixation camera, support camera, suport camera, support mural camera, support plafond camera, support de fixation, support mural, support plafond, support poteau, support angle, équerre de fixation, platine de montage, accessoire de montage, base de fixation, support universel caméra, bracket, camera mount, wall mount, ceiling mount, camera bracket, support mural étanche"
   },
   {
     "title": "Boîte de Jonction DS-1280ZJ-DM21",
@@ -3197,7 +3356,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1280ZJ-DM21"
+    "productref": "DS-1280ZJ-DM21",
+    "altwords": "boîtier de jonction, boîtier de dérivation, boîtier étanche, boîtier mural caméra, boîte étanche caméra, support de caméra mural, boîtier de protection caméra, boîtier technique, junction box, camera junction box, housing box, boîtier raccord caméra, accessoire caméra, support étanche"
   },
   {
     "title": "Support d’angle DS-1276ZJ-SUS",
@@ -3217,7 +3377,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1276ZJ-SUS"
+    "productref": "DS-1276ZJ-SUS",
+    "altwords": "support angle, suport dangle, support d'angl, support d’ongle, suport angle camera, support angle camera, support dangle camera, support d’angle camera, suport d’angle mural, équerre d’angle, support mural d’angle, support de fixation d’angle, platine d’angle, angle bracket, corner mount, support caméra d’angle, support de montage d’angle, fixation d’angle caméra, bracket d’angle, camera corner mount, support d’angle étanche, support d’angle extérieur, support d’angle aluminium, équerre caméra"
   },
   {
     "title": "Boîte de Jonction DS-1280ZJ-S",
@@ -3237,7 +3398,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "DS-1280ZJ-S"
+    "productref": "DS-1280ZJ-S",
+    "altwords": "boîtier de jonction, boîtier de dérivation, boîtier étanche, boîtier mural caméra, boîte étanche caméra, support de caméra mural, boîtier de protection caméra, boîtier technique, junction box, camera junction box, housing box, boîtier raccord caméra, accessoire caméra, support étanche"
   },
   {
     "title": "Caméra Mini Dôme - DS-2CD2546G2-I(S)",
@@ -3257,7 +3419,8 @@
     "iacamera": "Détection avancée : Classification humains/véhicules",
     "micro": "Oui",
     "technologie": "Réseau",
-    "productref": "DS-2CD2546G2-I(S)"
+    "productref": "DS-2CD2546G2-I(S)",
+    "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe,caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra Dôme - DS-2CD2143G2-IS",
@@ -3277,7 +3440,8 @@
     "iacamera": "Détection avancée : Classification humains/véhicules",
     "micro": "Oui",
     "technologie": "Réseau",
-    "productref": "DS-2CD2143G2-IS"
+    "productref": "DS-2CD2143G2-IS",
+    "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe,caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra Dôme - DS-2CD1743G2-IZ",
@@ -3297,7 +3461,8 @@
     "iacamera": "Détection avancée : Classification humains/véhicules",
     "micro": "Non",
     "technologie": "Réseau",
-    "productref": "DS-2CD1743G2-IZ"
+    "productref": "DS-2CD1743G2-IZ",
+    "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe,caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra Bullet - DS-2CD1643G2-IZ",
@@ -3317,7 +3482,8 @@
     "iacamera": "Détection avancée : Classification humains/véhicules",
     "micro": "Oui",
     "technologie": "Réseau",
-    "productref": "DS-2CD1643G2-IZS"
+    "productref": "DS-2CD1643G2-IZS",
+    "altwords": "caméra bullet, caméra tube, caméra extérieure, caméra de surveillance, caméra bullet IP, caméra bullet analogique, caméra PoE, caméra tube IP, caméra CCTV, caméra fixe extérieure, caméra bullet 4MP/5MP, caméra bullet infrarouge, caméra bullet PoE, bullet IR, bullet réseau"
   },
   {
     "title": "Enregistreur DVR 16 canaux - iDS-7216HQHI-M2/XT",
@@ -3337,7 +3503,8 @@
     "iacamera": "Motion Detection 2.0 : Classification humaine/véhicule - Reconnaissance faciale",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "DVR Turbo HD AcuSense",
-    "productref": "iDS-7216HQHI-M2/XT"
+    "productref": "iDS-7216HQHI-M2/XT",
+    "altwords": "DRV, DVVR, DV R, D V R, dvrh, dvr ajax, dvr dahua, dvr hikvision, enregistreur dvr, dvr analogique, dvr camera, dvr video, enregistreur analogique, Digital Video Recorder, enregistreur coaxial, enregistreur HD analogique, enregistreur TVI, enregistreur AHD, enregistreur CVBS, enregistreur 4-en-1, recorder analogique, enregistreur de vidéosurveillance, DVR 4 canaux, DVR 8 canaux, DVR 16 canaux, enregistreur caméra analogique, enregistreur vidéo analogique, 16 canal, 16ch, 16 ch, seize canaux, 16ch nvr, nvr 16 canaux, dvr 16 canaux, xvr 16 canaux, enregistreur 16 canal, enregistreur 16ch, enregistreur 16 canaux, NVR 16 canaux, DVR 16 canaux, XVR 16 canaux, enregistreur 16 caméras, recorder 16ch, enregistreur vidéo 16ch, système 16 caméras, kit 16 canaux, enregistreur IP 16 canaux, enregistreur analogique 16 canaux, NVR PoE 16 canaux, DVR 16CH, enregistreur de vidéosurveillance 16 caméras"
   },
   {
     "title": "Enregistreur DVR 16 canaux - iDS-7216HQHI-M1/XT",
@@ -3357,7 +3524,8 @@
     "iacamera": "Motion Detection 2.0 : Classification humaine/véhicule - Reconnaissance faciale",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "DVR Turbo HD AcuSense",
-    "productref": "iDS-7216HQHI-M1/XT"
+    "productref": "iDS-7216HQHI-M1/XT",
+    "altwords": "DRV, DVVR, DV R, D V R, dvrh, dvr ajax, dvr dahua, dvr hikvision, enregistreur dvr, dvr analogique, dvr camera, dvr video, enregistreur analogique, Digital Video Recorder, enregistreur coaxial, enregistreur HD analogique, enregistreur TVI, enregistreur AHD, enregistreur CVBS, enregistreur 4-en-1, recorder analogique, enregistreur de vidéosurveillance, DVR 4 canaux, DVR 8 canaux, DVR 16 canaux, enregistreur caméra analogique, enregistreur vidéo analogique, 16 canal, 16ch, 16 ch, seize canaux, 16ch nvr, nvr 16 canaux, dvr 16 canaux, xvr 16 canaux, enregistreur 16 canal, enregistreur 16ch, enregistreur 16 canaux, NVR 16 canaux, DVR 16 canaux, XVR 16 canaux, enregistreur 16 caméras, recorder 16ch, enregistreur vidéo 16ch, système 16 caméras, kit 16 canaux, enregistreur IP 16 canaux, enregistreur analogique 16 canaux, NVR PoE 16 canaux, DVR 16CH, enregistreur de vidéosurveillance 16 caméras"
   },
   {
     "title": "Enregistreur DVR 8 canaux - iDS-7208HUHI-M1/X",
@@ -3377,7 +3545,8 @@
     "iacamera": "Motion Detection 2.0 : Classification humaine/véhicule - Reconnaissance faciale",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "DVR Turbo HD AcuSense",
-    "productref": "iDS-7208HUHI-M1/X"
+    "productref": "iDS-7208HUHI-M1/X",
+    "altwords": "DRV, DVVR, DV R, D V R, dvrh, dvr ajax, dvr dahua, dvr hikvision, enregistreur dvr, dvr analogique, dvr camera, dvr video, enregistreur analogique, Digital Video Recorder, enregistreur coaxial, enregistreur HD analogique, enregistreur TVI, enregistreur AHD, enregistreur CVBS, enregistreur 4-en-1, recorder analogique, enregistreur de vidéosurveillance, DVR 4 canaux, DVR 8 canaux, DVR 16 canaux, enregistreur caméra analogique, enregistreur vidéo analogique, 8 canal, 8ch, 8 ch, huit canaux, 8ch nvr, nvr 8 canaux, dvr 8 canaux, xvr 8 canaux, enregistreur 8 canal, enregistreur 8ch, enregistreur 8 canaux, NVR 8 canaux, DVR 8 canaux, XVR 8 canaux, enregistreur 8 caméras, recorder 8ch, enregistreur vidéo 8ch, système 8 caméras, kit 8 canaux, enregistreur IP 8 canaux, enregistreur analogique 8 canaux, NVR PoE 8 canaux, DVR 8CH, enregistreur de vidéosurveillance 8 caméras"
   },
   {
     "title": "Enregistreur DVR 8 canaux - iDS-7208HQHI-M1/XT",
@@ -3397,7 +3566,8 @@
     "iacamera": "Motion Detection 2.0 : Classification humaine/véhicule - Reconnaissance faciale",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "DVR Turbo HD AcuSense",
-    "productref": "iDS-7208HQHI-M1/XT"
+    "productref": "iDS-7208HQHI-M1/XT",
+    "altwords": "DRV, DVVR, DV R, D V R, dvrh, dvr ajax, dvr dahua, dvr hikvision, enregistreur dvr, dvr analogique, dvr camera, dvr video, enregistreur analogique, Digital Video Recorder, enregistreur coaxial, enregistreur HD analogique, enregistreur TVI, enregistreur AHD, enregistreur CVBS, enregistreur 4-en-1, recorder analogique, enregistreur de vidéosurveillance, DVR 4 canaux, DVR 8 canaux, DVR 16 canaux, enregistreur caméra analogique, enregistreur vidéo analogique, 8 canal, 8ch, 8 ch, huit canaux, 8ch nvr, nvr 8 canaux, dvr 8 canaux, xvr 8 canaux, enregistreur 8 canal, enregistreur 8ch, enregistreur 8 canaux, NVR 8 canaux, DVR 8 canaux, XVR 8 canaux, enregistreur 8 caméras, recorder 8ch, enregistreur vidéo 8ch, système 8 caméras, kit 8 canaux, enregistreur IP 8 canaux, enregistreur analogique 8 canaux, NVR PoE 8 canaux, DVR 8CH, enregistreur de vidéosurveillance 8 caméras"
   },
   {
     "title": "Enregistreur DVR 4 canaux - iDS-7204HQHI-M1/XT",
@@ -3417,7 +3587,8 @@
     "iacamera": "Motion Detection 2.0 : Classification humaine/véhicule -",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "DVR Turbo HD AcuSense",
-    "productref": "iDS-7204HQHI-M1/XT"
+    "productref": "iDS-7204HQHI-M1/XT",
+    "altwords": "DRV, DVVR, DV R, D V R, dvrh, dvr ajax, dvr dahua, dvr hikvision, enregistreur dvr, dvr analogique, dvr camera, dvr video, enregistreur analogique, Digital Video Recorder, enregistreur coaxial, enregistreur HD analogique, enregistreur TVI, enregistreur AHD, enregistreur CVBS, enregistreur 4-en-1, recorder analogique, enregistreur de vidéosurveillance, DVR 4 canaux, DVR 8 canaux, DVR 16 canaux, enregistreur caméra analogique, enregistreur vidéo analogique, 4 canal, 4ch, 4 ch, quatre canaux, 4ch nvr, nvr 4 canaux, dvr 4 canaux, xvr 4 canaux, enregistreur 4 canal, enregistreur 4ch, enregistreur 4 canaux, NVR 4 canaux, DVR 4 canaux, XVR 4 canaux, enregistreur 4 caméras, recorder 4ch, enregistreur vidéo 4ch, système 4 caméras, kit 4 canaux, enregistreur IP 4 canaux, enregistreur analogique 4 canaux, NVR PoE 4 canaux, DVR 4CH, enregistreur de vidéosurveillance 4 caméras"
   },
   {
     "title": "Enregistreur DVR 16 canaux - iDS-7216HUHI-M2/P",
@@ -3437,7 +3608,8 @@
     "iacamera": "Détection de mouvement avancée avec AcuSense (classification humains/véhicules)",
     "micro": "4 entrées / 1 sortie RCA, compression G.711u",
     "technologie": "DVR Turbo HD AcuSense",
-    "productref": "iDS-7216HUHI-M2/P"
+    "productref": "iDS-7216HUHI-M2/P",
+    "altwords": "DRV, DVVR, DV R, D V R, dvrh, dvr ajax, dvr dahua, dvr hikvision, enregistreur dvr, dvr analogique, dvr camera, dvr video, enregistreur analogique, Digital Video Recorder, enregistreur coaxial, enregistreur HD analogique, enregistreur TVI, enregistreur AHD, enregistreur CVBS, enregistreur 4-en-1, recorder analogique, enregistreur de vidéosurveillance, DVR 4 canaux, DVR 8 canaux, DVR 16 canaux, enregistreur caméra analogique, enregistreur vidéo analogique, 16 canal, 16ch, 16 ch, seize canaux, 16ch nvr, nvr 16 canaux, dvr 16 canaux, xvr 16 canaux, enregistreur 16 canal, enregistreur 16ch, enregistreur 16 canaux, NVR 16 canaux, DVR 16 canaux, XVR 16 canaux, enregistreur 16 caméras, recorder 16ch, enregistreur vidéo 16ch, système 16 caméras, kit 16 canaux, enregistreur IP 16 canaux, enregistreur analogique 16 canaux, NVR PoE 16 canaux, DVR 16CH, enregistreur de vidéosurveillance 16 caméras"
   },
   {
     "title": "Enregistreur DVR 8 canaux - IDS-7208HUHI-M2",
@@ -3457,7 +3629,8 @@
     "iacamera": "Détection de mouvement avancée avec AcuSense (classification humains/véhicules)",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "DVR Turbo HD AcuSense",
-    "productref": "IDS-7208HUHI-M2"
+    "productref": "IDS-7208HUHI-M2",
+    "altwords": "DRV, DVVR, DV R, D V R, dvrh, dvr ajax, dvr dahua, dvr hikvision, enregistreur dvr, dvr analogique, dvr camera, dvr video, enregistreur analogique, Digital Video Recorder, enregistreur coaxial, enregistreur HD analogique, enregistreur TVI, enregistreur AHD, enregistreur CVBS, enregistreur 4-en-1, recorder analogique, enregistreur de vidéosurveillance, DVR 4 canaux, DVR 8 canaux, DVR 16 canaux, enregistreur caméra analogique, enregistreur vidéo analogique, 8 canal, 8ch, 8 ch, huit canaux, 8ch nvr, nvr 8 canaux, dvr 8 canaux, xvr 8 canaux, enregistreur 8 canal, enregistreur 8ch, enregistreur 8 canaux, NVR 8 canaux, DVR 8 canaux, XVR 8 canaux, enregistreur 8 caméras, recorder 8ch, enregistreur vidéo 8ch, système 8 caméras, kit 8 canaux, enregistreur IP 8 canaux, enregistreur analogique 8 canaux, NVR PoE 8 canaux, DVR 8CH, enregistreur de vidéosurveillance 8 caméras"
   },
   {
     "title": "Caméra Dôme - DS-2CE5AH0T-VPIT3ZE",
@@ -3477,7 +3650,8 @@
     "iacamera": "Détection de mouvement avec Smart IR",
     "micro": "Non",
     "technologie": "Analogique",
-    "productref": "DS-2CE5AH0T-VPIT3ZE"
+    "productref": "DS-2CE5AH0T-VPIT3ZE",
+    "altwords": "dome analogique, dome analogic, dôme analogic, dome analogiqu, dome analogeek, dome analogi, camera dome analogique, camera dome analogic, dome cctv, dome analog, dome analog cam, dome analog camera, dome coaxial, camera dome coaxiale, camera dome analog, dome analogique poe, caméra dôme coaxiale, caméra analogique, caméra CCTV, caméra dôme analog, dôme CVBS, caméra analogique 4-en-1, caméra dôme 1080p analogique, dôme AHD, caméra HD analogique, dôme TVI , dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra Dôme - DS-2CE5AH0T-AVPIT3ZF",
@@ -3497,7 +3671,8 @@
     "iacamera": "Détection de mouvement avec Smart IR",
     "micro": "Non",
     "technologie": "Analogique",
-    "productref": "DS-2CE5AH0T-AVPIT3ZF"
+    "productref": "DS-2CE5AH0T-AVPIT3ZF",
+    "altwords": "dome analogique, dome analogic, dôme analogic, dome analogiqu, dome analogeek, dome analogi, camera dome analogique, camera dome analogic, dome cctv, dome analog, dome analog cam, dome analog camera, dome coaxial, camera dome coaxiale, camera dome analog, dome analogique poe, caméra dôme coaxiale, caméra analogique, caméra CCTV, caméra dôme analog, dôme CVBS, caméra analogique 4-en-1, caméra dôme 1080p analogique, dôme AHD, caméra HD analogique, dôme TVI , dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra Bullet DS-2CE17H0T-IT3F",
@@ -3517,7 +3692,8 @@
     "iacamera": "Détection de mouvement avec Smart IR",
     "micro": "Non",
     "technologie": "Analogique",
-    "productref": "DS-2CE17H0T-IT3F"
+    "productref": "DS-2CE17H0T-IT3F",
+    "altwords": "bulet analogique, bullet analogic, bullett analogique, bullet analog, bullet analogeek, bulle analogique, bullet coaxial, bullet analogique poe, camera bullet analogique, camera bullet analogic, bullet cctv, bullet camera analog, camera tube analogique, bullet coaxiale, camera analog, caméra tube analogique, caméra analogique, caméra CCTV, caméra coaxiale, caméra HD analogique, caméra AHD, caméra TVI, caméra CVBS, caméra 4-en-1, caméra analogique extérieure, bulet, bullett, bulett, bulle, bulet cam, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip, bullet analogique, bullet poe, bullet exterieur, bullet cctv, bullett ip,"
   },
   {
     "title": "Caméra Bullet - DS-2CE16H0T-ITF(2.8mm)(C)",
@@ -3537,7 +3713,8 @@
     "iacamera": "Détection de mouvement avec Smart IR",
     "micro": "Non",
     "technologie": "Analogique",
-    "productref": "DS-2CE16H0T-ITF"
+    "productref": "DS-2CE16H0T-ITF",
+    "altwords": "bulet analogique, bullet analogic, bullett analogique, bullet analog, bullet analogeek, bulle analogique, bullet coaxial, bullet analogique poe, camera bullet analogique, camera bullet analogic, bullet cctv, bullet camera analog, camera tube analogique, bullet coaxiale, camera analog, caméra tube analogique, caméra analogique, caméra CCTV, caméra coaxiale, caméra HD analogique, caméra AHD, caméra TVI, caméra CVBS, caméra 4-en-1, caméra analogique extérieure, bulet, bullett, bulett, bulle, bulet cam, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip, bullet analogique, bullet poe, bullet exterieur, bullet cctv, bullett ip,"
   },
   {
     "title": "Caméra Dôme - DS-2CE76H0T-ITMFS (2.8mm)",
@@ -3557,7 +3734,8 @@
     "iacamera": "Détection de mouvement avec Smart IR",
     "micro": "Oui",
     "technologie": "Analogique",
-    "productref": "DS-2CE76H0T-ITMFS"
+    "productref": "DS-2CE76H0T-ITMFS",
+    "altwords": "dome analogique, dome analogic, dôme analogic, dome analogiqu, dome analogeek, dome analogi, camera dome analogique, camera dome analogic, dome cctv, dome analog, dome analog cam, dome analog camera, dome coaxial, camera dome coaxiale, camera dome analog, dome analogique poe, caméra dôme coaxiale, caméra analogique, caméra CCTV, caméra dôme analog, dôme CVBS, caméra analogique 4-en-1, caméra dôme 1080p analogique, dôme AHD, caméra HD analogique, dôme TVI , dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra Bullet - DS-2CE16H0T-ITFS(2.8mm)",
@@ -3577,7 +3755,8 @@
     "iacamera": "Détection de mouvement avec Smart IR",
     "micro": "Oui",
     "technologie": "Analogique",
-    "productref": "DS-2CE16H0T-ITFS"
+    "productref": "DS-2CE16H0T-ITFS",
+    "altwords": "bulet analogique, bullet analogic, bullett analogique, bullet analog, bullet analogeek, bulle analogique, bullet coaxial, bullet analogique poe, camera bullet analogique, camera bullet analogic, bullet cctv, bullet camera analog, camera tube analogique, bullet coaxiale, camera analog, caméra tube analogique, caméra analogique, caméra CCTV, caméra coaxiale, caméra HD analogique, caméra AHD, caméra TVI, caméra CVBS, caméra 4-en-1, caméra analogique extérieure, bulet, bullett, bulett, bulle, bulet cam, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip, bullet analogique, bullet poe, bullet exterieur, bullet cctv, bullett ip,"
   },
   {
     "title": "Caméra Dôme - DS-2CE76D0T-LMFS(2.8mm)",
@@ -3597,7 +3776,8 @@
     "iacamera": "Smart IR, Audio up Coaxial",
     "micro": "Oui",
     "technologie": "Analogique",
-    "productref": "DS-2CE76D0T-LMFS"
+    "productref": "DS-2CE76D0T-LMFS",
+    "altwords": "dome analogique, dome analogic, dôme analogic, dome analogiqu, dome analogeek, dome analogi, camera dome analogique, camera dome analogic, dome cctv, dome analog, dome analog cam, dome analog camera, dome coaxial, camera dome coaxiale, camera dome analog, dome analogique poe, caméra dôme coaxiale, caméra analogique, caméra CCTV, caméra dôme analog, dôme CVBS, caméra analogique 4-en-1, caméra dôme 1080p analogique, dôme AHD, caméra HD analogique, dôme TVI , dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra Dôme - DS-2CE76D0T-ITMF(2.8mm)(C)",
@@ -3617,7 +3797,8 @@
     "iacamera": "Détection de mouvement avec classification : humains et véhicules.",
     "micro": "Non",
     "technologie": "Analogique",
-    "productref": "DS-2CE76D0T-ITMF"
+    "productref": "DS-2CE76D0T-ITMF",
+    "altwords": "dome analogique, dome analogic, dôme analogic, dome analogiqu, dome analogeek, dome analogi, camera dome analogique, camera dome analogic, dome cctv, dome analog, dome analog cam, dome analog camera, dome coaxial, camera dome coaxiale, camera dome analog, dome analogique poe, caméra dôme coaxiale, caméra analogique, caméra CCTV, caméra dôme analog, dôme CVBS, caméra analogique 4-en-1, caméra dôme 1080p analogique, dôme AHD, caméra HD analogique, dôme TVI , dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra Dôme - DS-2CE56D0T-IT3F(2.8mm)(C)",
@@ -3637,7 +3818,8 @@
     "iacamera": "Détection de mouvement avec classification : humains et véhicules",
     "micro": "Non",
     "technologie": "Analogique",
-    "productref": "DS-2CE56D0T-IT3F"
+    "productref": "DS-2CE56D0T-IT3F",
+    "altwords": "dome analogique, dome analogic, dôme analogic, dome analogiqu, dome analogeek, dome analogi, camera dome analogique, camera dome analogic, dome cctv, dome analog, dome analog cam, dome analog camera, dome coaxial, camera dome coaxiale, camera dome analog, dome analogique poe, caméra dôme coaxiale, caméra analogique, caméra CCTV, caméra dôme analog, dôme CVBS, caméra analogique 4-en-1, caméra dôme 1080p analogique, dôme AHD, caméra HD analogique, dôme TVI , dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra Bullet - DS-2CE17D0T-IT5F (C)",
@@ -3657,7 +3839,8 @@
     "iacamera": "Détection de mouvement avec classification : humains et véhicules",
     "micro": "Non",
     "technologie": "Analogique",
-    "productref": "DS-2CE17D0T-IT5F"
+    "productref": "DS-2CE17D0T-IT5F",
+    "altwords": "bulet analogique, bullet analogic, bullett analogique, bullet analog, bullet analogeek, bulle analogique, bullet coaxial, bullet analogique poe, camera bullet analogique, camera bullet analogic, bullet cctv, bullet camera analog, camera tube analogique, bullet coaxiale, camera analog, caméra tube analogique, caméra analogique, caméra CCTV, caméra coaxiale, caméra HD analogique, caméra AHD, caméra TVI, caméra CVBS, caméra 4-en-1, caméra analogique extérieure, bulet, bullett, bulett, bulle, bulet cam, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip, bullet analogique, bullet poe, bullet exterieur, bullet cctv, bullett ip,"
   },
   {
     "title": "Caméra Bullet - DS-2CE17D0T-IT3F(2.8mm)(C)",
@@ -3677,7 +3860,8 @@
     "iacamera": "Détection de mouvement avec classification : humains et véhicules",
     "micro": "Oui",
     "technologie": "Réseau",
-    "productref": "DS-2CE17D0T-IT3F"
+    "productref": "DS-2CE17D0T-IT3F",
+    "altwords": "bulet reseau, bulle reseau, bullet reseaux, bullett reseaux, bullet ip, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip camera, bullet poe, camera bullet ip, bullet ethernet, bullet network, bulle ip, caméra bullet IP, caméra tube, caméra extérieure IP, caméra réseau, caméra PoE, caméra IP bullet, caméra tube IP, bullet CCTV, caméra de surveillance extérieure, caméra IP, bulet, bullett, bulett, bulle, bulet cam, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip, bullet analogique, bullet poe, bullet exterieur, bullet cctv, bullett ip, caméra bullet, caméra tube, caméra extérieure, caméra de surveillance, caméra bullet IP, caméra bullet analogique, caméra PoE, caméra tube IP, caméra CCTV, caméra fixe extérieure, caméra bullet 4MP/5MP, caméra bullet infrarouge, caméra bullet PoE, bullet IR, bullet réseau"
   },
   {
     "title": "Caméra Bullet - DS-2CE16D0T-ITF(2.8mm)(C)",
@@ -3697,7 +3881,8 @@
     "iacamera": "Détection de mouvement avec classification : humains et véhicules",
     "micro": "Non",
     "technologie": "Réseau",
-    "productref": "DS-2CE16D0T-ITF"
+    "productref": "DS-2CE16D0T-ITF",
+    "altwords": "bulet reseau, bulle reseau, bullet reseaux, bullett reseaux, bullet ip, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip camera, bullet poe, camera bullet ip, bullet ethernet, bullet network, bulle ip, caméra bullet IP, caméra tube, caméra extérieure IP, caméra réseau, caméra PoE, caméra IP bullet, caméra tube IP, bullet CCTV, caméra de surveillance extérieure, caméra IP, bulet, bullett, bulett, bulle, bulet cam, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip, bullet analogique, bullet poe, bullet exterieur, bullet cctv, bullett ip, caméra bullet, caméra tube, caméra extérieure, caméra de surveillance, caméra bullet IP, caméra bullet analogique, caméra PoE, caméra tube IP, caméra CCTV, caméra fixe extérieure, caméra bullet 4MP/5MP, caméra bullet infrarouge, caméra bullet PoE, bullet IR, bullet réseau"
   },
   {
     "title": "Starter Pack AJAX",
@@ -3717,7 +3902,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "Protocoles radio",
-    "productref": "AJASTARTPACK"
+    "productref": "AJASTARTPACK",
+    "altwords": ""
   },
   {
     "title": "Pack Dahua 8 Caméras",
@@ -3737,7 +3923,8 @@
     "iacamera": "Intrusion , ligne de détection",
     "micro": "Oui",
     "technologie": "IP-Réseau",
-    "productref": "DAH8CAM"
+    "productref": "DAH8CAM",
+    "altwords": ""
   },
   {
     "title": "Pack Dahua 6 Caméras",
@@ -3757,7 +3944,8 @@
     "iacamera": "Intrusion , Ligne de détection",
     "micro": "Oui",
     "technologie": "IP-Réseau",
-    "productref": "DAH6CAM"
+    "productref": "DAH6CAM",
+    "altwords": ""
   },
   {
     "title": "Pack Dahua 4 Caméras",
@@ -3777,7 +3965,8 @@
     "iacamera": "Intrusion, ligne de détection",
     "micro": "Oui",
     "technologie": "IP-Reseau",
-    "productref": "DAH4CAM"
+    "productref": "DAH4CAM",
+    "altwords": ""
   },
   {
     "title": "Switch ethernet PoE 6 ports (4+2)",
@@ -3797,7 +3986,8 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "EC-POE4"
+    "productref": "EC-POE4",
+    "altwords": ""
   },
   {
     "title": "Caméra dôme 2 MP avec micro intégré",
@@ -3817,7 +4007,8 @@
     "iacamera": "Détection de mouvement 2.0 avec classification humains et véhicules",
     "micro": "Oui",
     "technologie": "Caméra IP - Reseau",
-    "productref": "DS-2CD1123G2-IUF"
+    "productref": "DS-2CD1123G2-IUF",
+    "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra réseau à dôme fixe ColorVu MD 2.0 2 MP",
@@ -3837,7 +4028,8 @@
     "iacamera": "Détection de mouvement 2.0 avec classification des humains et des véhicules appliquée à la détection de mouvement.",
     "micro": "Oui",
     "technologie": "Caméra IP",
-    "productref": "DS-2CD1127G2-L"
+    "productref": "DS-2CD1127G2-L",
+    "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra réseau à Dome fixe ColorVu MD 2.0 2 MP",
@@ -3857,7 +4049,8 @@
     "iacamera": "Détection de mouvement 2.0 avec classification d'humains et de véhicules",
     "micro": "Non",
     "technologie": "Camera IP",
-    "productref": "DS-2CD1327G2-L"
+    "productref": "DS-2CD1327G2-L",
+    "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra dôme 2 MP avec objectif 4 mm, H.265+",
@@ -3877,7 +4070,8 @@
     "iacamera": "Détection de mouvement 2.0 avec classification d'humains et de véhicules appliquée à la détection de mouvement.",
     "micro": "Non",
     "technologie": "Caméra IP",
-    "productref": "DS-2CD1T23G2-I"
+    "productref": "DS-2CD1T23G2-I",
+    "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra bullet fixe 2 MP, H.265+, IR 30m, IP67",
@@ -3897,7 +4091,8 @@
     "iacamera": "N/D",
     "micro": "Non",
     "technologie": "Caméra IP",
-    "productref": "DS-2CD1023G0E-I"
+    "productref": "DS-2CD1023G0E-I",
+    "altwords": "bulet reseau, bulle reseau, bullet reseaux, bullett reseaux, bullet ip, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip camera, bullet poe, camera bullet ip, bullet ethernet, bullet network, bulle ip, caméra bullet IP, caméra tube, caméra extérieure IP, caméra réseau, caméra PoE, caméra IP bullet, caméra tube IP, bullet CCTV, caméra de surveillance extérieure, caméra IP, bulet, bullett, bulett, bulle, bulet cam, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip, bullet analogique, bullet poe, bullet exterieur, bullet cctv, bullett ip, caméra bullet, caméra tube, caméra extérieure, caméra de surveillance, caméra bullet IP, caméra bullet analogique, caméra PoE, caméra tube IP, caméra CCTV, caméra fixe extérieure, caméra bullet 4MP/5MP, caméra bullet infrarouge, caméra bullet PoE, bullet IR, bullet réseau"
   },
   {
     "title": "Caméra dôme fixe 2 MP, H.265+, IR 30m, IP67",
@@ -3917,7 +4112,8 @@
     "iacamera": "N/D",
     "micro": "Non",
     "technologie": "Caméra IP",
-    "productref": "DS-2CD1123G0E-I"
+    "productref": "DS-2CD1123G0E-I",
+    "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra réseau Bullet fixe MD 2.0 4 MP",
@@ -3937,7 +4133,8 @@
     "iacamera": "DeepInView, Protection périmétrique, Lecture de plaque",
     "micro": "Non",
     "technologie": "Caméra IP",
-    "productref": "DS-2CD1023G2-I(UF)"
+    "productref": "DS-2CD1023G2-I(UF)",
+    "altwords": "bulet reseau, bulle reseau, bullet reseaux, bullett reseaux, bullet ip, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip camera, bullet poe, camera bullet ip, bullet ethernet, bullet network, bulle ip, caméra bullet IP, caméra tube, caméra extérieure IP, caméra réseau, caméra PoE, caméra IP bullet, caméra tube IP, bullet CCTV, caméra de surveillance extérieure, caméra IP, bulet, bullett, bulett, bulle, bulet cam, bullet cam, cam bullet, camera bullet, bullet camera, bullet ip, bullet analogique, bullet poe, bullet exterieur, bullet cctv, bullett ip, caméra bullet, caméra tube, caméra extérieure, caméra de surveillance, caméra bullet IP, caméra bullet analogique, caméra PoE, caméra tube IP, caméra CCTV, caméra fixe extérieure, caméra bullet 4MP/5MP, caméra bullet infrarouge, caméra bullet PoE, bullet IR, bullet réseau"
   },
   {
     "title": "Caméra dôme 2 MP avec objectif 2.8 mm, H.265+",
@@ -3957,7 +4154,8 @@
     "iacamera": "Détection de mouvement 2.0 avec classification humains et véhicules",
     "micro": "Non",
     "technologie": "Caméra IP - Reseau",
-    "productref": "DS-2CD1123G2-I-2"
+    "productref": "DS-2CD1123G2-I-2",
+    "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
     "title": "Caméra réseau dome fixe MD 2.0 2 MP",
@@ -3977,6 +4175,7 @@
     "iacamera": "Détection de mouvement 2.0 avec classification des humains et des véhicules appliquée à la détection de mouvement.",
     "micro": "Non",
     "technologie": "Caméra IP",
-    "productref": "DS-2CD1323G2-I"
+    "productref": "DS-2CD1323G2-I",
+    "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   }
 ]
