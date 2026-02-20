@@ -1,5 +1,26 @@
 [
   {
+    "title": "DoorProtect Blanc",
+    "url": "https://www.camprotect.fr/product/doorprotect-blanc",
+    "image": "https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/699836f2e4d3ecdb7e2e5b06_685a60a844c3c948997bed2f_78.png",
+    "description": "Le DoorProtect Jeweller est un détecteur d’ouverture sans fil conçu pour surveiller l’ouverture de portes et fenêtres. Il utilise un relais reed haute fiabilité, offrant une durée de vie de 2 000 000 d'ouvertures, garantissant ainsi une protection efficace contre les intrusions.\n\nGrâce à la technologie radio Jeweller, il assure une transmission rapide des événements jusqu’à 1 200 mètres en champ libre, avec chiffrement des données et authentification de l’appareil pour une sécurité renforcée contre le sabotage.\n\nCe détecteur est compatible avec tous les hubs Ajax, ainsi qu’avec les prolongateurs de portée ReX et ReX 2, permettant une intégration parfaite dans un système de sécurité étendu.\n\nLe DoorProtect Jeweller dispose également d’une entrée supplémentaire pour connecter un détecteur tiers (contact normalement fermé - NC), augmentant ainsi ses fonctionnalités.",
+    "categorie1": "",
+    "categorie2": "",
+    "brand": "AJAX",
+    "productType": "Détecteur d'ouverture",
+    "cameraForm": "",
+    "compatibilite": "",
+    "alimentation": "1 × CR123A (préinstallée)",
+    "communication": "",
+    "couleur": "Blanc",
+    "environnement": "",
+    "iacamera": "",
+    "micro": "",
+    "technologie": "Protocoles radio",
+    "productref": "38099.03.WH1",
+    "altwords": "detecteur d’ouverture, detecteur d’ouverture ajax, detecteur d’ouverture porte, detecteur d’ouverture fenetre, detecteur ouverture, detecteur douverture, detecteur douvertur, detecteur ouverture ajax, detecteur ouvrerture, detecteur dorprotect, DoorProtect, DoorProtect Plus, DoorProtect G3, capteur d’ouverture AJAX, détecteur porte AJAX, détecteur fenêtre AJAX, capteur magnétique AJAX, capteur porte AJAX, capteur contact AJAX, capteur ouverture porte, contact magnétique AJAX, détecteur sans fil AJAX, Door Protect Ajax blanc, Door Protect Ajax blanc, capteur d’ouverture sans fil"
+  },
+  {
     "title": "WaterStop Blanc",
     "url": "https://www.camprotect.fr/product/ajax-waterstop-blanc",
     "image": "https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6915b85a7c620b8d2f4a9010_Design%20sans%20titre%20(3).png",
@@ -332,7 +353,7 @@
     "iacamera": "AcuPick, ANPR, métadonnées, reconnaissance, IA caméra + enregistreur",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "NVR WizSense",
-    "productref": "DHI-NVR5216-E",
+    "productref": "DHI-NVR5216-EI",
     "altwords": "NRV, NVRR, NVVR, NVR ajax, NVR dahua, NVR hikvision, enregistreur nvr, nvr poe, nvr ip, nvr reseau, nvr camera, enregistreur réseau, enregistreur IP, Network Video Recorder, enregistreur PoE, enregistreur caméra IP, enregistreur de vidéosurveillance, NVR 4 canaux, NVR 8 canaux, NVR 16 canaux, enregistreur IP PoE, recorder IP, enregistreur numérique réseau, NVR connecté, NVR de surveillance, NVR avec disques durs, 16 canal, 16ch, 16 ch, seize canaux, 16ch nvr, nvr 16 canaux, dvr 16 canaux, xvr 16 canaux, enregistreur 16 canal, enregistreur 16ch, enregistreur 16 canaux, NVR 16 canaux, DVR 16 canaux, XVR 16 canaux, enregistreur 16 caméras, recorder 16ch, enregistreur vidéo 16ch, système 16 caméras, kit 16 canaux, enregistreur IP 16 canaux, enregistreur analogique 16 canaux, NVR PoE 16 canaux, DVR 16CH, enregistreur de vidéosurveillance 16 caméras"
   },
   {
@@ -500,7 +521,7 @@
     "iacamera": "SMD Plus (enregistreur), IA avancée caméra : détection visage, reconnaissance faciale, protection périmétrique",
     "micro": "1 entrée / 1 sortie RCA, compression G.711u",
     "technologie": "NVR SSD Lite Series",
-    "productref": "DHI-NVR4104HS-4KS3",
+    "productref": "DHI-NVR4104HS4KS31X960",
     "altwords": "NRV, NVRR, NVVR, NVR ajax, NVR dahua, NVR hikvision, enregistreur nvr, nvr poe, nvr ip, nvr reseau, nvr camera, enregistreur réseau, enregistreur IP, Network Video Recorder, enregistreur PoE, enregistreur caméra IP, enregistreur de vidéosurveillance, NVR 4 canaux, NVR 8 canaux, NVR 16 canaux, enregistreur IP PoE, recorder IP, enregistreur numérique réseau, NVR connecté, NVR de surveillance, NVR avec disques durs, 4 canal, 4ch, 4 ch, quatre canaux, 4ch nvr, nvr 4 canaux, dvr 4 canaux, xvr 4 canaux, enregistreur 4 canal, enregistreur 4ch, enregistreur 4 canaux, NVR 4 canaux, DVR 4 canaux, XVR 4 canaux, enregistreur 4 caméras, recorder 4ch, enregistreur vidéo 4ch, système 4 caméras, kit 4 canaux, enregistreur IP 4 canaux, enregistreur analogique 4 canaux, NVR PoE 4 canaux, DVR 4CH, enregistreur de vidéosurveillance 4 caméras"
   },
   {
@@ -542,7 +563,7 @@
     "iacamera": "",
     "micro": "",
     "technologie": "",
-    "productref": "PFA151",
+    "productref": "PFA156",
     "altwords": "support angle, suport dangle, support d'angl, support d’ongle, suport angle camera, support angle camera, support dangle camera, support d’angle camera, suport d’angle mural, équerre d’angle, support mural d’angle, support de fixation d’angle, platine d’angle, angle bracket, corner mount, support caméra d’angle, support de montage d’angle, fixation d’angle caméra, bracket d’angle, camera corner mount, support d’angle étanche, support d’angle extérieur, support d’angle aluminium, équerre caméra"
   },
   {
@@ -647,7 +668,7 @@
     "iacamera": "Détection périmétrique, SMD Plus (classification humains/véhicules)",
     "micro": "Oui",
     "technologie": "Réseau",
-    "productref": "IPC-HDW2449TM-S-IL",
+    "productref": "IPC-HDW2449TP-S-IL-0280B",
     "altwords": "dome reseau, dôme reseaux, dome reseaux, dome ip, dome cam, dôme cam, cam dome, cam ip dome, dome camera, dome ip camera, dome network, camera dome reseau, caméra dome ip, dôme poe, dome ethernet, caméra dôme IP, caméra réseau, caméra connectée, caméra PoE, caméra dôme extérieure, caméra dôme intérieure, caméra dôme surveillance, caméra IP dôme, dôme IP, dome, domme, doome, dom, domee, dômme, dome cam, cam dome, camera dome, dome camera, dome ip, dome analogique, dôme ip, dôme camera, dome poe, caméra dôme, caméra intérieure, caméra extérieure, caméra plafond, caméra dôme IP, caméra dôme analogique, dôme CCTV, mini dôme, dôme antivandale, dôme motorisé, dôme 360°, caméra dôme PoE, caméra dôme de surveillance, dôme IR"
   },
   {
@@ -3021,27 +3042,6 @@
     "micro": "",
     "technologie": "Protocoles radio",
     "productref": "38100.21.BL1",
-    "altwords": "detecteur d’ouverture, detecteur d’ouverture ajax, detecteur d’ouverture porte, detecteur d’ouverture fenetre, detecteur ouverture, detecteur douverture, detecteur douvertur, detecteur ouverture ajax, detecteur ouvrerture, detecteur dorprotect, DoorProtect, DoorProtect Plus, DoorProtect G3, capteur d’ouverture AJAX, détecteur porte AJAX, détecteur fenêtre AJAX, capteur magnétique AJAX, capteur porte AJAX, capteur contact AJAX, capteur ouverture porte, contact magnétique AJAX, détecteur sans fil AJAX, Door Protect Ajax blanc, Door Protect Ajax noir, capteur d’ouverture sans fil"
-  },
-  {
-    "title": "DoorProtect Blanc",
-    "url": "https://www.camprotect.fr/product/ajax-doorprotect-blanc",
-    "image": "https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69283ecbe78f464f196eb73f_Design%20sans%20titre%20(30).png",
-    "description": "Le DoorProtect Jeweller d’Ajax est un détecteur d’ouverture intérieur sans fil, conçu pour protéger fenêtres, portes et lucarnes. Grâce aux deux aimants (1 cm et 2 cm), il s’adapte à différentes configurations et détecte l’ouverture dès que le relais Reed s’active .\n\nEquipé d’une communication bidirectionnelle Jeweller sécurisée, il alerte en moins de 0,15 s sur une portée allant jusqu’à 1 200 m en champ libre, avec chiffrement AES et anti-sabotage (tamper, anti-rebond, lutte contre brouillage) .\n\nLa pile CR123A préinstallée offre une autonomie jusqu’à 7 ans, tandis que la fonction “Carillon d’entrée” permet un signal discret quand le système est désarmé—parfait pour les entrées quotidiennes . Compact, léger (29 g) et étanche à la poussière (IP50), il s’installe en quelques minutes via QR code et support SmartBracket, avec options avancées comme l’entrée pour capteur tiers.\n\n‍\n\n‍\n\n‍",
-    "categorie1": "",
-    "categorie2": "",
-    "brand": "AJAX",
-    "productType": "Détecteur d'ouverture",
-    "cameraForm": "",
-    "compatibilite": "",
-    "alimentation": "1 × CR123A (préinstallée)",
-    "communication": "",
-    "couleur": "Blanc",
-    "environnement": "",
-    "iacamera": "",
-    "micro": "",
-    "technologie": "Protocoles radio",
-    "productref": "38099.03.WH1",
     "altwords": "detecteur d’ouverture, detecteur d’ouverture ajax, detecteur d’ouverture porte, detecteur d’ouverture fenetre, detecteur ouverture, detecteur douverture, detecteur douvertur, detecteur ouverture ajax, detecteur ouvrerture, detecteur dorprotect, DoorProtect, DoorProtect Plus, DoorProtect G3, capteur d’ouverture AJAX, détecteur porte AJAX, détecteur fenêtre AJAX, capteur magnétique AJAX, capteur porte AJAX, capteur contact AJAX, capteur ouverture porte, contact magnétique AJAX, détecteur sans fil AJAX, Door Protect Ajax blanc, Door Protect Ajax noir, capteur d’ouverture sans fil"
   },
   {
