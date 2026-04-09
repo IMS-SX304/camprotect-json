@@ -1,0 +1,12 @@
+{
+  "name": "camprotect-json",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Génération automatique du catalogue produits CamProtect",
+  "scripts": {
+    "generate": "node scripts/generate-data.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
