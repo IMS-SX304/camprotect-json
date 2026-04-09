@@ -1,17 +1,16 @@
 /**
  * generate-data.js
- * Extraction Webflow API v1 → data.json
+ * Extraction Webflow API v1 (e-commerce endpoint) → data.json
  * Compatible barre de recherche Fuse.js + planner camprotect
  */
 
 import fetch from 'node-fetch';
 import fs from 'fs';
 
-const TOKEN = process.env.WEBFLOW_TOKEN;
-const PRODUCTS_COL = '66e1f58c28ec496d75b43155';
-const SKUS_COL     = '66e1f58c28ec496d75b43159';
+const TOKEN   = process.env.WEBFLOW_TOKEN;
+const SITE_ID = '66e1f578f9f545dee86c9a91';
 
-// API v1 — token alphanumérique classique
+// API v1 e-commerce — retourne produits + SKUs en une seule requête
 const BASE = 'https://api.webflow.com';
 const H = {
   Authorization: `Bearer ${TOKEN}`,
@@ -75,19 +74,20 @@ const PLANNER_MAP_SLUGS = {
   rex_1:  'ajax-rex-blanc',
 };
 
-// ─── Pagination API v1 ────────────────────────────────────────────────────
-async function fetchAll(collectionId) {
+// ─── Pagination e-commerce /sites/{id}/products ───────────────────────────
+async function fetchAllProducts() {
   let items = [];
   let offset = 0;
   while (true) {
-    const url = `${BASE}/collections/${collectionId}/items?limit=100&offset=${offset}`;
+    const url = `${BASE}/sites/${SITE_ID}/products?limit=100&offset=${offset}`;
+    console.log(`  → fetch offset=${offset}`);
     const r = await fetch(url, { headers: H });
     if (!r.ok) throw new Error(`Webflow API error ${r.status}: ${await r.text()}`);
     const d = await r.json();
-    // v1 retourne { items: [...], total: N, count: N, offset: N }
     const batch = d.items || [];
     items = items.concat(batch);
     const total = d.total ?? items.length;
+    console.log(`  ✓ ${items.length}/${total}`);
     if (items.length >= total || batch.length === 0) break;
     offset += 100;
   }
@@ -96,67 +96,53 @@ async function fetchAll(collectionId) {
 
 // ─── Formatage prix (centimes → "257,22") ────────────────────────────────
 function fmtPrice(val) {
-  if (!val) return '';
+  if (!val && val !== 0) return '';
   return (val / 100).toFixed(2).replace('.', ',');
 }
 
 // ─── Main ─────────────────────────────────────────────────────────────────
 async function main() {
   if (!TOKEN) throw new Error('WEBFLOW_TOKEN manquant');
-  console.log('📥 Récupération des produits (API v1)...');
+  console.log('📥 Récupération des produits (API v1 e-commerce)...');
 
-  const [rawProducts, rawSkus] = await Promise.all([
-    fetchAll(PRODUCTS_COL),
-    fetchAll(SKUS_COL),
-  ]);
+  const rawProducts = await fetchAllProducts();
+  console.log(`✓ ${rawProducts.length} produits récupérés`);
 
-  console.log(`✓ ${rawProducts.length} produits, ${rawSkus.length} SKUs`);
-
-  // Indexer les SKUs par product ID (champ _id du parent dans v1)
-  const skuByProduct = {};
-  for (const sku of rawSkus) {
-    // En v1, les champs sont directement dans l'objet (pas dans fieldData)
-    const fd = sku['field-data'] || sku.fieldData || sku;
-    const pid = fd.product || sku.product;
-    if (!pid) continue;
-    if (!skuByProduct[pid]) skuByProduct[pid] = [];
-    skuByProduct[pid].push(sku);
-  }
-
-  // ─── Construire le tableau produits ──────────────────────────────────
   const products = [];
   const slugIndex = {};
 
-  for (const p of rawProducts) {
-    if (p['archived'] || p['draft']) continue;
+  for (const item of rawProducts) {
+    // Structure v1 e-commerce : { product: {...}, skus: [...] }
+    const p   = item.product || item;
+    const skus = item.skus   || [];
 
-    // v1 : champs directement dans l'objet ou dans field-data
+    if (p.archived || p.draft) continue;
+
     const fd = p['field-data'] || p.fieldData || p;
-    const pid = p._id || p.id;
-    const skus = skuByProduct[pid] || [];
 
-    let priceRaw = null, imgUrl = '', skuRef = '';
+    // Prix + image depuis le premier SKU
+    let priceRaw = null, imgUrl = '';
     for (const s of skus) {
       const sfd = s['field-data'] || s.fieldData || s;
-      if (!priceRaw && sfd.price?.value) priceRaw = sfd.price.value;
-      if (!priceRaw && sfd['price']) {
-        const p2 = sfd['price'];
-        if (typeof p2 === 'object' && p2.value) priceRaw = p2.value;
+      if (!priceRaw) {
+        const pv = sfd.price?.value ?? sfd['price']?.value;
+        if (pv) priceRaw = pv;
       }
-      if (!imgUrl && sfd['main-image']?.url) imgUrl = sfd['main-image'].url;
-      if (!imgUrl && sfd['main-image']?.fileId) imgUrl = ''; // placeholder
-      if (!skuRef) skuRef = sfd.sku || '';
+      if (!imgUrl) {
+        imgUrl = sfd['main-image']?.url || sfd['main-image']?.fileUrl || '';
+      }
+      if (priceRaw && imgUrl) break;
     }
 
-    // Correction prix aberrant
+    // Correction prix aberrant (ex: 756700 centimes au lieu de 7567)
     if (priceRaw > 100000) {
-      console.warn(`⚠ Prix suspect "${fd.name}": ${priceRaw} → corrigé`);
+      console.warn(`  ⚠ Prix suspect "${fd.name}": ${priceRaw} centimes → corrigé`);
       priceRaw = priceRaw / 100;
     }
 
     const slug = fd.slug || p.slug || '';
     const brand = FABS[fd.fabricants] || '';
-    const env = ENVS[fd.environnement] || '';
+    const env   = ENVS[fd.environnement] || '';
 
     const couleurId = fd.couleur;
     const couleur = couleurId === 'c4ace7b5c9fa4b41753e2a21972d9f72' ? 'Blanc'
@@ -167,7 +153,7 @@ async function main() {
                 : microId === '93cc9946ca37cb462fe7f576a8617dd2' ? 'Non' : '';
 
     const product = {
-      // ── Champs barre de recherche Fuse.js ──
+      // ── Barre de recherche Fuse.js ──
       title:         fd.name || '',
       url:           `https://www.camprotect.fr/product/${slug}`,
       image:         imgUrl,
@@ -188,21 +174,20 @@ async function main() {
       price:         fmtPrice(priceRaw),
       categorie1:    '',
       categorie2:    '',
-      // ── Champs planner ──
+      // ── Planner ──
       slug,
-      serie:              fd.serie || '',
-      ip:                 fd['indice-de-protection---ik'] || '',
-      peripheriques_max:  fd['nombre-des-peripheriques-max'] || '',
-      acoustique_db:      fd['puissance-accoustique'] || '',
-      resolution:         fd.resolution || '',
-      ir_portee:          fd['ir-led'] || '',
-      canaux:             fd['nombre-de-canaux'] || '',
-      compression:        fd['compression-video'] || '',
-      garantie:           fd['garantie-du-produit'] || '',
-      prix_ht:            priceRaw ? Math.round(priceRaw) / 100 : null,
+      serie:             fd.serie || '',
+      ip:                fd['indice-de-protection---ik'] || '',
+      peripheriques_max: fd['nombre-des-peripheriques-max'] || '',
+      acoustique_db:     fd['puissance-accoustique'] || '',
+      resolution:        fd.resolution || '',
+      ir_portee:         fd['ir-led'] || '',
+      canaux:            fd['nombre-de-canaux'] || '',
+      compression:       fd['compression-video'] || '',
+      garantie:          fd['garantie-du-produit'] || '',
+      prix_ht:           priceRaw ? Math.round(priceRaw) / 100 : null,
     };
 
-    // Nettoyer null/undefined
     for (const k of Object.keys(product)) {
       if (product[k] === null || product[k] === undefined) product[k] = '';
     }
@@ -211,7 +196,7 @@ async function main() {
     if (slug) slugIndex[slug] = product;
   }
 
-  console.log(`✓ ${products.length} produits actifs`);
+  console.log(`✓ ${products.length} produits actifs construits`);
 
   // ─── Planner map ─────────────────────────────────────────────────────
   const plannerMap = {};
@@ -220,22 +205,22 @@ async function main() {
     if (prod) {
       plannerMap[key] = {
         slug,
-        name:             prod.title,
-        prix_ht:          prod.prix_ht,
-        image:            prod.image,
-        description:      prod.description,
-        type:             prod.productType,
-        ip:               prod.ip,
-        environnement:    prod.environnement,
-        acoustique_db:    prod.acoustique_db,
-        peripheriques_max:prod.peripheriques_max,
-        url:              prod.url,
+        name:              prod.title,
+        prix_ht:           prod.prix_ht,
+        image:             prod.image,
+        description:       prod.description,
+        type:              prod.productType,
+        ip:                prod.ip,
+        environnement:     prod.environnement,
+        acoustique_db:     prod.acoustique_db,
+        peripheriques_max: prod.peripheriques_max,
+        url:               prod.url,
       };
       for (const k of Object.keys(plannerMap[key])) {
         if (!plannerMap[key][k] && plannerMap[key][k] !== 0) delete plannerMap[key][k];
       }
     } else {
-      console.warn(`⚠ Clé planner "${key}" → slug introuvable: ${slug}`);
+      console.warn(`  ⚠ Clé planner "${key}" introuvable: ${slug}`);
     }
   }
 
