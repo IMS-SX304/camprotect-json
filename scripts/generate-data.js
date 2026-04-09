@@ -1,17 +1,18 @@
 /**
  * generate-data.js
- * Extraction Webflow API v1 (e-commerce endpoint) → data.json
+ * Extraction Webflow API v2 → data.json
  * Compatible barre de recherche Fuse.js + planner camprotect
  */
 
 import fetch from 'node-fetch';
 import fs from 'fs';
 
-const TOKEN   = process.env.WEBFLOW_TOKEN;
-const SITE_ID = '66e1f578f9f545dee86c9a91';
+const TOKEN         = process.env.WEBFLOW_TOKEN;
+const PRODUCTS_COL  = '66e1f58c28ec496d75b43155';
+const SKUS_COL      = '66e1f58c28ec496d75b43159';
 
-// API v1 e-commerce — retourne produits + SKUs en une seule requête
-const BASE = 'https://api.webflow.com';
+// API v2
+const BASE = 'https://api.webflow.com/v2';
 const H = {
   Authorization: `Bearer ${TOKEN}`,
   'accept-version': '1.0.0',
@@ -36,7 +37,6 @@ const ENVS = {
   '418b9e69feac8920782ca9ed7d1f9707': 'Intérieur',
 };
 
-// Mapping clé planner → slug Webflow
 const PLANNER_MAP_SLUGS = {
   hub:    'ajax-hub-2-4g-blanc',
   hub_p:  'ajax-hub-2-plus-blanc',
@@ -52,7 +52,7 @@ const PLANNER_MAP_SLUGS = {
   cb:     'ajax-combiprotect-blanc',
   cu:     'ajax-curtain-outdoor-blanc',
   cu2:    'ajax-dualcurtain-outdoor-blanc',
-  dp:     'ajax-doorprotect-blanc',
+  dp:     'doorprotect-blanc',
   dp_p:   'ajax-doorprotect-plus-blanc',
   gp:     'ajax-glassprotect-blanc',
   fp:     'ajax-fireprotect-blanc',
@@ -74,20 +74,21 @@ const PLANNER_MAP_SLUGS = {
   rex_1:  'ajax-rex-blanc',
 };
 
-// ─── Pagination e-commerce /sites/{id}/products ───────────────────────────
-async function fetchAllProducts() {
+// ─── Pagination API v2 ────────────────────────────────────────────────────
+async function fetchAll(collectionId) {
   let items = [];
   let offset = 0;
   while (true) {
-    const url = `${BASE}/sites/${SITE_ID}/products?limit=100&offset=${offset}`;
-    console.log(`  → fetch offset=${offset}`);
-    const r = await fetch(url, { headers: H });
+    const r = await fetch(
+      `${BASE}/collections/${collectionId}/items?limit=100&offset=${offset}`,
+      { headers: H }
+    );
     if (!r.ok) throw new Error(`Webflow API error ${r.status}: ${await r.text()}`);
     const d = await r.json();
     const batch = d.items || [];
     items = items.concat(batch);
-    const total = d.total ?? items.length;
-    console.log(`  ✓ ${items.length}/${total}`);
+    const total = d.pagination?.total ?? items.length;
+    console.log(`  ${collectionId.slice(-6)} offset=${offset} → ${items.length}/${total}`);
     if (items.length >= total || batch.length === 0) break;
     offset += 100;
   }
@@ -103,118 +104,102 @@ function fmtPrice(val) {
 // ─── Main ─────────────────────────────────────────────────────────────────
 async function main() {
   if (!TOKEN) throw new Error('WEBFLOW_TOKEN manquant');
-  console.log('📥 Récupération des produits (API v1 e-commerce)...');
+  console.log('📥 Récupération des produits (API v2)...');
 
-  const rawProducts = await fetchAllProducts();
-  console.log(`✓ ${rawProducts.length} produits récupérés`);
+  const [rawProducts, rawSkus] = await Promise.all([
+    fetchAll(PRODUCTS_COL),
+    fetchAll(SKUS_COL),
+  ]);
+  console.log(`✓ ${rawProducts.length} produits, ${rawSkus.length} SKUs`);
+
+  // Index SKUs par product ID
+  const skuByProduct = {};
+  for (const sku of rawSkus) {
+    const pid = sku.fieldData?.product;
+    if (pid) {
+      skuByProduct[pid] = skuByProduct[pid] || [];
+      skuByProduct[pid].push(sku);
+    }
+  }
 
   const products = [];
   const slugIndex = {};
 
-  for (const item of rawProducts) {
-    // Structure v1 e-commerce : { product: {...}, skus: [...] }
-    const p   = item.product || item;
-    const skus = item.skus   || [];
+  for (const p of rawProducts) {
+    if (p.isArchived || p.isDraft) continue;
+    const fd = p.fieldData;
+    const pid = p.id;
+    const skus = skuByProduct[pid] || [];
 
-    if (p.archived || p.draft) continue;
-
-    const fd = p['field-data'] || p.fieldData || p;
-
-    // Prix + image depuis le premier SKU
     let priceRaw = null, imgUrl = '';
     for (const s of skus) {
-      const sfd = s['field-data'] || s.fieldData || s;
-      if (!priceRaw) {
-        const pv = sfd.price?.value ?? sfd['price']?.value;
-        if (pv) priceRaw = pv;
-      }
-      if (!imgUrl) {
-        imgUrl = sfd['main-image']?.url || sfd['main-image']?.fileUrl || '';
-      }
+      const sfd = s.fieldData;
+      if (!priceRaw && sfd.price?.value) priceRaw = sfd.price.value;
+      if (!imgUrl && sfd['main-image']?.url) imgUrl = sfd['main-image'].url;
       if (priceRaw && imgUrl) break;
     }
 
-    // Correction prix aberrant (ex: 756700 centimes au lieu de 7567)
+    // Correction prix aberrant
     if (priceRaw > 100000) {
-      console.warn(`  ⚠ Prix suspect "${fd.name}": ${priceRaw} centimes → corrigé`);
+      console.warn(`  ⚠ Prix suspect "${fd.name}": ${priceRaw} → corrigé`);
       priceRaw = priceRaw / 100;
     }
 
-    const slug = fd.slug || p.slug || '';
-    const brand = FABS[fd.fabricants] || '';
-    const env   = ENVS[fd.environnement] || '';
-
-    const couleurId = fd.couleur;
-    const couleur = couleurId === 'c4ace7b5c9fa4b41753e2a21972d9f72' ? 'Blanc'
-                  : couleurId === '192fa2d4339dc5af00fe9a51e72bea99' ? 'Noir' : '';
-
-    const microId = fd['micro-integre-2'];
-    const micro = microId === 'b171d95294a5f81060c177713e8b0183' ? 'Oui'
-                : microId === '93cc9946ca37cb462fe7f576a8617dd2' ? 'Non' : '';
+    const slug    = fd.slug || '';
+    const brand   = FABS[fd.fabricants] || '';
+    const env     = ENVS[fd.environnement] || '';
+    const couleur = fd.couleur === 'c4ace7b5c9fa4b41753e2a21972d9f72' ? 'Blanc'
+                  : fd.couleur === '192fa2d4339dc5af00fe9a51e72bea99' ? 'Noir' : '';
+    const micro   = fd['micro-integre-2'] === 'b171d95294a5f81060c177713e8b0183' ? 'Oui'
+                  : fd['micro-integre-2'] === '93cc9946ca37cb462fe7f576a8617dd2' ? 'Non' : '';
 
     const product = {
-      // ── Barre de recherche Fuse.js ──
+      // Fuse.js search bar
       title:         fd.name || '',
       url:           `https://www.camprotect.fr/product/${slug}`,
       image:         imgUrl,
       description:   fd['description-mini'] || fd.description || '',
-      brand,
-      productType:   fd['type-de-produit'] || '',
+      brand, productType: fd['type-de-produit'] || '',
       cameraForm:    fd['forme-de-la-camera'] || '',
       compatibilite: fd['compatibilite-cameras'] || '',
       alimentation:  fd['alimentation-de-la-camera'] || '',
       communication: fd['module-de-communication'] || fd.raccordement || '',
-      couleur,
-      environnement: env,
-      iacamera:      fd['intelligence-artificielle-camera'] || '',
-      micro,
-      technologie:   fd['technologie-de-camera'] || '',
+      couleur, environnement: env, iacamera: fd['intelligence-artificielle-camera'] || '',
+      micro, technologie: fd['technologie-de-camera'] || '',
       productref:    fd['product-reference'] || fd['code-fabricant'] || '',
       altwords:      fd.altword || '',
       price:         fmtPrice(priceRaw),
-      categorie1:    '',
-      categorie2:    '',
-      // ── Planner ──
-      slug,
-      serie:             fd.serie || '',
-      ip:                fd['indice-de-protection---ik'] || '',
+      categorie1: '', categorie2: '',
+      // Planner
+      slug, serie: fd.serie || '', ip: fd['indice-de-protection---ik'] || '',
       peripheriques_max: fd['nombre-des-peripheriques-max'] || '',
-      acoustique_db:     fd['puissance-accoustique'] || '',
-      resolution:        fd.resolution || '',
-      ir_portee:         fd['ir-led'] || '',
-      canaux:            fd['nombre-de-canaux'] || '',
-      compression:       fd['compression-video'] || '',
-      garantie:          fd['garantie-du-produit'] || '',
-      prix_ht:           priceRaw ? Math.round(priceRaw) / 100 : null,
+      acoustique_db: fd['puissance-accoustique'] || '',
+      resolution: fd.resolution || '', ir_portee: fd['ir-led'] || '',
+      canaux: fd['nombre-de-canaux'] || '', compression: fd['compression-video'] || '',
+      garantie: fd['garantie-du-produit'] || '',
+      prix_ht: priceRaw ? Math.round(priceRaw) / 100 : null,
     };
 
     for (const k of Object.keys(product)) {
       if (product[k] === null || product[k] === undefined) product[k] = '';
     }
-
     products.push(product);
     if (slug) slugIndex[slug] = product;
   }
 
-  console.log(`✓ ${products.length} produits actifs construits`);
+  console.log(`✓ ${products.length} produits actifs`);
 
-  // ─── Planner map ─────────────────────────────────────────────────────
+  // Planner map
   const plannerMap = {};
   for (const [key, slug] of Object.entries(PLANNER_MAP_SLUGS)) {
     const prod = slugIndex[slug];
     if (prod) {
       plannerMap[key] = {
-        slug,
-        name:              prod.title,
-        prix_ht:           prod.prix_ht,
-        image:             prod.image,
-        description:       prod.description,
-        type:              prod.productType,
-        ip:                prod.ip,
-        environnement:     prod.environnement,
-        acoustique_db:     prod.acoustique_db,
-        peripheriques_max: prod.peripheriques_max,
-        url:               prod.url,
+        slug, name: prod.title, prix_ht: prod.prix_ht, image: prod.image,
+        description: prod.description, type: prod.productType,
+        ip: prod.ip, environnement: prod.environnement,
+        acoustique_db: prod.acoustique_db, peripheriques_max: prod.peripheriques_max,
+        url: prod.url,
       };
       for (const k of Object.keys(plannerMap[key])) {
         if (!plannerMap[key][k] && plannerMap[key][k] !== 0) delete plannerMap[key][k];
@@ -227,13 +212,8 @@ async function main() {
   const resolved = Object.keys(plannerMap).length;
   console.log(`✓ Planner map: ${resolved}/${Object.keys(PLANNER_MAP_SLUGS).length} clés`);
 
-  // ─── JSON final ───────────────────────────────────────────────────────
   const output = {
-    meta: {
-      total:     products.length,
-      generated: new Date().toISOString(),
-      source:    'camprotect.fr Webflow CMS',
-    },
+    meta: { total: products.length, generated: new Date().toISOString(), source: 'camprotect.fr Webflow CMS' },
     planner_map: plannerMap,
     products,
   };
