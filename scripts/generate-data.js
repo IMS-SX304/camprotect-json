@@ -71,7 +71,6 @@ const PLANNER_MAP_SLUGS = {
   tc4:    'camera-tourelle-ajax-turretcam-5mp-4mm-blanche',
   mt:     'ajax-multitransmitter-blanc',
   rex:    'ajax-rex-2-blanc',
-  rex_1:  'ajax-rex-blanc',
 };
 
 // ─── Pagination API v2 ────────────────────────────────────────────────────
