@@ -1,7 +1,9 @@
 /**
  * generate-data.js
  * Extraction Webflow API v2 → data.json
- * Compatible barre de recherche Fuse.js + planner camprotect
+ * Compatible barre de recherche Fuse.js + planner camprotect + add-to-cart
+ *
+ * v1.1.0 : ajout du champ sku_id pour chaque produit (add-to-cart direct)
  */
 
 import fetch from 'node-fetch';
@@ -130,12 +132,14 @@ async function main() {
     const pid = p.id;
     const skus = skuByProduct[pid] || [];
 
-    let priceRaw = null, imgUrl = '';
+    // skuId : default-sku explicite (s'il existe) OU premier SKU trouvé (fallback)
+    let priceRaw = null, imgUrl = '', skuId = fd['default-sku'] || '';
     for (const s of skus) {
       const sfd = s.fieldData;
+      if (!skuId) skuId = s.id;
       if (!priceRaw && sfd.price?.value) priceRaw = sfd.price.value;
       if (!imgUrl && sfd['main-image']?.url) imgUrl = sfd['main-image'].url;
-      if (priceRaw && imgUrl) break;
+      if (priceRaw && imgUrl && skuId) break;
     }
 
     // Correction prix aberrant
@@ -177,6 +181,8 @@ async function main() {
       canaux: fd['nombre-de-canaux'] || '', compression: fd['compression-video'] || '',
       garantie: fd['garantie-du-produit'] || '',
       prix_ht: priceRaw ? Math.round(priceRaw) / 100 : null,
+      // E-commerce (add-to-cart direct)
+      sku_id: skuId,
     };
 
     for (const k of Object.keys(product)) {
@@ -187,6 +193,14 @@ async function main() {
   }
 
   console.log(`✓ ${products.length} produits actifs`);
+
+  // Contrôle couverture sku_id
+  const withSkuId = products.filter(p => p.sku_id).length;
+  console.log(`✓ sku_id : ${withSkuId}/${products.length} produits couverts`);
+  if (withSkuId < products.length) {
+    const missing = products.filter(p => !p.sku_id).map(p => p.slug);
+    console.warn(`  ⚠ Produits sans sku_id : ${missing.join(', ')}`);
+  }
 
   // Planner map
   const plannerMap = {};
