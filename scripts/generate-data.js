@@ -170,6 +170,7 @@ async function main() {
       couleur, environnement: env, iacamera: fd['intelligence-artificielle-camera'] || '',
       micro, technologie: fd['technologie-de-camera'] || '',
       productref:    fd['product-reference'] || fd['code-fabricant'] || '',
+      code_fabricant: fd['code-fabricant'] || '',
       altwords:      fd.altword || '',
       price:         fmtPrice(priceRaw),
       categorie1: '', categorie2: '',
