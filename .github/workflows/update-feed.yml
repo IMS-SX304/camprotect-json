@@ -1,0 +1,35 @@
+name: 🛒 Mettre à jour feed.xml
+
+on:
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Raison (optionnel)'
+        required: false
+        default: 'Mise à jour manuelle'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Générer feed.xml
+        run: node scripts/generate-feed.js
+
+      - name: Commit & push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add feed.xml
+          git diff --staged --quiet || git commit -m "🛒 feed.xml mis à jour - $(date '+%d/%m/%Y %H:%M')"
+          git push
