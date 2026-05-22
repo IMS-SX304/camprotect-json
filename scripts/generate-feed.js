@@ -6,8 +6,8 @@
  * Sortie : feed.xml (Google Merchant Center — RSS 2.0 + namespace g:)
  */
 
-const https = require("https");
-const fs = require("fs");
+import https from "https";
+import fs from "fs";
 
 const JSON_URL  = "https://ims-sx304.github.io/camprotect-json/data.json";
 const OUTPUT    = "feed.xml";
