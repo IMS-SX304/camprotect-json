@@ -4,8 +4,363 @@
     <title>Camprotect — Vidéosurveillance et alarmes</title>
     <link>https://www.camprotect.fr</link>
     <description>Spécialiste Ajax Systems, Hikvision et Dahua en France</description>
-    <lastBuildDate>Fri, 05 Jun 2026 14:50:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 16:26:40 GMT</lastBuildDate>
     
+    <item>
+      <g:id>6a22be7f9faaa1627b1a8699</g:id>
+      <g:title>Switch 5 ports Gigabit</g:title>
+      <g:description>Switch Dahua 5 ports Gigabit desktop, non manageable, plug-and-play. 5× RJ-45 10/100/1000 Mbps, capacité 10 Gbps, conso 1,6 W. Sans PoE.</g:description>
+      <g:link>https://www.camprotect.fr/product/switch-dh-pfs3005-5gt-l</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a22be419faaa1627b1a6aaf_PFS3005-5GT-L.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>11.62 EUR</g:price>
+      <g:brand>DAHUA</g:brand>
+      <g:google_product_category>222</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DH-PFS3005-5GT-L</g:mpn>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a22bcba658f913a3873eb0e</g:id>
+      <g:title>Enregistreur NVR 32 canaux 16 ports PoE</g:title>
+      <g:description>NVR WizSense 32 canaux, 16 ports PoE (130 W), 2 baies HDD, IA AcuPick &amp; WizSense, décodage 8 MP, sortie HDMI 8K. Caméras IP jusqu&apos;à 32 MP.</g:description>
+      <g:link>https://www.camprotect.fr/product/enregistreur-nvr-dhi-nvr5232-16p-ei2</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a22bc92d760d4665455dc61_NVR5232-16P-EI2.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>552.86 EUR</g:price>
+      <g:brand>DAHUA</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DHI-NVR5232-16P-EI2</g:mpn>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a22a1b1ab65710f04980231</g:id>
+      <g:title>Caméra Dôme 2 MP Smart Hybrid Light</g:title>
+      <g:description>Dôme 2 MP Hikvision Value Series · Smart Hybrid Light IR + lumière blanche 30 m · détection humain/véhicule · micro intégré · IP67/IK08 · PoE.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-dome-ds-2cd1123g2-liuf</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a22a13f05fd30ff7f031533_DS-2CD1123G2-LIU(2.8mm).png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>67.21 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DS-2CD1123G2-LIUF</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a229fbca069471c6327a304</g:id>
+      <g:title>Caméra Dôme 8 MP Smart Dual Light WizSense</g:title>
+      <g:description>Caméra dôme IP 8 MP 4K Dahua DH-IPC-HDBW3849E-S-IL WizSense : Smart Dual Light 30 m, WDR 120 dB, SMD 4.0, AcuPick, micro intégré, IP67/IK10, PoE.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-dome-ipc-hdbw3849e-s-il</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a229fa2620dd06b2e6b1e0d_PC-HDBW3849EP-S-IL-0280B.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>207.13 EUR</g:price>
+      <g:brand>DAHUA</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DH-IPC-HDBW3849E-S-IL</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a229f1bb797ac11674c91cd</g:id>
+      <g:title>Caméra Dôme 6 MP Smart Dual Light WizSense</g:title>
+      <g:description>Caméra dôme IP 6 MP Dahua DH-IPC-HDBW3649E-S-IL WizSense : Smart Dual Light 30 m, WDR 120 dB, SMD 4.0, AcuPick, micro intégré, IP67/IK10, PoE.</g:description>
+      <g:link>https://www.camprotect.fr/product/ipc-hdbw3649ep-s-il-0280b</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a229ece847c9b45ebf2f54a_IPC-HDBW3649EP-S-IL-0280B%20(1).png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>158.63 EUR</g:price>
+      <g:brand>DAHUA</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DH-IPC-HDBW3649E-S-IL</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a229e65294d92b45548c7a0</g:id>
+      <g:title>Caméra Dôme 4 MP AcuSense DarkFighter Varifocale Motorisée</g:title>
+      <g:description>Caméra dôme IP 4 MP Hikvision DS-2CD2546G3-IZS2UY : AcuSense DarkFighter, varifocale motorisée 2,8–4 mm, double micro, WDR 130 dB, anticorrosion NEMA 4X, IP67/IK08, PoE.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-dome-ds-2cd2546g3-izs2uy</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a229e3ff05c6f87896ca34d_DS-2CD2546G3-IZS2UY(2.84MM).png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>174.14 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DS-2CD2546G3-IZS2UY</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a2296f05f8cecc9de54ed39</g:id>
+      <g:title>Caméra Dôme 4 MP AcuSense Smart Hybrid Light</g:title>
+      <g:description>Caméra dôme IP 4 MP Hikvision DS-2CD2143G2-LIS2U : AcuSense, Smart Hybrid Light 4 modes, WDR 120 dB, double micro, protection périmétrique, IK10, PoE.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-dome-ds-2cd2143g2-lis2u</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a2296aadf6c01a0603ee715_DS-2CD2143G2-LIS2U(2.8mm).png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>141.60 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DS-2CD2143G2-LIS2U</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a2295da9946cf95f75868d2</g:id>
+      <g:title>Caméra Dôme 4 MP Smart Hybrid Light Varifocale Motorisée</g:title>
+      <g:description>Caméra dôme IP 4 MP Hikvision DS-2CD1743G2-LIZSU : varifocale motorisée 2,8–12 mm, Smart Hybrid Light 30 m, WDR 120 dB, micro intégré, IP67/IK08, PoE.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-dome-ds-2cd1743g2-lizsu</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a2295858b14c963fb6c5dc3_DS-2CD1743G2-LIZSU(2.8-12mm).png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>138.14 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DS-2CD1743G2-LIZSU</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a2294e1caaac0f33b165413</g:id>
+      <g:title>Caméra Bullet 2 MP Smart Hybrid Light</g:title>
+      <g:description>Caméra bullet IP 2 MP Hikvision DS-2CD1023G2-LIUF : Smart Hybrid Light 30 m, micro intégré, détection humain/véhicule, microSD 512 Go, IP67, alimentation PoE 802.3af.</g:description>
+      <g:link>https://www.camprotect.fr/product/dfgdsjdfhdsg</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a2294ca0c7e91ffe2a3877d_DS-2CD1023G2-LIU(2.8mm).png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.14 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DS-2CD1023G2-LIUF</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a229259a39936aade7b4b7f</g:id>
+      <g:title>Caméra Mini Bullet Analogique 2 MP ColorVu Smart Hybrid Light</g:title>
+      <g:description>Mini bullet analogique Hikvision 2 MP ColorVu F1.0 couleur 24h/24, Smart Hybrid Light 20 m, signal TVI/AHD/CVI/CVBS, micro, WDR 130 dB, IP67. 12 V DC, pour DVR/XVR.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-bullet-ds-2ce10df3t-lfs</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a2292234e4baafd31a8cba0_DS-2CE10DF3T-LFS.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>42.50 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DS-2CE10DF3T-LFS</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a22916bd55d8dbe2fee1ea4</g:id>
+      <g:title>Caméra Bullet Thermique Bi-Spectre ColorVu 4 MP</g:title>
+      <g:description>Bullet bi-spectre Hikvision : thermique 96×72 (NETD &lt;55 mK) + optique ColorVu 4 MP couleur 24h/24, VCA humain/véhicule, dissuasion active, IP67/IK10. PoE 802.3af.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-bullet-thermique-ds-2td2608-2-qa</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a22912c183f8f2e1872fc75_DS-2TD2608-2QA.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>321.41 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DS-2TD2608-2/QA</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a229057f51efe065ee466b6</g:id>
+      <g:title>Caméra Bullet Panoramique 180° Full Color 8 MP Double Objectif</g:title>
+      <g:description>Bullet panoramique IP Dahua 8 MP (2×4 MP), image 180° Full Color F1.0, lumière chaude 40 m, WizMind IA (Perimeter Protection, People Counting, EPTZ), IP67. PoE+/ePoE.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-bullet-ipc-pfw5849-a180-e2-aste</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a22900033c32b38f9c76e0c_IPC-PFW5849P-A180-E2-ASTE-0360B.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>405.40 EUR</g:price>
+      <g:brand>DAHUA</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DH-IPC-PFW5849-A180-E2-ASTE</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a2188e33dbecd5cfa93a16b</g:id>
+      <g:title>Caméra Bullet 4 MP WizSense Varifocale Motorisée IR 60 m</g:title>
+      <g:description>Bullet IP Dahua 4 MP WizSense, varifocale motorisée 2,7–13,5 mm, IR 60 m, SMD Plus + Perimeter Protection (humain/véhicule), micro, WDR 120 dB, IP67. PoE.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-bullet-ipc-hfw2441t-zs</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a2188c7696f3df0d88db36b_IPC-HFW2441TP-ZS-27135.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>137.78 EUR</g:price>
+      <g:brand>DAHUA</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DH-IPC-HFW2441T-ZS</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a21881d696f3df0d88d3774</g:id>
+      <g:title>Caméra Bullet Wi-Fi 2 MP Smart Dual Light Dissuasion Active</g:title>
+      <g:description>Bullet Wi-Fi Dahua 2 MP Full HD, Smart Dual Light 30 m, dissuasion active (sirène + lumière), détection humaine, audio bidirectionnel, IP67. Alimentation 12 V DC.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-bullet-f2c-pv</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a218649cc604ee5d162d7c0_IPC-F2CP-PV-0280B.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>56.40 EUR</g:price>
+      <g:brand>DAHUA</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DH-F2C-PV</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a218559eb19a0d0360d7b15</g:id>
+      <g:title>Caméra Bullet 4 MP DarkFighter 2.0 Varifocale Motorisée Dissuasion Active</g:title>
+      <g:description>Bullet IP Hikvision 4 MP DarkFighter 2.0 F1.2, couleur 24h/24, varifocale motorisée 2,7–13,5 mm, Smart Hybrid Light 60 m, IA, dissuasion active, IP67/IK10.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-bullet-ds-2cd3646g3-lizsu-sl</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a2184ddd35b8f96a111dce7_DS-2CD3646G3-LIZSUYSL(2.7-13.5mm)eF.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>367.02 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DS-2CD3646G3-LIZSU/SL</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a217533f42bb2ef9ac71461</g:id>
+      <g:title>Caméra Mini Bullet 2 MP Fixe Smart Hybrid Light</g:title>
+      <g:description>Mini-bullet IP Hikvision 2 MP Full HD, objectif fixe 2,8/4 mm, Smart Hybrid Light 30 m, détection humains/véhicules, micro, IP67. PoE 802.3af.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-bullet-ds-2cd1023g2-liuf</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a217520ddc06e7f1d240257_DS-2CD1023G2-LIU(F).png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.14 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DS-2CD1023G2-LIUF</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a217462d57b54c57f6aa298</g:id>
+      <g:title>Caméra Bullet 4 MP Smart Hybrid Light Varifocale Motorisée</g:title>
+      <g:description>Bullet IP Hikvision 4 MP Smart Hybrid Light, varifocale 2,8–12 mm, IR + lumière blanche 50 m, détection humains/véhicules, micro, IP67. PoE 802.3af.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-bullet-ds-2cd1643g2-lizsu</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a21744afaa61c3505383948_DS-2CD1643G2-LIZ(S)U.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>138.14 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DS-2CD1643G2-LIZSU</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a21731c3257ea4ae7d894ab</g:id>
+      <g:title>Caméra Bullet 4 MP Varifocale Motorisée IR 50 m</g:title>
+      <g:description>Bullet IP Dahua 4 MP, varifocale motorisée 2,8–12 mm, IR 50 m, WDR 120 dB, IP67 métal. PoE 802.3af. Surveillance extérieure résidentielle et petit commerce.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-bullet-ipc-hfw1431tp-zs-s4</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a2172fa2783b573114c3fd1_IPC-HFW1431T-ZS-S4.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>109.38 EUR</g:price>
+      <g:brand>DAHUA</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DH-IPC-HFW1431TP-ZS-S4</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a216c1996e141a1498da4a7</g:id>
+      <g:title>Caméra Bullet 4 MP Smart Dual Light Varifocale Motorisée</g:title>
+      <g:description>Bullet 4 MP WizSense à zoom optique motorisé 2.7-13.5 mm, Smart Dual Light IR + lumière chaude 60 m et détection IA humain/véhicule.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-bullet-ipc-hfw3449t-zs-il</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a216bc876b7f4c289e4e167_IPC-HFW3449TP-ZS-IL-27135.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>200.10 EUR</g:price>
+      <g:brand>DAHUA</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DH-IPC-HFW3449T-ZS-IL</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a216b299705a226aa1354ca</g:id>
+      <g:title>Caméra Bullet 6 MP Smart Dual Light Varifocale Motorisée</g:title>
+      <g:description>Bullet 6 MP WizSense à zoom optique motorisé 2.7-13.5 mm, Smart Dual Light IR + lumière chaude 60 m et détection IA humain/véhicule.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-bullet-ipc-hfw3649t-zs-il</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a216b19dcc2f9c6789ca5cf_IPC-HFW3649TP-ZS-IL-27135.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>224.98 EUR</g:price>
+      <g:brand>DAHUA</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DH-IPC-HFW3649T-ZS-IL</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>6a2166cc230f83ca58ae8f3c</g:id>
+      <g:title>Caméra Bullet 8 MP Smart Dual Light Dissuasion Active</g:title>
+      <g:description>Bullet 8 MP WizSense TiOC à focale fixe, dissuasion active (sirène + flash rouge/bleu), Smart Dual Light et vision couleur F1.0.</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-bullet-ipc-hfw3849t1-as-pv-pro</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a21696c23444e83576361d2_IPC-HFW3849T1P-AS-PV-0280B-PRO.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>259.20 EUR</g:price>
+      <g:brand>DAHUA</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>DH-IPC-HFW3849T1-AS-PV-PRO</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
     <item>
       <g:id>6a107a7d87252938a746ec85</g:id>
       <g:title>Kit Vidéosurveillance 8 Caméras Bullet 6MP Active Deterrence Smart Dual Light</g:title>
@@ -18,7 +373,7 @@
       <g:brand>DAHUA</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>IPC-HFW3649T1-AS-PV-PRO × 8 + DHI-NVR5208-8P-EI2 + DHI-LM22-H200</g:mpn>
+      <g:mpn>KIT-8CAM-DH-IPC-HFW3649T1-AS-PV-PRO</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -35,7 +390,7 @@
       <g:brand>DAHUA</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>IPC-HFW3649T1-AS-PV-PRO × 6 + DHI-NVR5208-8P-EI2 + DHI-LM22-H200</g:mpn>
+      <g:mpn>KIT-6CAM-DH-IPC-HFW3649T1-AS-PV-PRO</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -52,7 +407,7 @@
       <g:brand>DAHUA</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>IPC-HFW3649T1-AS-PV-PRO × 4 + DHI-NVR5208-8P-EI2 + DHI-LM22-H200</g:mpn>
+      <g:mpn>KIT-4CAM-DH-IPC-HFW3649T1-AS-PV-PRO</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -69,7 +424,7 @@
       <g:brand>DAHUA</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>Kit 8 × IPC-HDBW3649E-S-IL + NVR5208-8P-EI2 + DHI-LM22-H200</g:mpn>
+      <g:mpn>KIT-8CAM-DH-IPC-HDBW3649E-S-IL</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -86,7 +441,7 @@
       <g:brand>DAHUA</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>Kit 6 × IPC-HDBW3649E-S-IL + NVR4108HS-8P-EI + DHI-LM22-H200</g:mpn>
+      <g:mpn>KIT-6CAM-DH-IPC-HDBW3649E-S-IL</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -103,7 +458,7 @@
       <g:brand>DAHUA</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>Kit 4 × IPC-HDBW3649E-S-IL + NVR4104HS-P-EI + DHI-LM22-H200</g:mpn>
+      <g:mpn>KIT-4CAM-DH-IPC-HDBW3649E-S-IL</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -120,7 +475,7 @@
       <g:brand>DAHUA</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>KIT-8CAM-IPC-HDW2449T-S-IL-NVR5208-8P-EI2</g:mpn>
+      <g:mpn>KIT-8CAM-IPC-HDW2449T-S-IL</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -137,7 +492,7 @@
       <g:brand>DAHUA</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>KIT-6CAM-IPC-HDW2449T-S-IL-NVR4108HS-8P-EI</g:mpn>
+      <g:mpn>KIT-6CAM-IPC-HDW2449T-S-IL</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -154,7 +509,7 @@
       <g:brand>DAHUA</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>KIT-4CAM-IPC-HDW2449T-S-IL-NVR4104HS-P-EI</g:mpn>
+      <g:mpn>KIT-4CAM-IPC-HDW2449T-S-IL</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -171,7 +526,7 @@
       <g:brand>HIKVISION</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>KIT-8CAM-DS-2CD1143G2-LIU-DS-7616NXI-K2-16P</g:mpn>
+      <g:mpn>KIT-8CAM-DS-2CD1143G2-LIU</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -188,7 +543,7 @@
       <g:brand>HIKVISION</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>KIT-6CAM-DS-2CD1143G2-LIU-DS-7608NXI-K1-8P</g:mpn>
+      <g:mpn>KIT-6CAM-DS-2CD1143G2-LIU</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -205,7 +560,7 @@
       <g:brand>HIKVISION</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>KIT-4CAM-DS-2CD1143G2-LIU-DS-7604NXI-K1-4P</g:mpn>
+      <g:mpn>KIT-4CAM-DS-2CD1143G2-LIU</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -670,6 +1025,158 @@
     </item>
 
     <item>
+      <g:id>69f8ca358b82a8982e5f8a7b</g:id>
+      <g:title>Switch PoE L3 Enterprise 24 ports</g:title>
+      <g:description>Switch PoE L3 Enterprise Hikvision 24 ports — 802.3af/at 30 W max — Budget 370 W — Routage OSPF/RIP — QinQ — SNMP v3 — 802.1X — 336 Gbps — Rack 1U.</g:description>
+      <g:link>https://www.camprotect.fr/product/switch-poe-ds-3e2528p-b</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f8d2a82ea9f9bbb651e9e2_DS-3E2528P.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>926.39 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>222</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>301802313</g:mpn>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>69f8ad359609231394afc394</g:id>
+      <g:title>Switch Hi-PoE</g:title>
+      <g:description>Switch Hi-PoE Gigabit Non-Managé 28 ports · 4 Hi-PoE 90 W (802.3bt) · 20 PoE 30 W · Budget 370 W · 2 SFP · Long Range 300 m</g:description>
+      <g:link>https://www.camprotect.fr/product/switch-hi-poe-ds-3e0528hp-e</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f8caf714cc9735e402c26c_DS-3E0528HP-E.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>365.99 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>222</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>301801519</g:mpn>
+      <g:color>Noir</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>69f8a439b2e2933db6ff10c5</g:id>
+      <g:title>Switch Hi-PoE Non-Managé Rack 16 ports</g:title>
+      <g:description>Switch Hi-PoE Gigabit Non-Managé Rack 19&quot; 16 ports Hikvision — 4 ports 802.3bt 90 W + 12 PoE+ 30 W, budget 225 W, 2 SFP fibre.</g:description>
+      <g:link>https://www.camprotect.fr/product/switch-hi-poe-ds-3e0520hp-e</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f8af42a30ae845e1cc2642_DS-3E0520HP-E.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>273.71 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>222</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>301801516</g:mpn>
+      <g:color>Noir</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>69f8a38abb447b0edf7c496d</g:id>
+      <g:title>Switch PoE Smart Managé 16 ports Gigabit Rack</g:title>
+      <g:description>Switch PoE Gigabit Smart Managé 16 ports Hikvision Rack 19&quot; — 230 W, Long Range 16 ports, VLAN, QoS, DHCP Snooping, 1 SFP fibre.</g:description>
+      <g:link>https://www.camprotect.fr/product/switch-poe-ds-3e1518p-ei</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f8af172abb50a59ad80bc3_DS-3E1518P-EI.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>194.39 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>222</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>301802747</g:mpn>
+      <g:color>Noir</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>69f87aa81486f31557e5d92a</g:id>
+      <g:title>Switch PoE Smart Managé</g:title>
+      <g:description>Switch PoE Gigabit Smart Managé 5 ports Hikvision — 60 W PoE, Long Range 300 m, VLAN, PoE Watchdog, protection 6 kV.</g:description>
+      <g:link>https://www.camprotect.fr/product/switch-poe-ds-3e1505p-ei</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f8a057b2e2933db6fe3496_DS-3E1505P-EI.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>47.78 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>222</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>301802987</g:mpn>
+      <g:color>Noir</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>69f860804c62383cc0ece6a9</g:id>
+      <g:title>Switch PoE Smart Managé 24 ports</g:title>
+      <g:description>Switch PoE Smart Managé 24 ports Hikvision DS-3E1326P-EI (B) — budget 370W, rack 19&quot;, 2 SFP Gigabit, 4094 VLAN, QoS, PoE Watchdog, Hik-Partner Pro.</g:description>
+      <g:link>https://www.camprotect.fr/product/switch-poe-ds-3e1326p-ei-b</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f8795acac8065fe7d28538_DS-3E1326P-EI%20(B).png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>200.17 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>222</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>301803157</g:mpn>
+      <g:color>Noir</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>69f85fc5f4af721155262d79</g:id>
+      <g:title>Switch PoE Smart Managé</g:title>
+      <g:description>Switch PoE Smart Managé 8 ports Hikvision DS-3E1309P-EI (B) — uplink Gigabit, 110W, 4094 VLAN, PoE Watchdog, Long Range 300 m, Hik-Partner Pro.</g:description>
+      <g:link>https://www.camprotect.fr/product/switch-poe-ds-3e1309p-ei-b</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f87916b0b60d11c8bace22_DS-3E1309P-EI.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>69.46 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>222</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>301803154</g:mpn>
+      <g:color>Noir</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>69f85e5f527bcfa7cf231601</g:id>
+      <g:title>Switch PoE Hi-PoE Smart Managé</g:title>
+      <g:description>Switch PoE Smart Managé Hi-PoE Hikvision DS-3E1106HP-EI — 1 port 60W 802.3bt + 3 ports 30W, Long Range 300 m, PoE Watchdog, Hik-Partner Pro.</g:description>
+      <g:link>https://www.camprotect.fr/product/switch-hi-poe-ds-3e1106hp-ei</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f878d564894c9b5fbdc058_DS-3E1106HP-EI.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>50.59 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>222</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>301802041</g:mpn>
+      <g:color>Noir</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>69f850913fc5f681b099bbb7</g:id>
+      <g:title>Switch PoE Smart Managé</g:title>
+      <g:description>Switch PoE Smart Managé 4 ports Hikvision DS-3E1105P-EI V2 — VLAN, PoE Watchdog, Long Range 300 m, supervision Hik-Partner Pro.</g:description>
+      <g:link>https://www.camprotect.fr/product/switch-poe-ds-3e1105p-ei-v2</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f85b5e3ee27a12db376272_DS-3E1105P-EI%20V2.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>41.76 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>222</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>301802979</g:mpn>
+      <g:color>Noir</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
       <g:id>69f5d5ad2c4ed1c6a032be2e</g:id>
       <g:title>Enregistreur NVR 32 canaux PoE</g:title>
       <g:description>NVR Hikvision Série I AcuSense 32 canaux — 16 ports PoE intégrés, IA étendue (faciale 16 libs, ANPR 100+ pays), 4 baies HDD hot-plug 64 To.</g:description>
@@ -848,22 +1355,6 @@
     </item>
 
     <item>
-      <g:id>69f31d6cefe24c05c67f818e</g:id>
-      <g:title>Enregistreur NVR 32 canaux PoE</g:title>
-      <g:description>NVR 32 canaux Dahua WizSense avec 16 ports PoE (130 W), 2 baies HDD, reconnaissance faciale, SMD Plus et Quick Pick. HDMI 4K.</g:description>
-      <g:link>https://www.camprotect.fr/product/enregistreur-nvr-32-canaux-dhi-nvr4232-16p-ei</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f31fa5c000f45018854a93_DHI-NVR4232-16P-EI.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>322.79 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>DHI-NVR4232-16P-EI</g:mpn>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>69f31b1bdd469ff182a7b390</g:id>
       <g:title>Enregistreur NVR 16 canaux PoE</g:title>
       <g:description>NVR 16 canaux Dahua WizSense avec 8 ports PoE (78 W), détection faciale, SMD Plus, Quick Pick et sortie HDMI 4K. Format ultra-compact 270 mm.</g:description>
@@ -976,74 +1467,6 @@
     </item>
 
     <item>
-      <g:id>69f0b489f02a0a96f98c7178</g:id>
-      <g:title>Caméra Bullet 4 MP Wi-Fi</g:title>
-      <g:description>Caméra bullet 4 MP Dahua Wi-Fi Entry avec objectif fixe 2.8/3.6 mm, IR 30 m, micro intégré et microSD 256 Go pour les petites installations extérieures sans câblage.</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-bullet-ipc-hfw1430ds-saw</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f0bbf553f7dbb3e2ed2df0_IPC-HFW1430DS-SAW.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>70.79 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>IPC-HFW1430DS-SAW</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69f08f4a9e08b97f465aaf43</g:id>
-      <g:title>Caméra Bullet panoramique Full-Color WizMind 5</g:title>
-      <g:description>Caméra panoramique 180° Full-Color Dahua WizMind 5, 2×4MP, lumière chaude 40 m, EPTZ, People Counting, SMD 3.0, PoE+ 802.3at.</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-bullet-ipc-pfw5849-a180-e2-aste</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f0aeebb9dac75592b097b8_IPC-PFW5849-A180-E2-ASTE.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>393.62 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>IPC-PFW5849-A180-E2-ASTE</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69f08e4e8c973d373fdad8e7</g:id>
-      <g:title>Caméra Bullet 4 MP WizSense 2</g:title>
-      <g:description>Caméra bullet 4 MP Dahua WizSense 2 avec varifocal motorisé 2.7–13.5 mm, IR 60 m, SMD Plus et PoE 802.3af pour la surveillance extérieure.</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-bullet-ipc-hfw2441t-zs</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f0af47f1b03299f54771f6_IPC-HFW2441T-ZS.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>148.79 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>IPC-HFW2441T-ZS</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69f08df45329bfcd7df65ff7</g:id>
-      <g:title>Caméra Bullet 8 MP WizSense 2</g:title>
-      <g:description>Caméra bullet 8 MP Dahua WizSense 2 avec varifocal motorisé 2.7–13.5 mm, IR 60 m, SMD Plus et PoE 802.3af pour la surveillance extérieure.</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-bullet-ipc-hfw2841t-zs</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f0afdbdb4528e6e00b1da6_IPC-HFW2841T-ZS.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>230.39 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>IPC-HFW2841T-ZS</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>69ef78543441e25452cdbf54</g:id>
       <g:title>Caméra Bullet 8MP IR Varifocal WizMind S</g:title>
       <g:description>Caméra bullet Dahua 8MP 4K WizMind S varifocal 2.7–12mm — AcuPick, Face Detection, People Counting, AI-ISP Deeplight, IR 60m, ePoE, IK10/IP67.</g:description>
@@ -1129,23 +1552,6 @@
     </item>
 
     <item>
-      <g:id>69ef4204f538c9d3c2b347f9</g:id>
-      <g:title>Caméra Bullet 4 MP DarkFighter 2.0 Varifocale Motorisée Strobe Light</g:title>
-      <g:description>Caméra bullet 4 MP DarkFighter 2.0, varifocale motorisée 2,7–13,5 mm F1.2, Strobe Light, double micro, haut-parleur 2 W, HEOP 2.0, IP67/IK10</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-bullet-ds-2cd3646g3-lizsu-sl</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69ef57f2e18e0729bb2cb278_DS-2CD3646G3-LIZSU(Y)_SL.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>365.41 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>311329687</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>69ef40e7622c586cd70cbe94</g:id>
       <g:title>Caméra Bullet 4 MP Smart Hybrid Light Focale Fixe</g:title>
       <g:description>Caméra bullet 4 MP Smart Hybrid Light focale fixe 2,8 ou 4 mm, micro intégré, portée 30 m, IP67, PoE af</g:description>
@@ -1209,23 +1615,6 @@
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>311323485</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69ef2b714c8bd774306ce7b6</g:id>
-      <g:title>Caméra Thermique Bi-Spectre ColorVu</g:title>
-      <g:description>Caméra bullet bi-spectre Hikvision — thermique 96×72 (NETD&amp;lt;55mK) + optique ColorVu 4MP — VCA humain/véhicule, alarme audio+visuelle, IP67/IK10, PoE 802.3af.</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-bullet-thermique-ds-2td2608-2-qa</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69ef32a8b62008237338a506_DS-2TD2608-2_QA.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>325.81 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>305402127</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -1311,23 +1700,6 @@
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>327001129</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69eb382f3849aa6d31697c70</g:id>
-      <g:title>Caméra Dôme Anti-Corrosion 316L</g:title>
-      <g:description>Caméra dôme IP 316L anti-corrosion Hikvision DS-2XC6745G0-IZHS – 4 MP DarkFighter F1.3, NEMA 4X Top-Level, IP68/IK10, heater -40°C, IR 50 m, varifocal 2,8-12 mm, PoE 802.3af</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-dome-anti-corrosion-ds-2xc6745g0-izhs</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69eb4951b739e9dc1f1064c7_DS-2XC6745G0-IZHS.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>927.59 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>311323354</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -1464,6 +1836,23 @@
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>311319868</g:mpn>
+      <g:color>Blanc</g:color>
+      <g:adult>false</g:adult>
+    </item>
+
+    <item>
+      <g:id>69e5e9512cd8251e8f5bdcbc</g:id>
+      <g:title>Caméra Dome</g:title>
+      <g:description>Caméra dôme IP 8 MP Hikvision DS-2CD2187G2H-LISU — Smart Hybrid Light ColorVu, AcuSense 2.0, vision nocturne couleur 30 m, WDR 130 dB, micro intégré, IP67/IK10, PoE</g:description>
+      <g:link>https://www.camprotect.fr/product/camera-dome-ds-2cd2187g2h-lisu</g:link>
+      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69e5f1acaf49fbf2471b3bae_DS-2CD2187G2H-LI(SU).png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>248.62 EUR</g:price>
+      <g:brand>HIKVISION</g:brand>
+      <g:google_product_category>2935</g:google_product_category>
+      <g:identifier_exists>false</g:identifier_exists>
+      <g:mpn>311323917</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -2800,23 +3189,6 @@
     </item>
 
     <item>
-      <g:id>68beac2a579e431922082444</g:id>
-      <g:title>Caméra dome</g:title>
-      <g:description>Caméra dôme IP 5 MP Dahua IPC-HDBW3541F-AS-S2 – Micro intégré, IA périmétrique, vision IR 30 m, IK10/IP67</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-dome-ipc-hdbw3541fp-as-s2</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/68beaae0b9fa0c3913a4a081_Design%20sans%20titre%20(22).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>122.34 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>IPC-HDBW3541F-AS-S2</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>68bdb7a40b62ce4023278ca6</g:id>
       <g:title>Support d&apos;angle</g:title>
       <g:description>Support poteau Dahua PFA156 – Aluminium, pour caméras jusqu’à 5 kg, compatible avec fixations murales</g:description>
@@ -2897,40 +3269,6 @@
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>PFA136</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>68bca04a558e9c33b7b7f959</g:id>
-      <g:title>Caméra dome</g:title>
-      <g:description>Caméra Dôme IP 4 MP Dahua IPC-HDW2449TM-S-IL – Smart Dual Light, vision couleur nuit et IA avancée</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-dome-ipc-hdw2449tm-s-il</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/68bc9f413132febc0eea988f_1_0_01_04_39934_526954787_crop.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>79.82 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>IPC-HDW2449TM-S-IL</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>68bc9d568a46b1980e8d50ad</g:id>
-      <g:title>Caméra dome</g:title>
-      <g:description>Caméra Dôme IP 8 MP Dahua IPC-HDBW5842E-ZE-S3 – WizMind, IA avancée, Starlight+, vision IR 40 m et audio bidirectionnel</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-dome-hdbw5842ep-ze-2712-dc12ac24v-s3</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/68bc9c2447ddddd3657fdc3c_1_0_01_04_40658_313550526_crop.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>345.60 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>IPC-HDBW5842E-ZE-S3</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -5088,74 +5426,6 @@
     </item>
 
     <item>
-      <g:id>67ae156a4a6fe54d88f027f6</g:id>
-      <g:title>Caméra Mini Dôme</g:title>
-      <g:description>Caméra Mini Dôme IP 4 MP Hikvision DS-2CD2546G2-I(S) - AcuSense &amp; Audio</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-mini-dome-ds-2cd2546g2-i-s</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/67ae12dc09ff672eb18a6382_311316904_alt2.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>172.38 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>311316904</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>67adf4db6eb41323fc994196</g:id>
-      <g:title>Caméra Dôme</g:title>
-      <g:description>Caméra Dôme IP 4 MP Hikvision DS-2CD2143G2-IS - Audio et IA</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-dome-ds-2cd2143g2-is</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6874dd632f8c8e53bb121cfc_Design%20sans%20titre%20(20).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>142.33 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>311313649</g:mpn>
-      <g:color>Noir</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>67adeea63305692602329753</g:id>
-      <g:title>Caméra Dôme</g:title>
-      <g:description>Caméra Dôme IP 4 MP Hikvision DS-2CD1743G2-IZS - Varifocale</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-dome-ds-2cd1743g2-iz</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/67adec41ab5a17655493dc6a_Design%20sans%20titre%20(50).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>136.32 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>311320819</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>67adeb35f47be5c7a9a78482</g:id>
-      <g:title>Caméra Bullet</g:title>
-      <g:description>Caméra Bullet IP 4 MP Hikvision DS-2CD1643G2-IZ - Varifocale</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-bullet-ds-2cd1643g2-iz</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/67ade8cb297b1e39e984d87e_Design%20sans%20titre%20(45).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>122.11 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>311320881</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>67ade05674ba1f0de2e741c3</g:id>
       <g:title>Enregistreur DVR 16 canaux</g:title>
       <g:description>Enregistreur DVR 16 canaux Hikvision iDS-7216HQHI-M2/XT</g:description>
@@ -5302,23 +5572,6 @@
     </item>
 
     <item>
-      <g:id>679f47c9da3dcdeafa4e834b</g:id>
-      <g:title>Caméra Bullet</g:title>
-      <g:description>Caméra Bullet 5 MP Hikvision DS-2CE17H0T-IT3F(2.8mm)(C)</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-bullet-ds-2ce17h0t-it3f</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/679f474d0910ed0099e2da3f_Design%20sans%20titre%20(5).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>37.02 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>300512811</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>679f4656c86e2a1d5d6f5a5b</g:id>
       <g:title>Caméra Bullet</g:title>
       <g:description>Caméra Bullet 5 MP Hikvision DS-2CE16H0T-ITF(2.8mm)(C)</g:description>
@@ -5331,57 +5584,6 @@
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>300512117</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>679e38f9d9017291e45f47f2</g:id>
-      <g:title>Caméra Dôme</g:title>
-      <g:description>Caméra Dôme 5 MP Hikvision DS-2CE76H0T-ITMFS(2.8mm)</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-dome-ds-2ce76h0t-itmfs-2-8mm</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/679e380b2e8b2b320f0bd960_Design%20sans%20titre%20(3).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>44.06 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>300613330</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>679e3766c411fb8715ceb181</g:id>
-      <g:title>Caméra Bullet</g:title>
-      <g:description>Caméra Bullet 5 MP Hikvision DS-2CE16H0T-ITFS(2.8mm)</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-bullet-ds-2ce16h0t-itfs-2-8mm</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/679e35265fc8abf97bd4c1c3_Design%20sans%20titre%20(2).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>34.46 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>300511760</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>679e348ffcbc88431c02fbb7</g:id>
-      <g:title>Caméra Dôme</g:title>
-      <g:description>Caméra Dôme 2 MP Hikvision DS-2CE76D0T-LMFS(2.8mm)</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-dome-ds-2ce76d0t-lmfs-2-8mm</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/679e2e285fc8abf97bcf31c6_H1.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>36.88 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>300615440</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -5404,57 +5606,6 @@
     </item>
 
     <item>
-      <g:id>679b9cf387fa940533cf8a2f</g:id>
-      <g:title>Caméra Dôme</g:title>
-      <g:description>Caméra Dôme 2 MP Hikvision DS-2CE56D0T-IT3F</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-dome-ds-2ce56d0t-it3f-2-8mm-c</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/679b9aca692182130c43239c_Design%20sans%20titre%20(37).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>30.48 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>300613493</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>679b6e84f0b9ac6107d2a76d</g:id>
-      <g:title>Caméra Bullet</g:title>
-      <g:description>Caméra Bullet 2 MP Hikvision DS-2CE17D0T-IT5F</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-bullet-ds-2ce17d0tit5f-c</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/679b6c96258a1da9a0195cd5_Design%20sans%20titre%20(36).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>45.78 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>300512839</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>679b65c06c2f29170f8d3c1a</g:id>
-      <g:title>Caméra Bullet</g:title>
-      <g:description>Caméra Bullet Extérieur 2MP IR, Objectif 2.8mm</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-bullet-ds-2ce17d0t-it3f</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/679b5fd872546a7fa837812b_Design%20sans%20titre%20(35).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>34.22 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>300512834</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>679b5b2e68b94fa276e869bc</g:id>
       <g:title>Caméra Bullet</g:title>
       <g:description>Caméra Bullet 2 MP Hikvision DS-2CE16D0T-ITF</g:description>
@@ -5467,74 +5618,6 @@
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>300511933</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>673c9d534140c7b97648068d</g:id>
-      <g:title>Starter Pack AJAX </g:title>
-      <g:description>Starter Pack AJAX  — camprotect.fr</g:description>
-      <g:link>https://www.camprotect.fr/product/starter-pack-ajax</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/673c9b204987221c14121538_STARTER.svg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>414.42 EUR</g:price>
-      <g:brand>Ajax Systems</g:brand>
-      <g:google_product_category>1301</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>38238.40.BL1</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>673c77a3dc2a6ae5541f6016</g:id>
-      <g:title>Pack Dahua 8 Caméras</g:title>
-      <g:description>Pack de vidéosurveillance Dahua 8 caméras</g:description>
-      <g:link>https://www.camprotect.fr/product/pack-dahua-8-cameras</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/673c7663e69e785f3340ee09_Design%20sans%20titre%20(9).svg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>14.66 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>DAH8CAM</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>673c6a9551968f2fe8489b10</g:id>
-      <g:title>Pack Dahua 6 Caméras</g:title>
-      <g:description>Pack de vidéosurveillance Dahua 6 caméras</g:description>
-      <g:link>https://www.camprotect.fr/product/pack-dahua-6-cameras</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/673c6860fe7ce7ab17cf5f93_Design%20sans%20titre%20(8).svg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>1176.70 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>DAH6CAM</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>673b9a4efb2f47e96ab43617</g:id>
-      <g:title>Pack Dahua 4 Caméras</g:title>
-      <g:description>Pack de vidéosurveillance Dahua 4 caméras</g:description>
-      <g:link>https://www.camprotect.fr/product/pack-dahua-4-camera</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/673b995128278178c73c6828_zerz%20(9).svg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>870.26 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>DAH4CAM</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
