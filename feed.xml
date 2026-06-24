@@ -4,7 +4,7 @@
     <title>Camprotect — Vidéosurveillance et alarmes</title>
     <link>https://www.camprotect.fr</link>
     <description>Spécialiste Ajax Systems, Hikvision et Dahua en France</description>
-    <lastBuildDate>Mon, 15 Jun 2026 16:26:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 13:12:38 GMT</lastBuildDate>
     
     <item>
       <g:id>6a22be7f9faaa1627b1a8699</g:id>
@@ -267,7 +267,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a217520ddc06e7f1d240257_DS-2CD1023G2-LIU(F).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>60.14 EUR</g:price>
+      <g:price>65.76 EUR</g:price>
       <g:brand>HIKVISION</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -1298,7 +1298,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f3606fa12a9597dfee74ca_DS-7604NXI-K14P(D).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>150.00 EUR</g:price>
+      <g:price>180.00 EUR</g:price>
       <g:brand>HIKVISION</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -1559,7 +1559,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69ef57cdcccf54663731baa9_DS-2CD1043G2-LIU(F).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>91.86 EUR</g:price>
+      <g:price>104.16 EUR</g:price>
       <g:brand>HIKVISION</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -1899,28 +1899,11 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69e1f7b9c70649cc64fb63b3_Panneau%20Solaire%20F%204W.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>26.56 EUR</g:price>
+      <g:price>33.88 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>CS-CMT-Panneau solaire-F</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69e1e8a5abbe45626b04f216</g:id>
-      <g:title>Panneau Solaire E 6W</g:title>
-      <g:description>Panneau solaire EZVIZ Modèle E 6,18W Type-C — compatible toutes caméras batterie EZVIZ Type-C, câble 4m, support 360°, IP65, EZVIZ Green.</g:description>
-      <g:link>https://www.camprotect.fr/product/panneau-solaire-e-6w</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69e1e902abb3786192392323_Panneau%20Solaire%20E%206W.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>26.56 EUR</g:price>
-      <g:brand>Ajax Systems</g:brand>
-      <g:google_product_category>222</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>307700491/307700378</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -1984,7 +1967,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69e0f35ec3c67e370317d3cd_EB3%204G%20HD.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>124.00 EUR</g:price>
+      <g:price>175.04 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -2001,7 +1984,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69e0b57d7c1542b53d0a1735_BC1C%204K%20KIT.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>150.58 EUR</g:price>
+      <g:price>156.72 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -2035,7 +2018,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69df999427fd89a1aaa627cd_Cam%C3%A9ra%20HB8%202K%2B.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>132.85 EUR</g:price>
+      <g:price>141.16 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -2052,7 +2035,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69df94208246ebe7fbf791d9_KIT%20HB8%20%2B%20PANNEAU%20SOLAIRE%20F.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>150.58 EUR</g:price>
+      <g:price>183.50 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -2069,28 +2052,11 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69df8edb8246ebe7fbf61749_HB8%204K.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>167.41 EUR</g:price>
+      <g:price>211.74 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>303103546</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69df8a308fac46adb1ce471c</g:id>
-      <g:title>Kit HB8 Pro 4K</g:title>
-      <g:description>Kit caméra EZVIZ HB8 Pro 4K + Panneau solaire 5W inclus — 4K 8MP, PTZ 360°, batterie 10 400 mAh, WiFi 6, suivi automatique, autonomie permanente</g:description>
-      <g:link>https://www.camprotect.fr/product/kit-hb8-pro-4k</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69df8927a35f452a3b8c370e_HB8%204K%20KIT.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>194.87 EUR</g:price>
-      <g:brand>Ajax Systems</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>CS-HB8-R200-1M8WFL + CS-PSP5-R100-3M</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -2103,7 +2069,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69df4d909666222f1ea5b79d__Cam%C3%A9ra%20sur%20batterie%204G%20%2B%20WIFI%20-%20%20HB90X%204G%20Kit%20.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>221.44 EUR</g:price>
+      <g:price>239.98 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -2120,28 +2086,11 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69df64d9f4d7107f44b73eb9_EB8%204K%204G%20Kit.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>203.72 EUR</g:price>
+      <g:price>324.68 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>303103708</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69df5b1ad91dba61ede6c640</g:id>
-      <g:title>Caméra EB8 Pro 4G</g:title>
-      <g:description>Caméra EZVIZ EB8 Pro 4G — 4K 8MP, PTZ 360°, batterie 10 400 mAh, panneau solaire 8W optionnel, WiFi 6 &amp; 4G, détection IA humain/véhicule/animaux</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-eb8-pro-4g</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69df5d499374ec50d7ea38ed_EB8%204K%204G%20%20vue%20de%20face.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>186.00 EUR</g:price>
-      <g:brand>Ajax Systems</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>303103558</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -2154,7 +2103,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69df4d909666222f1ea5b79d__Cam%C3%A9ra%20sur%20batterie%204G%20%2B%20WIFI%20-%20%20HB90X%204G%20Kit%20.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>230.29 EUR</g:price>
+      <g:price>367.04 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -2409,7 +2358,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69ccd8c7cbddd77eae49377c_NVR%20Ajax%20blanc.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>164.40 EUR</g:price>
+      <g:price>191.36 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -2426,7 +2375,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69ccd4ed737bd56e31d2c861_NVR%20Ajax%20noir.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>164.40 EUR</g:price>
+      <g:price>191.36 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -2851,7 +2800,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/699836f2e4d3ecdb7e2e5b06_685a60a844c3c948997bed2f_78.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>32.48 EUR</g:price>
+      <g:price>28.79 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -2868,7 +2817,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6915b85a7c620b8d2f4a9010_Design%20sans%20titre%20(3).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>212.02 EUR</g:price>
+      <g:price>251.98 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -2885,7 +2834,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6915ab8eb8d3eea65820dc41_Design%20sans%20titre%20(2).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>180.91 EUR</g:price>
+      <g:price>215.21 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -2902,7 +2851,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/691596da264a3c99f68e1d2a_Design%20sans%20titre%20(3).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>91.61 EUR</g:price>
+      <g:price>96.68 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -2919,7 +2868,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/691592e190949d53862f8cde_Design%20sans%20titre%20(2).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>91.61 EUR</g:price>
+      <g:price>96.68 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -2936,7 +2885,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/691596da264a3c99f68e1d2a_Design%20sans%20titre%20(3).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>83.38 EUR</g:price>
+      <g:price>88.01 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -2953,7 +2902,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/691592e190949d53862f8cde_Design%20sans%20titre%20(2).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>83.38 EUR</g:price>
+      <g:price>88.01 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -2970,7 +2919,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69150a76f04f9285a15af5e6_171.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>54.59 EUR</g:price>
+      <g:price>57.62 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -2987,7 +2936,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6914fe63021472b954797597_DHI-NVR5216-EI%20(1).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>54.59 EUR</g:price>
+      <g:price>57.62 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -3004,7 +2953,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/68de79358a2e78c9b3771fc7_skyhawk-1tb-hero-left-600x600.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>416.04 EUR</g:price>
+      <g:price>484.00 EUR</g:price>
       <g:brand>HIKVISION</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -3315,7 +3264,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/68b96b467a04bff126330e77_1_0_01_04_39156_330798809_crop_thumb.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>135.82 EUR</g:price>
+      <g:price>145.84 EUR</g:price>
       <g:brand>DAHUA</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4066,7 +4015,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69287b98245cb4e9b1e6d71d_Design%20sans%20titre%20(41).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>18.31 EUR</g:price>
+      <g:price>19.33 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4082,7 +4031,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69287b98245cb4e9b1e6d71d_Design%20sans%20titre%20(41).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>18.31 EUR</g:price>
+      <g:price>19.33 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4251,7 +4200,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692877435004122e5a4824b3_Design%20sans%20titre%20(35).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>37.06 EUR</g:price>
+      <g:price>39.06 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4267,7 +4216,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69287630c5ab11a0aff8df4f_Design%20sans%20titre%20(34).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>32.90 EUR</g:price>
+      <g:price>34.76 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4283,7 +4232,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69287630c5ab11a0aff8df4f_Design%20sans%20titre%20(34).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>32.90 EUR</g:price>
+      <g:price>34.76 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4299,7 +4248,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692809052fc9f046bdc9a637_Design%20sans%20titre%20(19).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>46.74 EUR</g:price>
+      <g:price>49.33 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4316,7 +4265,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69280860bdc3ba581946db58_Design%20sans%20titre%20(18).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>46.74 EUR</g:price>
+      <g:price>49.33 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4333,7 +4282,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69272b2a65841a0d9a9ea8c5_Design%20sans%20titre%20(17).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>103.15 EUR</g:price>
+      <g:price>108.53 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4350,7 +4299,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692729d41b6738feb1329d05_Design%20sans%20titre%20(16).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>103.15 EUR</g:price>
+      <g:price>108.53 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4367,7 +4316,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6927295eaef898fd9384e357_Design%20sans%20titre%20(15).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>91.87 EUR</g:price>
+      <g:price>96.68 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4384,7 +4333,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69272877023ce9f8955146e2_Design%20sans%20titre%20(14).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>91.87 EUR</g:price>
+      <g:price>96.68 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4401,7 +4350,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692727e1f07e723e9be9bd69_Design%20sans%20titre%20(13).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>91.87 EUR</g:price>
+      <g:price>96.68 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4418,7 +4367,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6927275c2eb724bf9b736cac_Design%20sans%20titre%20(12).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>91.87 EUR</g:price>
+      <g:price>96.68 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4503,7 +4452,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6927264754c405f62aa32ef3_Design%20sans%20titre%20(11).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>93.48 EUR</g:price>
+      <g:price>98.66 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4520,7 +4469,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692725c045d74d5cedd27196_Design%20sans%20titre%20(10).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>93.48 EUR</g:price>
+      <g:price>98.66 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4537,7 +4486,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6927264754c405f62aa32ef3_Design%20sans%20titre%20(11).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>73.66 EUR</g:price>
+      <g:price>77.74 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4554,7 +4503,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692725c045d74d5cedd27196_Design%20sans%20titre%20(10).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>73.66 EUR</g:price>
+      <g:price>77.74 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4571,7 +4520,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692724118b80ce3fc3a43ddf_Design%20sans%20titre%20(9).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>240.16 EUR</g:price>
+      <g:price>252.58 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4588,7 +4537,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692724118b80ce3fc3a43ddf_Design%20sans%20titre%20(9).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>240.16 EUR</g:price>
+      <g:price>252.58 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4605,7 +4554,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/693938c5d3dab988dcd02013_Design%20sans%20titre%20(8).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>23.18 EUR</g:price>
+      <g:price>24.46 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4622,7 +4571,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69393840f860eab3f9b25591_Design%20sans%20titre%20(6).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>23.18 EUR</g:price>
+      <g:price>24.46 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4639,7 +4588,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6939375caeab3723ec76a6be_Design%20sans%20titre%20(5).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>23.18 EUR</g:price>
+      <g:price>24.46 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4656,7 +4605,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/693936a62ac6cf3bc71a3280_Design%20sans%20titre%20(4).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>23.09 EUR</g:price>
+      <g:price>24.46 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4673,7 +4622,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69393583f0d975ff2f642e5e_Design%20sans%20titre%20(3).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>23.18 EUR</g:price>
+      <g:price>24.46 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4690,7 +4639,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69393445203822a4250931a3_Design%20sans%20titre%20(2).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>23.18 EUR</g:price>
+      <g:price>24.46 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4707,7 +4656,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6924635a1ed512b9de9f1907_Design%20sans%20titre%20(4).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>220.28 EUR</g:price>
+      <g:price>232.06 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4741,7 +4690,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69247ddee63e9f3dada6ab2b_Design%20sans%20titre%20(5).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>162.25 EUR</g:price>
+      <g:price>170.89 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4758,7 +4707,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692708a7f002101b46e07d37_Design%20sans%20titre%20(8).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>166.01 EUR</g:price>
+      <g:price>174.84 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4775,7 +4724,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69280b94637c1d75288b46e0_Design%20sans%20titre%20(20).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>118.73 EUR</g:price>
+      <g:price>125.10 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4894,7 +4843,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6928313c359219e7effa6010_Design%20sans%20titre%20(26).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>64.69 EUR</g:price>
+      <g:price>68.28 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4911,7 +4860,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692831ea44e7f54603612448_Design%20sans%20titre%20(27).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>64.69 EUR</g:price>
+      <g:price>68.28 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4928,7 +4877,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6928313c359219e7effa6010_Design%20sans%20titre%20(26).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>64.46 EUR</g:price>
+      <g:price>67.87 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4945,7 +4894,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692831ea44e7f54603612448_Design%20sans%20titre%20(27).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>64.46 EUR</g:price>
+      <g:price>67.87 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4979,7 +4928,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692839ce6c2347512c215a7b_Design%20sans%20titre%20(28).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>46.74 EUR</g:price>
+      <g:price>49.33 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -4996,7 +4945,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69283a6dea39bc08decbe4e4_Design%20sans%20titre%20(29).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>46.74 EUR</g:price>
+      <g:price>49.33 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5013,7 +4962,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69283ecbe78f464f196eb73f_Design%20sans%20titre%20(30).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>41.12 EUR</g:price>
+      <g:price>43.40 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5030,7 +4979,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69283f2e18cb725912337541_Design%20sans%20titre%20(31).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>41.12 EUR</g:price>
+      <g:price>43.40 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5047,7 +4996,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69283f2e18cb725912337541_Design%20sans%20titre%20(31).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>27.40 EUR</g:price>
+      <g:price>28.79 EUR</g:price>
       <g:brand>AJAX</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5690,7 +5639,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6928313c359219e7effa6010_Design%20sans%20titre%20(26).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>64.46 EUR</g:price>
+      <g:price>67.87 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5720,7 +5669,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69247ddee63e9f3dada6ab2b_Design%20sans%20titre%20(5).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>162.25 EUR</g:price>
+      <g:price>170.89 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5780,7 +5729,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6924635a1ed512b9de9f1907_Design%20sans%20titre%20(4).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>220.28 EUR</g:price>
+      <g:price>232.06 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5795,7 +5744,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6928313c359219e7effa6010_Design%20sans%20titre%20(26).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>64.69 EUR</g:price>
+      <g:price>68.28 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5810,7 +5759,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69280b94637c1d75288b46e0_Design%20sans%20titre%20(20).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>118.73 EUR</g:price>
+      <g:price>125.10 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5825,7 +5774,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692708a7f002101b46e07d37_Design%20sans%20titre%20(8).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>166.01 EUR</g:price>
+      <g:price>174.84 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5840,7 +5789,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/699836f2e4d3ecdb7e2e5b06_685a60a844c3c948997bed2f_78.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>32.48 EUR</g:price>
+      <g:price>28.79 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5855,7 +5804,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69283ecbe78f464f196eb73f_Design%20sans%20titre%20(30).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>41.12 EUR</g:price>
+      <g:price>43.40 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5870,7 +5819,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692839ce6c2347512c215a7b_Design%20sans%20titre%20(28).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>46.74 EUR</g:price>
+      <g:price>49.33 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5885,7 +5834,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69150a76f04f9285a15af5e6_171.png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>54.59 EUR</g:price>
+      <g:price>57.62 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5900,7 +5849,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/691596da264a3c99f68e1d2a_Design%20sans%20titre%20(3).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>83.38 EUR</g:price>
+      <g:price>88.01 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5915,7 +5864,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/691596da264a3c99f68e1d2a_Design%20sans%20titre%20(3).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>91.61 EUR</g:price>
+      <g:price>96.68 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5930,7 +5879,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692809052fc9f046bdc9a637_Design%20sans%20titre%20(19).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>46.74 EUR</g:price>
+      <g:price>49.33 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5945,7 +5894,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692727e1f07e723e9be9bd69_Design%20sans%20titre%20(13).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>91.87 EUR</g:price>
+      <g:price>96.68 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5960,7 +5909,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6927264754c405f62aa32ef3_Design%20sans%20titre%20(11).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>73.66 EUR</g:price>
+      <g:price>77.74 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5975,7 +5924,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6927264754c405f62aa32ef3_Design%20sans%20titre%20(11).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>93.48 EUR</g:price>
+      <g:price>98.66 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
@@ -5990,7 +5939,7 @@
       <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/692724118b80ce3fc3a43ddf_Design%20sans%20titre%20(9).png</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>240.16 EUR</g:price>
+      <g:price>252.58 EUR</g:price>
       <g:brand>Ajax Systems</g:brand>
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
