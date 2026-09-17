@@ -4,7 +4,7 @@
     <title>Camprotect — Vidéosurveillance et alarmes</title>
     <link>https://www.camprotect.fr</link>
     <description>Spécialiste Ajax Systems, Hikvision et Dahua en France</description>
-    <lastBuildDate>Mon, 07 Sep 2026 18:47:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:25:07 GMT</lastBuildDate>
     
     <item>
       <g:id>6a69ad552c97338e5658ea54</g:id>
@@ -853,23 +853,6 @@
     </item>
 
     <item>
-      <g:id>6a21881d696f3df0d88d3774</g:id>
-      <g:title>Caméra Bullet Wi-Fi 2 MP Smart Dual Light Dissuasion Active</g:title>
-      <g:description>Bullet Wi-Fi Dahua 2 MP Full HD, Smart Dual Light 30 m, dissuasion active (sirène + lumière), détection humaine, audio bidirectionnel, IP67. Alimentation 12 V DC.</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-bullet-f2c-pv</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a218649cc604ee5d162d7c0_IPC-F2CP-PV-0280B.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>56.40 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>DH-F2C-PV</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>6a218559eb19a0d0360d7b15</g:id>
       <g:title>Caméra Bullet 4 MP DarkFighter 2.0 Varifocale Motorisée Dissuasion Active</g:title>
       <g:description>Bullet IP Hikvision 4 MP DarkFighter 2.0 F1.2, couleur 24h/24, varifocale motorisée 2,7–13,5 mm, Smart Hybrid Light 60 m, IA, dissuasion active, IP67/IK10.</g:description>
@@ -1567,23 +1550,6 @@
     </item>
 
     <item>
-      <g:id>6a00bac954c8fad9aad0daa3</g:id>
-      <g:title>Pack Alarme Ajax StarterKit Plus</g:title>
-      <g:description>Kit alarme Ajax StarterKit Plus noir : Hub Plus WiFi+2×SIM 3G/2G, PIR 12m, contact de porte, télécommande. Grade 2, 32 scénarios, autonomie 16h.</g:description>
-      <g:link>https://www.camprotect.fr/product/pack-alarme-ajax-starterkit-plus-noir</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6a07010a3ce9240b049edee7_Ajax%20StarterKit%20black.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>405.38 EUR</g:price>
-      <g:brand>AJAX</g:brand>
-      <g:google_product_category>1301</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>StarterKit Plus (Noir)</g:mpn>
-      <g:color>Noir</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>6a00b8a327eaa96d6620f6a7</g:id>
       <g:title>Pack Alarme Ajax StarterKit</g:title>
       <g:description>Kit alarme sans fil Ajax Grade 2 coloris noir : Hub 2G, PIR 12m, contact de porte, télécommande 4 boutons. Extensible 100 appareils, autonomie 15h.</g:description>
@@ -1804,39 +1770,6 @@
     </item>
 
     <item>
-      <g:id>69f5d2715e5817a02c32cba3</g:id>
-      <g:title>Enregistreur NVR 16 canaux PoE</g:title>
-      <g:description>NVR Hikvision Série K AcuSense 16 canaux PoE intégrés, IA embarquée (faciale + périmétrique), 2 baies HDD jusqu&apos;à 32 To, sortie 4K, format compact 1U.</g:description>
-      <g:link>https://www.camprotect.fr/product/enregistreur-nvr-16-canaux-ds-7616nxi-k2-16p-d</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f5d3e211db1be533beba80_DS-7616NXI-K2_16P(D).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>507.90 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>303621208</g:mpn>
-      <g:color>Noir</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69f5d031ad274265a80cc506</g:id>
-      <g:title>Enregistreur NVR 16 canaux</g:title>
-      <g:description>NVR 16 canaux AcuSeek Guanlan Large-Scale AI, 2 baies HDD 20 To, recherche langage naturel 27 langues, AcuSearch 300 000 cibles/jour.</g:description>
-      <g:link>https://www.camprotect.fr/product/enregistreur-nvr-16-canaux-ds-7616nxi-i2-vpro</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f5d168b5683749e103bbf8_DS-7616NXI-I2_VPro.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>494.40 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>303623222</g:mpn>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>69f5cf5876aa5f9511c471bb</g:id>
       <g:title>Enregistreur NVR 16 canaux</g:title>
       <g:description>NVR 16 canaux série I AcuSense, 2 baies HDD 16 To, IA ANPR, POS, reconnaissance faciale 50 000 visages, 8 haut-parleurs IP, format 1U.</g:description>
@@ -1917,102 +1850,6 @@
     </item>
 
     <item>
-      <g:id>69f326ec70c156883f239f94</g:id>
-      <g:title>Enregistreur NVR 8 canaux PoE</g:title>
-      <g:description>NVR Dahua Lite 8 canaux avec 8 ports PoE intégrés (budget 72 W), 1 baie HDD jusqu&apos;à 20 To, SMD Plus 4ch, résolution max. 12 MP.</g:description>
-      <g:link>https://www.camprotect.fr/product/enregistreur-nvr-8-canaux-dhi-nvr2108-8p-4ks3</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f3278825012f00f9adf133_NVR2108-8P-4KS3.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>129.54 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>NVR2108-8P-4KS3</g:mpn>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69f3241ea10af25143ba2c58</g:id>
-      <g:title>Enregistreur NVR 8 canaux</g:title>
-      <g:description>NVR Dahua Lite 8 canaux, 1 baie HDD jusqu&apos;à 20 To, SMD Plus 4ch, résolution 12 MP, compression Smart H.265+. Sans PoE intégré.</g:description>
-      <g:link>https://www.camprotect.fr/product/enregistreur-nvr-8-canaux-dhi-nvr2108-4ks3</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f32754e9a663476e1881d9_NVR2108-4KS3.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>70.79 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>NVR2108-4KS3</g:mpn>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69f31ebd67848c30764a3ba2</g:id>
-      <g:title>Enregistreur NVR 4 canaux</g:title>
-      <g:description>NVR 4 canaux Dahua Lite ultra-compact (204 mm / 0,45 kg) sans PoE. SMD Plus 4 canaux, HDMI 4K, 12 MP max, alimentation 12 VDC.</g:description>
-      <g:link>https://www.camprotect.fr/product/enregistreur-nvr-4-canaux-dhi-nvr2104-4ks3</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f31fd91fd24137c6d57f17_DHI-NVR2104-4KS3.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>104.39 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>NVR2104-4KS3</g:mpn>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69f31b1bdd469ff182a7b390</g:id>
-      <g:title>Enregistreur NVR 16 canaux PoE</g:title>
-      <g:description>NVR 16 canaux Dahua WizSense avec 8 ports PoE (78 W), détection faciale, SMD Plus, Quick Pick et sortie HDMI 4K. Format ultra-compact 270 mm.</g:description>
-      <g:link>https://www.camprotect.fr/product/enregistreur-nvr-16-canaux-dhi-nvr4116-8p-ei</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f31f6d7876244b867cd34f_NVR4116-8P-EI.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>183.59 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>DHI-NVR4116-8P-EI</g:mpn>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69f30f70efaa40597f487d30</g:id>
-      <g:title>Enregistreur NVR 32 canaux</g:title>
-      <g:description>NVR 32 canaux Dahua WizMind sans PoE intégré, IA Xinghan, WizSeek, AcuPick, reconnaissance faciale et sortie HDMI 8K. Alimentation 12 VDC.</g:description>
-      <g:link>https://www.camprotect.fr/product/enregistreur-nvr-32-canaux-dhi-nvr5232-xi-pro</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f319186dd33e96e37e75cc_NVR5232-XI_Pro.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>1033.19 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>DHI-NVR5232-XI/Pro</g:mpn>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69f30c9b6be703688df1d196</g:id>
-      <g:title>Enregistreur NVR 16 canaux PoE</g:title>
-      <g:description>NVR 16 canaux Dahua WizMind avec 16 ports PoE ePoE (200 W), AcuPick 16 canaux, SMD Plus, reconnaissance faciale et sortie HDMI 4K.</g:description>
-      <g:link>https://www.camprotect.fr/product/enregistreur-nvr-16-canaux-dhi-nvr5216-16p-xi</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69f318c0c2647488539a1f63_NVR5216-16P-XI.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>1008.00 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>DHI-NVR5216-16P-XI</g:mpn>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>69f3078d360744340c39575d</g:id>
       <g:title>Enregistreur NVR 8 canaux PoE</g:title>
       <g:description>NVR 8 canaux Dahua WizMind avec 8 ports PoE ePoE (130 W), IA Xinghan, WizSeek, AcuPick, reconnaissance faciale et sortie HDMI 8K.</g:description>
@@ -2077,23 +1914,6 @@
     </item>
 
     <item>
-      <g:id>69ef78543441e25452cdbf54</g:id>
-      <g:title>Caméra Bullet 8MP IR Varifocal WizMind S</g:title>
-      <g:description>Caméra bullet Dahua 8MP 4K WizMind S varifocal 2.7–12mm — AcuPick, Face Detection, People Counting, AI-ISP Deeplight, IR 60m, ePoE, IK10/IP67.</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-bullet-ipc-hfw5842e-ze</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69ef7da78a2f218fa4cfb7b9_IPC-HFW5842E-ZE.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>385.32 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>IPC-HFW5842E-ZE</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>69ef75b036cf24577955e290</g:id>
       <g:title>Caméra Bullet Full-color 5MP WizSense 3</g:title>
       <g:description>Caméra bullet Dahua 5MP Full-color WizSense 3 — lumière chaude 30m, F1.0, SMD Plus humain/véhicule, Smart H.265+, micro intégré, IP67, PoE.</g:description>
@@ -2140,23 +1960,6 @@
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>IPC-HFW2441S-S</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69ef658aeec25d6c0019f2ee</g:id>
-      <g:title>Caméra Bullet</g:title>
-      <g:description>Bullet 4MP Hikvision EasyIP Pro avec AcuSense G2, strobe actif blanc ou rouge-bleu, varifocale motorisée 2.8–12 mm et double micro réseau.</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-bullet-ds-2cd2646g2h-izs2u-sl</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69ef6f1d7ba6bcf43f183501_DS-2CD2646G2H-IZS2U_S(L).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>242.15 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>311331187</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -2213,23 +2016,6 @@
     </item>
 
     <item>
-      <g:id>69ef3640afb847279468debd</g:id>
-      <g:title>Caméra Bullet 4MP AcuSense DarkFighter Varifocale</g:title>
-      <g:description>Caméra bullet 4 MP DarkFighter AcuSense G2, varifocale motorisée 2,7–13,5 mm, IR 60 m, Face Capture, alarme+audio, microSD 256 Go, IP66/IK10, PoE+.</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-bullet-ds-2cd3646g2-izs</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69ef3b49d587341a31978cc6_DS-2CD3646G2-IZS.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>313.49 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>311323485</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>69ef0f9163ffa370e308b3fb</g:id>
       <g:title>Caméra Thermique Bi-Spectre</g:title>
       <g:description>Caméra bullet bi-spectre Hikvision — thermique 256×192 (NETD&amp;lt;40mK) + optique 4MP — détection incendie 43m, VCA humain/véhicule, alarme audio+visuelle, IP67/IK10, PoE 802.3af.</g:description>
@@ -2247,23 +2033,6 @@
     </item>
 
     <item>
-      <g:id>69eb6ac22e221bd91e22d29c</g:id>
-      <g:title>Caméra PTZ TandemVu Panoramique</g:title>
-      <g:description>PTZ TandemVu 4+4MP 25× – bullet F1.0 lumière blanche 30m + PTZ IR 200m – AEB sirène+strobe – Face Capture – Hi-PoE/24VAC – IP66/IK10</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-ptz-ds-2se7c425mw-aeb-14f1-p3</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69eb720ae5f6a072bd327f15_DS-2SE7C425MW-AEB(14F1)(P3).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>16.22 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>327000605</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>69eb699842477dbf21c705f4</g:id>
       <g:title>Caméra PTZ 4G Batterie Solaire</g:title>
       <g:description>PTZ 4MP 25× 4G LTE – batterie lithium 360 Wh + panneau solaire – IR 150 m – Smart Events – eMMC 256 Go + microSD 512 Go – IP66</g:description>
@@ -2276,23 +2045,6 @@
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>327001202</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69eb680c135ba6840200790e</g:id>
-      <g:title>Caméra Dôme Panoramique 180° PanoVu</g:title>
-      <g:description>Dôme panoramique 180° PanoVu 16 MP – 4 capteurs DarkFighter 1/1.8&quot; – heater -40°C – fibre optique FC – micro + speaker – IP67/IK10</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-dome-panoramique-ds-2cd6944g0-ihs-nfc</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69eb70cf4bdf3be2ed4f522d_DS-2CD6944G0-IHS(_NFC).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>20.63 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>311320543</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -2327,23 +2079,6 @@
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>311324987</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69eb25d3d79cbfb06427184e</g:id>
-      <g:title>Caméra Fisheye</g:title>
-      <g:description>Fisheye IP 6MP DeepinView – Heatmap + People Counting – 4 micros + HP – IR 15m</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-fisheye-ds-2cd6365g1-ivs</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69eb257104133713fa5953a9_DS-2CD6365G1-IVS.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>656.36 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>311324116</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -2434,23 +2169,6 @@
     </item>
 
     <item>
-      <g:id>69e5ff7aa8f6813a9fddf56e</g:id>
-      <g:title>Caméra Dôme</g:title>
-      <g:description>Dôme IP 2MP AcuSense – Varifocal 2.8-12mm motorisé – IR 40m – WDR 120dB</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-dome-ds-2cd2723g2-izs</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69e60bd7f142946f4c00bf9a_DS-2CD2723G2-IZS.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>214.90 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>311319868</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>69e5e9512cd8251e8f5bdcbc</g:id>
       <g:title>Caméra Dome</g:title>
       <g:description>Caméra dôme IP 8 MP Hikvision DS-2CD2187G2H-LISU — Smart Hybrid Light ColorVu, AcuSense 2.0, vision nocturne couleur 30 m, WDR 130 dB, micro intégré, IP67/IK10, PoE</g:description>
@@ -2463,23 +2181,6 @@
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>311323917</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69e5e7dd2bd546e5d12dba5c</g:id>
-      <g:title>Caméra Dome</g:title>
-      <g:description>Caméra dôme IP 4 MP Hikvision DS-2CD3747G2T-LZSU — ColorVu 24/7 couleur, objectif motorisé varifocal 2,8-12 mm, AcuSense, 40 m lumière blanche, WDR 130 dB, IP67/IK10</g:description>
-      <g:link>https://www.camprotect.fr/product/camera-dome-ds-2cd3747g2t-lzsu</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69e5f15c2b400862214669f1_DS-2CD3747G2T-LZSU.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>419.87 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>311315155</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -2854,40 +2555,6 @@
       <g:google_product_category>2935</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>134499.122.BL1</g:mpn>
-      <g:color>Noir</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69ccec3312464966b287c3a0</g:id>
-      <g:title>Enregistreur NVR DC Ajax 16 canaux Blanc</g:title>
-      <g:description>Enregistreur vidéo réseau Ajax NVR DC 16 canaux – 4K, alimentation basse tension PSU 9–16V, 1 HDD jusqu&apos;à 16 To, intégration native caméras Ajax et ONVIF</g:description>
-      <g:link>https://www.camprotect.fr/product/enregistreur-nvr-dc-ajax-16-canaux-blanc</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69ccd8c7cbddd77eae49377c_NVR%20Ajax%20blanc.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>358.67 EUR</g:price>
-      <g:brand>AJAX</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>127058.122.WH</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>69ccebcd32852297cfd77a81</g:id>
-      <g:title>Enregistreur NVR DC Ajax 16 canaux Noir</g:title>
-      <g:description>Enregistreur vidéo réseau Ajax NVR DC 16 canaux – 4K, alimentation basse tension PSU 9–16V, 1 HDD jusqu&apos;à 16 To, intégration native caméras Ajax et ONVIF</g:description>
-      <g:link>https://www.camprotect.fr/product/enregistreur-nvr-dc-ajax-16-canaux-noir</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/69ccd4ed737bd56e31d2c861_NVR%20Ajax%20noir.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>358.67 EUR</g:price>
-      <g:brand>AJAX</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>127057.122.BL</g:mpn>
       <g:color>Noir</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -3554,22 +3221,6 @@
     </item>
 
     <item>
-      <g:id>68c13a5c299fb9598580056c</g:id>
-      <g:title>Enregistreur DVR 32 canaux</g:title>
-      <g:description>DVR Dahua 32 canaux XVR5432L-I3 – IA WizSense, 4 disques durs, HDCVI/TVI/AHD/IP</g:description>
-      <g:link>https://www.camprotect.fr/product/enregistreur-dvr-32-canaux-xvr5432l-i3</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/68c0434773f3ce30abe113af_DHI-NVR5216-EI%20(4).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>485.99 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>DH-XVR5432L-I3</g:mpn>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>68c137949753f70c214e68e2</g:id>
       <g:title>Enregistreur DVR 16 canaux</g:title>
       <g:description>DVR Dahua 16 analogiques + 16 IP – IA WizSense, HDMI 4K, QuickPick, SMD+, 1 HDD</g:description>
@@ -3698,22 +3349,6 @@
     </item>
 
     <item>
-      <g:id>68bede94708b5897cef89daf</g:id>
-      <g:title>Enregistreur NVR 4 canaux</g:title>
-      <g:description>Enregistreur NVR 4 canaux Non PoE avec SSD 960 Go – Dahua DHI-NVR4104HS-4KS3(960GB) – SMD+, IA Caméra</g:description>
-      <g:link>https://www.camprotect.fr/product/enregistreur-nvr-4-canaux-dhi-nvr4104hs-4ks3-960gb</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/68bedacfc7a9df2dcbc3d5ae_Design%20sans%20titre%20(25).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>158.78 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>NVR4104HS-4KS3</g:mpn>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>68bdb7a40b62ce4023278ca6</g:id>
       <g:title>Support d&apos;angle</g:title>
       <g:description>Support poteau Dahua PFA156 – Aluminium, pour caméras jusqu’à 5 kg, compatible avec fixations murales</g:description>
@@ -3760,23 +3395,6 @@
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>PFA197R</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>68bdaef0a972e47133fa0ab4</g:id>
-      <g:title>Support mural</g:title>
-      <g:description>Support mural Dahua PFB205W-E – Aluminium robuste, charge 2 kg, installation extérieure sécurisée</g:description>
-      <g:link>https://www.camprotect.fr/product/support-mural-pfb205we</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/68bdadfbbdd33abdc3a8227a_Design%20sans%20titre%20(8).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>9.52 EUR</g:price>
-      <g:brand>DAHUA</g:brand>
-      <g:google_product_category>222</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>PFB205W-E</g:mpn>
       <g:color>Blanc</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -3968,23 +3586,6 @@
     </item>
 
     <item>
-      <g:id>687d402f655908a58fca218d</g:id>
-      <g:title>Point d’accès Wi-Fi</g:title>
-      <g:description>Point d’accès Wi-Fi professionnel Ubiquiti UniFi UAP-AC-Pro</g:description>
-      <g:link>https://www.camprotect.fr/product/point-dacces-wi-fi</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/688223b41e8b306ca3e1bb62_13.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>177.20 EUR</g:price>
-      <g:brand>UBIQUITI</g:brand>
-      <g:google_product_category>222</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>APACPRO</g:mpn>
-      <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>687d3cfe68d765a251fba1f0</g:id>
       <g:title>Pont-Antenne Wi-Fi 5 GHz longue portée</g:title>
       <g:description> NanoBeam 5AC Gen 2 de Ubiquiti - pont Wi-Fi longue distance 5 Ghz</g:description>
@@ -4114,22 +3715,6 @@
     </item>
 
     <item>
-      <g:id>687cd8f5860dd9db7eac0cdf</g:id>
-      <g:title>Connecteur BNC mâle à sertir lot de 30 pcs</g:title>
-      <g:description>Connecteur BNC mâle à sertir pour cable KX6 </g:description>
-      <g:link>https://www.camprotect.fr/product/connecteur-bnc-male-a-sertir-lot-de-30-pcs</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/68821fd60f7e1d664655b796_4.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>23.40 EUR</g:price>
-      <g:brand>ELBAC</g:brand>
-      <g:google_product_category>222</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>970205-K03</g:mpn>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>687cd34a055b7fd30becf10c</g:id>
       <g:title>Connecteur DC mâle 5.5/2.1 mm  lot de 30 Pcs</g:title>
       <g:description>Connecteur DC mâle 5.5/2.1 mm  lot de 30 Pcs — camprotect.fr</g:description>
@@ -4142,23 +3727,6 @@
       <g:google_product_category>222</g:google_product_category>
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>960101-K03</g:mpn>
-      <g:color>Noir</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>687bebbfd02342b23dff3d4e</g:id>
-      <g:title>câble d’alimentation secteur 220 V</g:title>
-      <g:description>câble d’alimentation secteur 220 V – 2 broches vers C7 </g:description>
-      <g:link>https://www.camprotect.fr/product/cable-dalimentation-secteur-220-v</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/6882204590ad07f487bc9efb_15.png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>4.90 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>222</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>101500003</g:mpn>
       <g:color>Noir</g:color>
       <g:adult>false</g:adult>
     </item>
@@ -5586,22 +5154,6 @@
     </item>
 
     <item>
-      <g:id>67af05d942aa17b59f5650a3</g:id>
-      <g:title>Switch PoE Gigabit 8 ports</g:title>
-      <g:description>Switch PoE Gigabit 10 ports Hikvision DS-3E0510HP-E</g:description>
-      <g:link>https://www.camprotect.fr/product/switch-poe-gigabit-10-ports-hikvision-ds-3e0510hp-e</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/67af04a466a1b80fc620b411_1064429996_lg.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>134.26 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>222</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>301801513</g:mpn>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
       <g:id>67af031066a1b80fc61ef9bd</g:id>
       <g:title>Switch PoE Gigabit 4 ports</g:title>
       <g:description>Switch PoE Gigabit 5 ports Hikvision DS-3E0505HP-E</g:description>
@@ -5733,22 +5285,6 @@
       <g:identifier_exists>false</g:identifier_exists>
       <g:mpn>302700579</g:mpn>
       <g:color>Blanc</g:color>
-      <g:adult>false</g:adult>
-    </item>
-
-    <item>
-      <g:id>67ade05674ba1f0de2e741c3</g:id>
-      <g:title>Enregistreur DVR 16 canaux</g:title>
-      <g:description>Enregistreur DVR 16 canaux Hikvision iDS-7216HQHI-M2/XT</g:description>
-      <g:link>https://www.camprotect.fr/product/enregistreur-dvr-16-canaux-ids-7216hqhi-m2-xt</g:link>
-      <g:image_link>https://cdn.prod.website-files.com/66e1f58c28ec496d75b4313b/67adda5c8beb88e32df86456_Design%20sans%20titre%20(44).png</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>205.94 EUR</g:price>
-      <g:brand>HIKVISION</g:brand>
-      <g:google_product_category>2935</g:google_product_category>
-      <g:identifier_exists>false</g:identifier_exists>
-      <g:mpn>300229171</g:mpn>
       <g:adult>false</g:adult>
     </item>
 
